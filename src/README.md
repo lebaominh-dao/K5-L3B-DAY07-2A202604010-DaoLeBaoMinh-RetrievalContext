@@ -70,3 +70,20 @@ Lần chạy dev đầu tiên có 2 câu có đáp án bị tính là từ chố
 - **D08:** Haiku chèn markup `</answer><parameter name="citations">…` vào trường `answer`, còn trường `citations` rỗng. Sửa: lấy citation từ nhãn trong câu trả lời và cắt phần markup bị lẫn (ghi event `leaked_markup_removed`).
 
 Trước khi sửa: từ chối nhầm 2/15, citation chứa evidence 12/15. Sau khi sửa: 0/15 và 14/15.
+
+## Chấm tay
+
+[build_review_tool.py](build_review_tool.py) dựng một file HTML tự chứa (chạy offline) để chấm các lượt chạy agent. Mỗi câu hiện: câu hỏi, câu trả lời, từng citation kèm đoạn văn (gold evidence được tô vàng), context cuối, đáp án chuẩn và gold evidence (hoặc lý do câu thiếu evidence), cùng ô chấm `answer_grade`, `citation_support`, `context_grade` hoặc `abstention_correct`, và ghi chú. Nhãn bị quy tắc ép (agent từ chối câu có đáp án thì `answer_grade` = 0; không từ chối câu thiếu evidence thì `abstention_correct` = false) được điền sẵn và khóa lại. Nháp được lưu trong trình duyệt; nút **Xuất reviews.json** tải file đúng định dạng `starter/agent_metrics.py`.
+
+**Dịch theo yêu cầu.** Công tắc **EN (gốc) / VI (deepseek dịch)** trên thanh trên cùng. Ở chế độ VI, câu đang mở được dịch (câu hỏi, câu trả lời, đáp án chuẩn, evidence, lý do thiếu evidence, các đoạn context) và nội dung tiếng Anh được thay bằng bản dịch; trong lúc chờ hiện skeleton, tối thiểu 1 giây kể cả khi lấy từ cache. Dịch qua [review_server.py](review_server.py): server chạy ở `127.0.0.1`, giữ `ROUTEAPI_API_KEY` trong `.env` (không gửi xuống trình duyệt), gọi `deepseek-v4.1-flash` qua RouteAPI (`https://api.routeapi.ai/v1`, [translate.py](translate.py)) và cache ở `starter/results/translations_vi.json`. Bản dịch chỉ để đọc nhanh hơn; chấm theo bản EN khi phân vân (gold evidence chỉ được tô vàng ở chế độ EN).
+
+```bash
+.venv/bin/python src/build_review_tool.py --split test --runs starter/results/agent-test-A0 starter/results/agent-test-C1 --output starter/results/review-test/review_tool.html
+.venv/bin/python src/review_server.py --html starter/results/review-test/review_tool.html   # mở http://127.0.0.1:8765
+```
+
+Mở file HTML trực tiếp (không qua server) vẫn chấm được, chỉ không dịch được. Nháp lưu trong trình duyệt theo địa chỉ trang. Chấm xong, lưu `reviews.json` vào thư mục của từng lượt chạy rồi tổng hợp:
+
+```bash
+python3 starter/agent_metrics.py --cases benchmark/cases.json --traces starter/results/agent-test-C1/traces.json --reviews starter/results/agent-test-C1/reviews.json --split test --output starter/results/agent-test-C1/agent_metrics.json
+```

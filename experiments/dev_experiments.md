@@ -107,3 +107,46 @@ Mọi cấu hình qua ràng buộc. Chỉ C1 hơn A0 quá ngưỡng 1,5 (56,0 so
 ```
 
 Chốt ngày 2026-11-16, trước khi chạy bất kỳ câu test nào. Sau khi chạy test, không đổi cấu hình dựa trên kết quả test.
+
+## Kết quả test (chạy một lần sau khi chốt, 2026-11-16)
+
+Test: 5 câu có đáp án (T16–T20), 3 câu thiếu evidence (TA1–TA3). Mỗi cấu hình chạy một lần; không đổi cấu hình sau khi xem kết quả.
+
+| Config | Tool use | Context evidence | Citation chứa evidence | Từ chối đúng | Từ chối nhầm | Lỗi | Search/câu (phân bố) | Trung vị s | Token vào/ra | $ (8 câu) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| A0 baseline | 8/8 | 5/5 | 5/5 | 3/3 | 0/5 | 0 | 1: 4, 2: 3, 4: 1 | 5,03 | 34.551 / 2.769 | 0,0048 |
+| C1 chọn | 8/8 | 5/5 | 5/5 | 3/3 | 0/5 | 0 | 1: 2, 2: 4, 3: 1, 4: 1 | 5,29 | 43.377 / 2.889 | 0,0058 |
+
+Retrieval trên test (top-3, cùng định nghĩa hit với dev): dense 4/5 Hit@1, 5/5 Evidence Hit@3; BM25 5/5, 5/5; TF-IDF 4/5, 4/5 (trượt T19); hybrid 5/5, 5/5. Chi tiết: `starter/results/retrieval-test/comparison.md`.
+
+**Nhận xét:** test chạm trần: cả A0 và C1 đạt tối đa mọi metric tự động, nên test không phân biệt được hai cấu hình. Điều này nhất quán với Day 6 (5/5 câu test đã đạt Evidence Hit@3 ở top-3) và với cơ chế ở dev (C1 chỉ giúp khi evidence nằm ở hạng 4–5, điều không xảy ra ở 5 câu test). Trên test, C1 tốn thêm 26% token vào và 19% chi phí mà không có lợi ích đo được. Với 5 câu, mỗi câu là 20 điểm phần trăm; kết luận chọn C1 dựa vào dev (cơ chế được xác nhận ở D09 và D17), test chỉ xác nhận C1 không làm xấu hơn.
+
+Chấm tay (bắt buộc theo BENCHMARK.md, ít nhất 5 câu có đáp án + 2 câu thiếu evidence): khung nhãn ở `starter/results/agent-test-{A0,C1}/reviews_template.json`; tổng hợp bằng `starter/agent_metrics.py` sau khi chấm.
+
+## Chấm tay test (người chấm: tác giả, 2026-11-16)
+
+Chấm toàn bộ 8 câu test cho cả A0 và C1 bằng `src/build_review_tool.py` (bản dịch tiếng Việt deepseek-v4.1-flash chỉ để đọc; chấm theo bản gốc). Nhãn: `starter/results/agent-test-{A0,C1}/reviews.json`; tổng hợp bằng `starter/agent_metrics.py`: `agent_metrics.json` cùng thư mục.
+
+| Config | Điểm câu trả lời 0/1/2 | TB /2 | Điểm context 0/1/2 | Citation hỗ trợ | Câu trả lời có citation | Từ chối đúng | Từ chối nhầm | Lỗi |
+|---|---|---|---|---|---|---|---|---|
+| A0 | 0 / 0 / 5 | 2.0 | 0 / 0 / 5 | 8/9 | 5/5 | 3/3 | 0/5 | 0 |
+| C1 | 0 / 2 / 3 | 1.6 | 0 / 0 / 5 | 7/7 | 5/5 | 3/3 | 0/5 | 0 |
+
+Ghi chú của người chấm (nguyên văn) cho các câu không đạt tối đa:
+
+- **A0 T19** (citation p274:c003: Không hỗ trợ): “Có giải thích bối cảnh cho những người tham gia xem các đoạn phim, các từ khoá câu hỏi, giải thích nếu nghe "smashed" thì ước lượng về tốc độ gấp đôi và nhớ nhầm, kèm dẫn chứng không có mảnh vỡ nào trong đoạn phim. Trích dẫn p274:c003 không liên quan đến câu trả lời; câu trả lời của agent chỉ đơn giản là sử dụng kết quả nghiên cứu xã hội về đoạn phim tai nạn ô tô để ra kết luận, không giải thích về hiệu ứng thông tin sai lệch.”
+- **C1 T17** (answer_grade 1): “đúng ý là "trí nhớ sợ hãi phai nhạt dần" nhưng không nói điều đó thay đổi hành vi của chuột như thế nào”
+- **C1 T20** (answer_grade 1): “agent không giải thích bối cảnh cú sốc điện được tạo ra (khi con chó lại gần mép sân)”
+
+Ghi chú khác của người chấm:
+
+- A0 T16: “đủ ý: chạm vào chuột, đập búa tạo âm thanh lớn, lặp đi lặp lại việc ghép cặp”
+- A0 T18: “chọn đúng cách truy xuất thông tin recognition và định nghĩa.”
+- A0 T20: “trả lời đủ ý, giải thích kỹ. nói thừa phần "làm thế nào để phản ứng yếu đi". không sai, chỉ là thừa.”
+- A0 TA1: “từ chối trả lời, không giải thích blocking là gì, chỉ tóm tắt ngữ cảnh mà agent nhận được”
+- A0 TA2: “Từ chối trả lời đúng, nhận định không đủ dữ kiện từ tài liệu được cung cấp, không bịa từ trí nhớ.”
+- A0 TA3: “TỪ chối trả lời đúng và nhận định tài liệu ko đề cập đến chứng quên thời thơ ấu.”
+- C1 T18: “trả lời đúng recognition, có giải thích định nghĩa”
+- C1 TA1: “tốt”
+- C1 TA2: “tốt”
+- C1 TA3: “tốt”
