@@ -1,0 +1,2 @@
+# Export Day 6 pgvector store (src/day6_export.py)
+psycopg[binary]==3.3.8
