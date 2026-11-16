@@ -152,6 +152,76 @@
     }
   },
   {
+    "id": "D16",
+    "split": "dev",
+    "question": "Under which reward schedule do people typically take a long break right after being rewarded, so that their responding rises and falls in a wave-like pattern?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "question": "Why can giving in to a child's tantrum even a single time make the tantrums so hard to stop?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D18",
+    "split": "dev",
+    "question": "Which part of the brain showed extra activity on PET scans when people processed what words mean rather than how they look?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D19",
+    "split": "dev",
+    "question": "Why would tying a new phone number's area code to a relative who lives in the same state help you remember the number?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D20",
+    "split": "dev",
+    "question": "What did the psychologist forget after rushing out of the courthouse to pick up her sick daughter?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D21",
+    "split": "dev",
+    "question": "In the memory model that compares the mind to a computer, what stages must information pass through before it becomes a permanent record?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D22",
+    "split": "dev",
+    "question": "What physical change in the brain does regularly getting your heart rate up produce that is good for memory?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D23",
+    "split": "dev",
+    "question": "Why do our minds form associations between events in the first place, according to the introduction to learning?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D24",
+    "split": "dev",
+    "question": "What is the fastest way to train an animal to do something new, according to the discussion of reward schedules?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D25",
+    "split": "dev",
+    "question": "What can baby sea turtles do at birth that humans cannot?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
     "id": "DA1",
     "split": "dev",
     "question": "In what year did Ivan Pavlov receive the Nobel Prize, and for which research?",
@@ -190,6 +260,27 @@
     "id": "TA3",
     "split": "test",
     "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "DA4",
+    "split": "dev",
+    "question": "Do older adults make more misattribution memory errors than younger adults?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "DA5",
+    "split": "dev",
+    "question": "According to Ebbinghaus's forgetting curve, what percentage of memorized information is lost after one week?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "DA6",
+    "split": "dev",
+    "question": "What term did Tulving use for the self-aware feeling of mentally travelling back in time when recalling an episodic memory?",
     "answerable": false,
     "expected_behavior": "search_and_abstain"
   }

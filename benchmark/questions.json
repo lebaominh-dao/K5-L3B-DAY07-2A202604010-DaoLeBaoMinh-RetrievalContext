@@ -311,5 +311,155 @@
       "chapter": 6
     },
     "type": "filter"
+  },
+  {
+    "id": "D16",
+    "split": "dev",
+    "question": "Under which reward schedule do people typically take a long break right after being rewarded, so that their responding rises and falls in a wave-like pattern?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 212,
+        "evidence": "The fixed interval schedule yields a scallop-shaped response pattern, reflecting a significant pause after reinforcement"
+      }
+    ],
+    "expected_answer": "The fixed interval schedule: it yields a scallop-shaped response pattern with a significant pause after reinforcement.",
+    "type": "paraphrase",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "question": "Why can giving in to a child's tantrum even a single time make the tantrums so hard to stop?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 212,
+        "evidence": "The occasional reward makes it almost impossible to stop the behavior."
+      }
+    ],
+    "expected_answer": "Because occasional reinforcement works like a variable-ratio schedule, which keeps behavior very persistent; the occasional reward makes it almost impossible to stop the behavior.",
+    "type": "condition_or_exception",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D18",
+    "split": "dev",
+    "question": "Which part of the brain showed extra activity on PET scans when people processed what words mean rather than how they look?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 269,
+        "evidence": "there was much more activation in the left inferior prefrontal cortex in the semantic task"
+      }
+    ],
+    "expected_answer": "The left inferior prefrontal cortex was much more active in the semantic task (Kapur et al., 1994).",
+    "type": "specific_detail",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D19",
+    "split": "dev",
+    "question": "Why would tying a new phone number's area code to a relative who lives in the same state help you remember the number?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 263,
+        "evidence": "elaborative rehearsal is the act of linking new information you are trying to learn to existing information that you already know"
+      }
+    ],
+    "expected_answer": "Because this is elaborative rehearsal: linking new information to information you already know makes it easier to remember.",
+    "type": "why_explanation",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D20",
+    "split": "dev",
+    "question": "What did the psychologist forget after rushing out of the courthouse to pick up her sick daughter?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 278,
+        "evidence": "I could not remember if I had handed back my identification or if I had left it sitting out on a table."
+      }
+    ],
+    "expected_answer": "She could not remember whether she had handed back her temporary identification card or left it on a table, an example of absentmindedness.",
+    "type": "paraphrase",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D21",
+    "split": "dev",
+    "question": "In the memory model that compares the mind to a computer, what stages must information pass through before it becomes a permanent record?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 262,
+        "evidence": "it has to pass through three distinct stages: Sensory Memory, Short-Term Memory, and finally Long-Term Memory"
+      }
+    ],
+    "expected_answer": "In the Atkinson-Shiffrin model, information must pass through sensory memory, then short-term memory, and finally long-term memory.",
+    "type": "condition_or_exception",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D22",
+    "split": "dev",
+    "question": "What physical change in the brain does regularly getting your heart rate up produce that is good for memory?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 284,
+        "evidence": "Aerobic exercise promotes neurogenesis: the growth of new brain cells in the hippocampus"
+      }
+    ],
+    "expected_answer": "Aerobic exercise promotes neurogenesis, the growth of new brain cells in the hippocampus.",
+    "type": "specific_detail",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D23",
+    "split": "dev",
+    "question": "Why do our minds form associations between events in the first place, according to the introduction to learning?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 194,
+        "evidence": "Our minds have a natural tendency to connect events that occur closely together or in sequence."
+      }
+    ],
+    "expected_answer": "Because our minds have a natural tendency to connect events that occur closely together or in sequence.",
+    "type": "why_explanation",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D24",
+    "split": "dev",
+    "question": "What is the fastest way to train an animal to do something new, according to the discussion of reward schedules?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 210,
+        "evidence": "This reinforcement schedule is the quickest way to teach someone a behavior, and it is especially effective in training a new behavior."
+      }
+    ],
+    "expected_answer": "Continuous reinforcement, rewarding the behavior every time it occurs, is the quickest way to teach a behavior and especially effective for a new one.",
+    "type": "paraphrase",
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "D25",
+    "split": "dev",
+    "question": "What can baby sea turtles do at birth that humans cannot?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 193,
+        "evidence": "Unlike baby sea turtles, which know how to find the ocean and swim with no help from their parents, we are not born knowing how to swim (or surf)."
+      }
+    ],
+    "expected_answer": "Baby sea turtles know how to find the ocean and swim without help from their parents, whereas humans are not born knowing how to swim.",
+    "type": "condition_or_exception",
+    "added_in": "dev_extension_round2"
   }
 ]

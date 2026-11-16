@@ -4,9 +4,11 @@ Corpus: OpenStax *Psychology 2e*, chương 6 (Learning, tr. 193–218) và chư�
 
 | Loại câu | Dev | Test | File |
 |---|---:|---:|---|
-| Có đáp án | 15 (D01–D15) | 5 (T16–T20) | `questions.json` |
-| Thiếu bằng chứng | 3 (DA1–DA3) | 3 (TA1–TA3) | `abstain_cases.json` |
-| **Tổng** | **18** | **8** | `cases.json` (26 câu) |
+| Có đáp án | 25 (D01–D25) | 5 (T16–T20) | `questions.json` |
+| Thiếu bằng chứng | 6 (DA1–DA6) | 3 (TA1–TA3) | `abstain_cases.json` |
+| **Tổng** | **31** | **8** | `cases.json` (39 câu) |
+
+D16–D25 và DA4–DA6 được thêm vào dev ở vòng thử nghiệm thứ 2 (xem [Mở rộng dev](#mở-rộng-dev-vòng-2)); test không đổi.
 
 ## Câu có đáp án
 
@@ -20,6 +22,17 @@ Mỗi câu gần chủ đề của corpus và có `absence_reason`. Một số c
 - **TA1** (blocking của Kamin): chữ "blocking" có trong chương 8 nhưng mang nghĩa khác (quên kiểu "đầu lưỡi"), nên lexical retrieval dễ trả về sai khái niệm.
 
 Cách kiểm tra: tìm mọi từ khóa trong `absence_check.terms` (không phân biệt hoa thường) trên toàn bộ 256 chunk và trên text từng trang PDF của 52 trang corpus; không có kết quả nào. `near_topic_terms` phải xuất hiện ít nhất một lần để chứng tỏ câu hỏi gần chủ đề. `src/build_benchmark.py` chạy lại phần kiểm tra trên chunk.
+
+## Mở rộng dev (vòng 2)
+
+Vòng thử nghiệm 1 trên 15 câu dev gần chạm trần (mọi cấu hình đạt 14–15/15), nên chỉ một câu quyết định so sánh. Dev được mở rộng theo quy trình cố định, **không xem kết quả retrieval khi viết câu hỏi**:
+
+1. [experiments/sample_dev_extension.py](../experiments/sample_dev_extension.py) chọn ngẫu nhiên 13 chunk (seed 20261116) từ các chunk ≥ 400 ký tự, loại mọi trang chứa gold của test (tr. 199, 203, 267, 268, 274) và các chunk đã chứa gold của câu cũ. Kết quả: [experiments/dev_extension_sample.json](../experiments/dev_extension_sample.json).
+2. 10 chunk đầu sinh D16–D25, kiểu câu gán theo vòng trước khi đọc chunk: diễn đạt lại (ít trùng từ khóa), điều kiện/ngoại lệ, chi tiết cụ thể, giải thích "tại sao". Trường `type` và `added_in` ghi lại điều này.
+3. 3 chunk còn lại sinh DA4–DA6 kiểu "gần trúng": sách có chủ đề nhưng không có chi tiết được hỏi (so sánh theo tuổi của misattribution; tỷ lệ quên sau một tuần của Ebbinghaus, trong khi sách chỉ có 20 phút và 24 giờ; thuật ngữ autonoetic của Tulving).
+4. Evidence và vắng mặt được kiểm tra bằng `src/build_benchmark.py`; từ khóa vắng mặt cũng được tìm trên text PDF của 52 trang corpus.
+
+Giới hạn: vẫn là câu một evidence trong một chunk; chưa có câu multi-hop.
 
 ## Tách dev/test
 

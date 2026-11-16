@@ -6,7 +6,17 @@
     "answerable": false,
     "expected_behavior": "search_and_abstain",
     "absence_reason": "Chapter 6 introduces Pavlov and says his digestive-system research on dogs led to classical conditioning (p.196), but never mentions a Nobel Prize or a year. Trap: the topic is covered, so the model may answer from prior knowledge.",
-    "absence_check": {"terms": ["Nobel", "1904", "gastric"], "near_topic_terms": ["Pavlov", "digestive"]}
+    "absence_check": {
+      "terms": [
+        "Nobel",
+        "1904",
+        "gastric"
+      ],
+      "near_topic_terms": [
+        "Pavlov",
+        "digestive"
+      ]
+    }
   },
   {
     "id": "DA2",
@@ -15,7 +25,18 @@
     "answerable": false,
     "expected_behavior": "search_and_abstain",
     "absence_reason": "Chapter 6 covers conditioning experiments with dogs (Pavlov) and operant conditioning, but Seligman and learned helplessness never appear in chapters 6 or 8.",
-    "absence_check": {"terms": ["Seligman", "helpless", "inescapable", "uncontrollable"], "near_topic_terms": ["dogs", "operant conditioning"]}
+    "absence_check": {
+      "terms": [
+        "Seligman",
+        "helpless",
+        "inescapable",
+        "uncontrollable"
+      ],
+      "near_topic_terms": [
+        "dogs",
+        "operant conditioning"
+      ]
+    }
   },
   {
     "id": "DA3",
@@ -24,7 +45,16 @@
     "answerable": false,
     "expected_behavior": "search_and_abstain",
     "absence_reason": "Chapter 8 discusses brain areas involved in memory and amnesia (H. M.), but Alzheimer's disease and dementia are not mentioned.",
-    "absence_check": {"terms": ["Alzheimer", "dementia"], "near_topic_terms": ["hippocampus", "amnesia"]}
+    "absence_check": {
+      "terms": [
+        "Alzheimer",
+        "dementia"
+      ],
+      "near_topic_terms": [
+        "hippocampus",
+        "amnesia"
+      ]
+    }
   },
   {
     "id": "TA1",
@@ -33,7 +63,17 @@
     "answerable": false,
     "expected_behavior": "search_and_abstain",
     "absence_reason": "Kamin does not appear. The word 'blocking' appears only in chapter 8 with another meaning (tip-of-the-tongue forgetting, pp.277-279). Trap: lexical retrieval matches the wrong concept.",
-    "absence_check": {"terms": ["Kamin", "overshadow", "redundant"], "near_topic_terms": ["blocking", "classical conditioning"]}
+    "absence_check": {
+      "terms": [
+        "Kamin",
+        "overshadow",
+        "redundant"
+      ],
+      "near_topic_terms": [
+        "blocking",
+        "classical conditioning"
+      ]
+    }
   },
   {
     "id": "TA2",
@@ -42,7 +82,17 @@
     "answerable": false,
     "expected_behavior": "search_and_abstain",
     "absence_reason": "Chapter 8 covers anterograde and retrograde amnesia, but Korsakoff syndrome, alcohol and thiamine are not mentioned.",
-    "absence_check": {"terms": ["Korsakoff", "alcohol", "thiamine"], "near_topic_terms": ["anterograde amnesia", "retrograde amnesia"]}
+    "absence_check": {
+      "terms": [
+        "Korsakoff",
+        "alcohol",
+        "thiamine"
+      ],
+      "near_topic_terms": [
+        "anterograde amnesia",
+        "retrograde amnesia"
+      ]
+    }
   },
   {
     "id": "TA3",
@@ -51,6 +101,77 @@
     "answerable": false,
     "expected_behavior": "search_and_abstain",
     "absence_reason": "Chapter 8 discusses autobiographical memory and amnesia, but not childhood/infantile amnesia or the age of earliest memories. 'Infant' appears only in a chapter 6 sentence about instincts (p.194).",
-    "absence_check": {"terms": ["infantile", "childhood amnesia", "earliest memor", "toddler"], "near_topic_terms": ["autobiographical memory", "amnesia"]}
+    "absence_check": {
+      "terms": [
+        "infantile",
+        "childhood amnesia",
+        "earliest memor",
+        "toddler"
+      ],
+      "near_topic_terms": [
+        "autobiographical memory",
+        "amnesia"
+      ]
+    }
+  },
+  {
+    "id": "DA4",
+    "split": "dev",
+    "question": "Do older adults make more misattribution memory errors than younger adults?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 8 defines misattribution and gives examples (pp.277-279), but says nothing about age differences. Near miss: the concept is covered, the comparison is not.",
+    "absence_check": {
+      "terms": [
+        "older adult",
+        "elderly",
+        "younger adult"
+      ],
+      "near_topic_terms": [
+        "misattribution"
+      ]
+    },
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "DA5",
+    "split": "dev",
+    "question": "According to Ebbinghaus's forgetting curve, what percentage of memorized information is lost after one week?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The text gives 50% lost after 20 minutes and 70% after 24 hours, and says testing ran up to 30 days, but gives no figure for one week (p.277). Near miss: neighbouring numbers invite a guess.",
+    "absence_check": {
+      "terms": [
+        "after one week",
+        "after a week",
+        "7 days",
+        "seven days"
+      ],
+      "near_topic_terms": [
+        "Ebbinghaus",
+        "24 hours"
+      ]
+    },
+    "added_in": "dev_extension_round2"
+  },
+  {
+    "id": "DA6",
+    "split": "dev",
+    "question": "What term did Tulving use for the self-aware feeling of mentally travelling back in time when recalling an episodic memory?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 8 introduces Tulving's episodic memory (what, where, when; p.264) but never names autonoetic consciousness or mental time travel. Near miss: right author and concept, missing term.",
+    "absence_check": {
+      "terms": [
+        "autonoetic",
+        "time travel",
+        "mental time"
+      ],
+      "near_topic_terms": [
+        "Tulving",
+        "episodic memory"
+      ]
+    },
+    "added_in": "dev_extension_round2"
   }
 ]

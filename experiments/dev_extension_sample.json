@@ -1,0 +1,73 @@
+{
+  "seed": 20261116,
+  "pool_size": 149,
+  "excluded_test_pages": [
+    [
+      "psych2e-ch6",
+      199
+    ],
+    [
+      "psych2e-ch6",
+      203
+    ],
+    [
+      "psych2e-ch8",
+      267
+    ],
+    [
+      "psych2e-ch8",
+      268
+    ],
+    [
+      "psych2e-ch8",
+      274
+    ]
+  ],
+  "answerable": [
+    {
+      "chunk_id": "B:psych2e-ch6:p212:c000",
+      "type": "paraphrase"
+    },
+    {
+      "chunk_id": "B:psych2e-ch6:p212:c001",
+      "type": "condition_or_exception"
+    },
+    {
+      "chunk_id": "B:psych2e-ch8:p269:c002",
+      "type": "specific_detail"
+    },
+    {
+      "chunk_id": "B:psych2e-ch8:p263:c001",
+      "type": "why_explanation"
+    },
+    {
+      "chunk_id": "B:psych2e-ch8:p278:c001",
+      "type": "paraphrase"
+    },
+    {
+      "chunk_id": "B:psych2e-ch8:p262:c001",
+      "type": "condition_or_exception"
+    },
+    {
+      "chunk_id": "B:psych2e-ch8:p284:c000",
+      "type": "specific_detail"
+    },
+    {
+      "chunk_id": "B:psych2e-ch6:p194:c003",
+      "type": "why_explanation"
+    },
+    {
+      "chunk_id": "B:psych2e-ch6:p210:c000",
+      "type": "paraphrase"
+    },
+    {
+      "chunk_id": "B:psych2e-ch6:p193:c003",
+      "type": "condition_or_exception"
+    }
+  ],
+  "near_miss_abstain": [
+    "B:psych2e-ch8:p279:c003",
+    "B:psych2e-ch8:p278:c000",
+    "B:psych2e-ch8:p264:c004"
+  ]
+}
