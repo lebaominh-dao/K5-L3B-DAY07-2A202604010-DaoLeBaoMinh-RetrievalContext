@@ -1,0 +1,196 @@
+[
+  {
+    "id": "D01",
+    "split": "dev",
+    "question": "How is learning different from reflexes and instincts?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D02",
+    "split": "dev",
+    "question": "What happens to the conditioned response during extinction?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "chapter": 6
+    }
+  },
+  {
+    "id": "D03",
+    "split": "dev",
+    "question": "How long can the delay between a food flavor and the resulting sickness be for taste aversion to still be learned?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D04",
+    "split": "dev",
+    "question": "What is it called when a conditioned response that had died out comes back after a break?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D05",
+    "split": "dev",
+    "question": "Can classical conditioning be chained beyond second-order conditioning?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D06",
+    "split": "dev",
+    "question": "In operant conditioning, what do the words positive and negative mean?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D07",
+    "split": "dev",
+    "question": "Why is a car's seatbelt warning chime an example of negative reinforcement?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D08",
+    "split": "dev",
+    "question": "Which reinforcement schedule produces behavior that is most resistant to extinction?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D09",
+    "split": "dev",
+    "question": "When should a fixed ratio schedule be preferred over a fixed interval schedule, and vice versa?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D10",
+    "split": "dev",
+    "question": "What steps does Bandura say must occur for modeling to lead to learning?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D11",
+    "split": "dev",
+    "question": "How is memory defined, in terms of its basic processes?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D12",
+    "split": "dev",
+    "question": "How many items can short-term memory hold according to current research, compared with Miller's classic estimate?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D13",
+    "split": "dev",
+    "question": "What can a person with anterograde amnesia not do?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D14",
+    "split": "dev",
+    "question": "According to Ebbinghaus, how much newly memorized information does an average person lose after 20 minutes and after a day?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "D15",
+    "split": "dev",
+    "question": "Damage to which brain structure prevents learning a conditioned eye-blink response?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "chapter": 8
+    }
+  },
+  {
+    "id": "T16",
+    "split": "test",
+    "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "T17",
+    "split": "test",
+    "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "chapter": 8
+    }
+  },
+  {
+    "id": "T18",
+    "split": "test",
+    "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "T19",
+    "split": "test",
+    "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "T20",
+    "split": "test",
+    "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "chapter": 6
+    }
+  },
+  {
+    "id": "DA1",
+    "split": "dev",
+    "question": "In what year did Ivan Pavlov receive the Nobel Prize, and for which research?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "DA2",
+    "split": "dev",
+    "question": "What did Martin Seligman's learned helplessness experiments with dogs show?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "DA3",
+    "split": "dev",
+    "question": "Which brain changes in Alzheimer's disease cause memory loss?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "TA1",
+    "split": "test",
+    "question": "What is Kamin's blocking effect in classical conditioning?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "TA2",
+    "split": "test",
+    "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "TA3",
+    "split": "test",
+    "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  }
+]

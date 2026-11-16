@@ -1,2 +1,7 @@
-# Export Day 6 pgvector store (src/day6_export.py)
+# Day 6 vector store (src/day6_export.py, dense retrieval)
 psycopg[binary]==3.3.8
+# Query embeddings must match Day 6: openai/text-embedding-3-small via OpenRouter
+openai>=2.54,<3
+# Agent model (Claude)
+anthropic>=2.8,<3
+python-dotenv>=1,<2

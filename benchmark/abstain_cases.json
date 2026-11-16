@@ -1,0 +1,56 @@
+[
+  {
+    "id": "DA1",
+    "split": "dev",
+    "question": "In what year did Ivan Pavlov receive the Nobel Prize, and for which research?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 6 introduces Pavlov and says his digestive-system research on dogs led to classical conditioning (p.196), but never mentions a Nobel Prize or a year. Trap: the topic is covered, so the model may answer from prior knowledge.",
+    "absence_check": {"terms": ["Nobel", "1904", "gastric"], "near_topic_terms": ["Pavlov", "digestive"]}
+  },
+  {
+    "id": "DA2",
+    "split": "dev",
+    "question": "What did Martin Seligman's learned helplessness experiments with dogs show?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 6 covers conditioning experiments with dogs (Pavlov) and operant conditioning, but Seligman and learned helplessness never appear in chapters 6 or 8.",
+    "absence_check": {"terms": ["Seligman", "helpless", "inescapable", "uncontrollable"], "near_topic_terms": ["dogs", "operant conditioning"]}
+  },
+  {
+    "id": "DA3",
+    "split": "dev",
+    "question": "Which brain changes in Alzheimer's disease cause memory loss?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 8 discusses brain areas involved in memory and amnesia (H. M.), but Alzheimer's disease and dementia are not mentioned.",
+    "absence_check": {"terms": ["Alzheimer", "dementia"], "near_topic_terms": ["hippocampus", "amnesia"]}
+  },
+  {
+    "id": "TA1",
+    "split": "test",
+    "question": "What is Kamin's blocking effect in classical conditioning?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kamin does not appear. The word 'blocking' appears only in chapter 8 with another meaning (tip-of-the-tongue forgetting, pp.277-279). Trap: lexical retrieval matches the wrong concept.",
+    "absence_check": {"terms": ["Kamin", "overshadow", "redundant"], "near_topic_terms": ["blocking", "classical conditioning"]}
+  },
+  {
+    "id": "TA2",
+    "split": "test",
+    "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 8 covers anterograde and retrograde amnesia, but Korsakoff syndrome, alcohol and thiamine are not mentioned.",
+    "absence_check": {"terms": ["Korsakoff", "alcohol", "thiamine"], "near_topic_terms": ["anterograde amnesia", "retrograde amnesia"]}
+  },
+  {
+    "id": "TA3",
+    "split": "test",
+    "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chapter 8 discusses autobiographical memory and amnesia, but not childhood/infantile amnesia or the age of earliest memories. 'Infant' appears only in a chapter 6 sentence about instincts (p.194).",
+    "absence_check": {"terms": ["infantile", "childhood amnesia", "earliest memor", "toddler"], "near_topic_terms": ["autobiographical memory", "amnesia"]}
+  }
+]

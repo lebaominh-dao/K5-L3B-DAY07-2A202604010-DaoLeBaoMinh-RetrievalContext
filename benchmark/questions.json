@@ -1,0 +1,315 @@
+[
+  {
+    "id": "D01",
+    "split": "dev",
+    "question": "How is learning different from reflexes and instincts?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 194,
+        "evidence": "learning is a relatively permanent change in behavior or knowledge that results from experience"
+      }
+    ],
+    "expected_answer": "Reflexes and instincts are innate, unlearned behaviors; learning is a relatively permanent change in behavior or knowledge that results from experience.",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "D02",
+    "split": "dev",
+    "question": "What happens to the conditioned response during extinction?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 200,
+        "evidence": "Extinction is the decrease in the conditioned response when the unconditioned stimulus is no longer presented with the conditioned stimulus."
+      }
+    ],
+    "expected_answer": "It decreases (weakens and eventually disappears) when the conditioned stimulus is presented without the unconditioned stimulus.",
+    "filter": {
+      "chapter": 6
+    },
+    "type": "filter"
+  },
+  {
+    "id": "D03",
+    "split": "dev",
+    "question": "How long can the delay between a food flavor and the resulting sickness be for taste aversion to still be learned?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 200,
+        "evidence": "an interval of several hours may pass between the conditioned stimulus"
+      }
+    ],
+    "expected_answer": "Up to several hours, unlike most conditioning, which typically needs only a brief interval (sometimes about five seconds).",
+    "filter": null,
+    "type": "conditional"
+  },
+  {
+    "id": "D04",
+    "split": "dev",
+    "question": "What is it called when a conditioned response that had died out comes back after a break?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 201,
+        "evidence": "the return of a previously extinguished conditioned response following a rest period"
+      }
+    ],
+    "expected_answer": "Spontaneous recovery.",
+    "filter": null,
+    "type": "paraphrase"
+  },
+  {
+    "id": "D05",
+    "split": "dev",
+    "question": "Can classical conditioning be chained beyond second-order conditioning?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 197,
+        "evidence": "It is hard to achieve anything above second-order conditioning."
+      },
+      {
+        "source_id": "psych2e-ch6",
+        "page": 198,
+        "evidence": "It is hard to achieve anything above second-order conditioning."
+      }
+    ],
+    "expected_answer": "No, it is hard to achieve anything above second-order conditioning.",
+    "filter": null,
+    "type": "conditional"
+  },
+  {
+    "id": "D06",
+    "split": "dev",
+    "question": "In operant conditioning, what do the words positive and negative mean?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 205,
+        "evidence": "positive means you are adding something, and negative means you are taking something away"
+      }
+    ],
+    "expected_answer": "Positive means adding something and negative means taking something away (not good or bad).",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "D07",
+    "split": "dev",
+    "question": "Why is a car's seatbelt warning chime an example of negative reinforcement?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 206,
+        "evidence": "The annoying sound stops when you exhibit the desired behavior, increasing the likelihood that you will buckle up in the future."
+      }
+    ],
+    "expected_answer": "The annoying sound stops when you buckle up, which increases the likelihood of buckling up in the future.",
+    "filter": null,
+    "type": "paraphrase"
+  },
+  {
+    "id": "D08",
+    "split": "dev",
+    "question": "Which reinforcement schedule produces behavior that is most resistant to extinction?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 211,
+        "evidence": "variable ratio is the most productive and the most resistant to extinction"
+      }
+    ],
+    "expected_answer": "The variable ratio schedule.",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "D09",
+    "split": "dev",
+    "question": "When should a fixed ratio schedule be preferred over a fixed interval schedule, and vice versa?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 211,
+        "evidence": "Fixed ratios are better suited to optimize the quantity of output, whereas a fixed interval, in which the reward is not quantity based, can lead to a higher quality of output."
+      }
+    ],
+    "expected_answer": "Fixed ratio optimizes quantity of output; fixed interval, where reward is not quantity-based, can lead to higher quality of output.",
+    "filter": null,
+    "type": "conditional"
+  },
+  {
+    "id": "D10",
+    "split": "dev",
+    "question": "What steps does Bandura say must occur for modeling to lead to learning?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 217,
+        "evidence": "attention, retention, reproduction, and motivation"
+      }
+    ],
+    "expected_answer": "Attention, retention, reproduction, and motivation.",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "D11",
+    "split": "dev",
+    "question": "How is memory defined, in terms of its basic processes?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 260,
+        "evidence": "Memory is the set of processes used to encode, store, and retrieve information"
+      }
+    ],
+    "expected_answer": "The set of processes used to encode, store, and retrieve information over different periods of time.",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "D12",
+    "split": "dev",
+    "question": "How many items can short-term memory hold according to current research, compared with Miller's classic estimate?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 263,
+        "evidence": "more contemporary research has found working memory capacity is 4 plus or minus 1"
+      }
+    ],
+    "expected_answer": "Contemporary research finds about 4 plus or minus 1 items; Miller reported 7 plus or minus 2.",
+    "filter": null,
+    "type": "conditional"
+  },
+  {
+    "id": "D13",
+    "split": "dev",
+    "question": "What can a person with anterograde amnesia not do?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 271,
+        "evidence": "With anterograde amnesia, you cannot remember new information, although you can remember information and events that happened prior to your injury."
+      }
+    ],
+    "expected_answer": "They cannot remember new information, although they remember events from before the injury.",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "D14",
+    "split": "dev",
+    "question": "According to Ebbinghaus, how much newly memorized information does an average person lose after 20 minutes and after a day?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 277,
+        "evidence": "an average person will lose 50% of the memorized information after 20 minutes and 70% of the information after 24 hours"
+      }
+    ],
+    "expected_answer": "About 50% after 20 minutes and 70% after 24 hours.",
+    "filter": null,
+    "type": "paraphrase"
+  },
+  {
+    "id": "D15",
+    "split": "dev",
+    "question": "Damage to which brain structure prevents learning a conditioned eye-blink response?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 269,
+        "evidence": "When researchers damaged the cerebellums of rabbits, they discovered that the rabbits were not able to learn the conditioned eye-blink response"
+      }
+    ],
+    "expected_answer": "The cerebellum (shown in rabbits).",
+    "filter": {
+      "chapter": 8
+    },
+    "type": "filter"
+  },
+  {
+    "id": "T16",
+    "split": "test",
+    "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 203,
+        "evidence": "made a loud sound, by striking a hammer against a metal bar"
+      }
+    ],
+    "expected_answer": "They made a loud sound by striking a hammer against a metal bar each time he touched the rat, repeatedly pairing the sound with the rat.",
+    "filter": null,
+    "type": "direct"
+  },
+  {
+    "id": "T17",
+    "split": "test",
+    "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 268,
+        "evidence": "induced cell death in neurons in the lateral amygdala, which is the specific area of the brain responsible for fear memories. They found the fear memory faded (became extinct)."
+      }
+    ],
+    "expected_answer": "The fear memory faded (became extinct).",
+    "filter": {
+      "chapter": 8
+    },
+    "type": "filter"
+  },
+  {
+    "id": "T18",
+    "split": "test",
+    "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 267,
+        "evidence": "When you take a multiple-choice test, you are relying on recognition to help you choose the correct answer."
+      }
+    ],
+    "expected_answer": "Recognition, identifying previously learned information after encountering it again.",
+    "filter": null,
+    "type": "paraphrase"
+  },
+  {
+    "id": "T19",
+    "split": "test",
+    "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch8",
+        "page": 274,
+        "evidence": "more than twice as likely to indicate that they did remember seeing glass"
+      }
+    ],
+    "expected_answer": "Participants given the verb smashed estimated higher speeds and were more than twice as likely to falsely remember broken glass a week later.",
+    "filter": null,
+    "type": "conditional"
+  },
+  {
+    "id": "T20",
+    "split": "test",
+    "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+    "gold": [
+      {
+        "source_id": "psych2e-ch6",
+        "page": 199,
+        "evidence": "stays within the set boundaries"
+      }
+    ],
+    "expected_answer": "It associates the shock discomfort (UCR) with the edge of the yard (CS), so the edge elicits fear and anxiety and the dog stays within the boundaries.",
+    "filter": {
+      "chapter": 6
+    },
+    "type": "filter"
+  }
+]
