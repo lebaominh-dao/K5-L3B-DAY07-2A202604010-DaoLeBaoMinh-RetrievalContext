@@ -1,0 +1,64 @@
+{
+  "split": "dev",
+  "model": "claude-haiku-5-5",
+  "config": {
+    "retriever": "hybrid",
+    "effort": "low",
+    "top_k": 3,
+    "max_searches": 4,
+    "budget_chars": 4000
+  },
+  "embedding_cost_usd": 5.2e-06,
+  "cases": 18,
+  "errors": [],
+  "tool_use": {
+    "n": 18,
+    "N": 18,
+    "rate": 1.0
+  },
+  "searches_per_run": {
+    "1": 13,
+    "2": 2,
+    "3": 2,
+    "4": 1
+  },
+  "context_evidence_rate": {
+    "n": 14,
+    "N": 15,
+    "rate": 0.933
+  },
+  "context_missing": [
+    "D09"
+  ],
+  "cited_evidence_auto": {
+    "n": 14,
+    "N": 15,
+    "rate": 0.933
+  },
+  "answers_with_citation": {
+    "n": 15,
+    "N": 15,
+    "rate": 1.0
+  },
+  "abstention": {
+    "n": 3,
+    "N": 3,
+    "rate": 1.0
+  },
+  "abstain_answered": [],
+  "false_abstention": {
+    "n": 0,
+    "N": 15,
+    "rate": 0.0
+  },
+  "false_abstain_ids": [],
+  "median_s": 4.36,
+  "max_s": 11.02,
+  "tokens": {
+    "input": 64444,
+    "output": 5743,
+    "cache_write": 0,
+    "cache_read": 0
+  },
+  "cost_usd": 0.00932
+}

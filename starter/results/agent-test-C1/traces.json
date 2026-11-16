@@ -1,0 +1,1464 @@
+[
+  {
+    "query_id": "T16",
+    "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+    "filter": null,
+    "model": "claude-haiku-5-5",
+    "answer": "Little Albert was first shown neutral stimuli, including a white rat, and he was not afraid of them. Watson then handed him the rat, which he enjoyed playing with, and each time he touched it Watson struck a hammer against a metal bar behind his head to make a loud sound. Little Albert was frightened by the sound and cried, and Watson repeatedly paired the loud sound with the rat until Albert became frightened by the white rat alone [B:psych2e-ch6:p203:c001][B:psych2e-ch6:p203:c002].",
+    "citations": [
+      "B:psych2e-ch6:p203:c001",
+      "B:psych2e-ch6:p203:c002"
+    ],
+    "status": "answered",
+    "raw_answer": {
+      "status": "answered",
+      "answer": "Little Albert was first shown neutral stimuli, including a white rat, and he was not afraid of them. Watson then handed him the rat, which he enjoyed playing with, and each time he touched it Watson struck a hammer against a metal bar behind his head to make a loud sound. Little Albert was frightened by the sound and cried, and Watson repeatedly paired the loud sound with the rat until Albert became frightened by the white rat alone [S1][S2].",
+      "citations": [
+        "S1",
+        "S2"
+      ]
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "Watson and Rayner Little Albert conditioned fear white rat",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p203:c001",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "page": 203
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c002",
+            "rank": 2,
+            "score": 0.03225806451612903,
+            "page": 203
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c003",
+            "rank": 3,
+            "score": 0.031746031746031744,
+            "page": 203
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c000",
+            "rank": 4,
+            "score": 0.03125,
+            "page": 203
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c004",
+            "rank": 5,
+            "score": 0.029437229437229435,
+            "page": 202
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch6:p203:c001",
+          "B:psych2e-ch6:p203:c002",
+          "B:psych2e-ch6:p203:c003",
+          "B:psych2e-ch6:p203:c000",
+          "B:psych2e-ch6:p202:c004"
+        ],
+        "labels": {
+          "B:psych2e-ch6:p203:c001": "S1",
+          "B:psych2e-ch6:p203:c002": "S2",
+          "B:psych2e-ch6:p203:c003": "S3",
+          "B:psych2e-ch6:p203:c000": "S4",
+          "B:psych2e-ch6:p202:c004": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch6:p203:c001",
+          "B:psych2e-ch6:p203:c002",
+          "B:psych2e-ch6:p203:c003",
+          "B:psych2e-ch6:p203:c000",
+          "B:psych2e-ch6:p202:c004"
+        ],
+        "context_chars": 4118
+      },
+      {
+        "event": "answer",
+        "unknown_labels": [],
+        "listed_not_in_text": []
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch6:p203:c001",
+      "B:psych2e-ch6:p203:c002",
+      "B:psych2e-ch6:p203:c003",
+      "B:psych2e-ch6:p203:c000",
+      "B:psych2e-ch6:p202:c004"
+    ],
+    "context": "[B:psych2e-ch6:p203:c001 | Psychology2e_WEB.pdf | page 203]\nIn 1920, while chair of the psychology department at Johns Hopkins University, Watson and his graduate student, Rosalie Rayner, conducted research on a baby nicknamed Little Albert. Rayner and Watson’s experiments with Little Albert demonstrated how fears can be conditioned using classical conditioning. Through these experiments, Little Albert was exposed to and conditioned to fear certain things. Initially he was presented with various neutral stimuli, including a rabbit, a dog, a monkey, masks, cotton wool, and a white rat. He was not afraid of any of these things. Then Watson, with the help of Rayner, conditioned Little Albert to associate these stimuli with an emotion—fear. For example, Watson handed Little Albert the white rat, and Little Albert enjoyed playing with it. Then Watson made a loud sound, by striking a hammer against a metal bar hanging behind Little Albert’s head, each time Little Albert touched the rat.\n\n[B:psych2e-ch6:p203:c002 | Psychology2e_WEB.pdf | page 203]\nLittle Albert was frightened by the sound—demonstrating a reflexive fear of sudden loud noises—and began to cry. Watson repeatedly paired the loud sound with the white rat. Soon Little Albert became frightened by the white rat alone. In this case, what are the UCS, CS, UCR, and CR? Days later, Little Albert demonstrated stimulus generalization—he became afraid of other furry things: a rabbit, a furry coat, and even a Santa Claus mask (Figure 6.9). Watson had succeeded in conditioning a fear response in Little Albert, thus demonstrating that emotions could become conditioned responses. It had been Watson’s intention to produce a phobia—a persistent, excessive fear of a specific object or situation— through conditioning alone, thus countering Freud’s view that phobias are caused by deep, hidden conflicts in the mind. However, there is no evidence that Little Albert experienced phobias in later years.\n\n[B:psych2e-ch6:p203:c003 | Psychology2e_WEB.pdf | page 203]\nWhile Watson’s research provided new insight into conditioning, it would be considered unethical by today’s standards. FIGURE 6.9 Through stimulus generalization, Little Albert came to fear furry things, including Watson in a Santa Claus mask. LINK T O LEARNING View scenes from this video on John Watson’s experiment in which Little Albert was conditioned to respond in fear to furry objects (https://openstax.org/l/Watson1) to learn more. As you watch the video, look closely at Little Albert’s reactions and the manner in which Watson and Rayner present the stimuli before and after conditioning. Based on what you see, would you come to the same conclusions as the researchers?\n\n[B:psych2e-ch6:p203:c000 | Psychology2e_WEB.pdf | page 203]\nWatson’s ideas were influenced by Pavlov’s work. According to Watson, human behavior, just like animal behavior, is primarily the result of conditioned responses. Whereas Pavlov’s work with dogs involved the conditioning of reflexes, Watson believed the same principles could be extended to the conditioning of human emotions (Watson, 1919).\n\n[B:psych2e-ch6:p202:c004 | Psychology2e_WEB.pdf | page 202]\nBehaviorism John B. Watson, shown in Figure 6.8, is considered the founder of behaviorism. Behaviorism is a school of thought that arose during the first part of the 20th century, which incorporates elements of Pavlov’s classical conditioning (Hunt, 2007). In stark contrast with Freud, who considered the reasons for behavior to be hidden in the unconscious, Watson championed the idea that all behavior can be studied as a simple stimulus- response reaction, without regard for internal processes. Watson argued that in order for psychology to become a legitimate science, it must shift its concern away from internal mental processes because mental processes cannot be seen or measured. Instead, he asserted that psychology must focus on outward observable behavior that can be measured. FIGURE 6.8 John B. Watson used the principles of classical conditioning in the study of human emotion. 190 6 • Learning Access for free at openstax.org",
+    "context_chars": 4118,
+    "n_searches": 1,
+    "n_model_calls": 2,
+    "usage": {
+      "input": 3271,
+      "output": 319,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0004866,
+    "elapsed_s": 4.7,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "T17",
+    "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+    "filter": {
+      "chapter": 8
+    },
+    "model": "claude-haiku-5-5",
+    "answer": "According to the textbook, after the researchers induced cell death in neurons in the lateral amygdala, the rats' fear memory of the tone faded (became extinct). [B:psych2e-ch8:p268:c001]",
+    "citations": [
+      "B:psych2e-ch8:p268:c001"
+    ],
+    "status": "answered",
+    "raw_answer": {
+      "status": "answered",
+      "answer": "According to the textbook, after the researchers induced cell death in neurons in the lateral amygdala, the rats' fear memory of the tone faded (became extinct). [S1]",
+      "citations": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "lateral amygdala lesions rats fear conditioning tone",
+        "filter": {
+          "chapter": 8
+        },
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "page": 268
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c002",
+            "rank": 2,
+            "score": 0.03200204813108039,
+            "page": 268
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 3,
+            "score": 0.03149801587301587,
+            "page": 268
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c003",
+            "rank": 4,
+            "score": 0.030621785881252923,
+            "page": 267
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c003",
+            "rank": 5,
+            "score": 0.030536130536130537,
+            "page": 268
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p268:c001",
+          "B:psych2e-ch8:p268:c002",
+          "B:psych2e-ch8:p268:c000",
+          "B:psych2e-ch8:p267:c003",
+          "B:psych2e-ch8:p268:c003"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p268:c001": "S1",
+          "B:psych2e-ch8:p268:c002": "S2",
+          "B:psych2e-ch8:p268:c000": "S3",
+          "B:psych2e-ch8:p267:c003": "S4",
+          "B:psych2e-ch8:p268:c003": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p268:c001",
+          "B:psych2e-ch8:p268:c002",
+          "B:psych2e-ch8:p268:c000",
+          "B:psych2e-ch8:p267:c003",
+          "B:psych2e-ch8:p268:c003"
+        ],
+        "context_chars": 3937
+      },
+      {
+        "event": "answer",
+        "unknown_labels": [],
+        "listed_not_in_text": []
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch8:p268:c001",
+      "B:psych2e-ch8:p268:c002",
+      "B:psych2e-ch8:p268:c000",
+      "B:psych2e-ch8:p267:c003",
+      "B:psych2e-ch8:p268:c003"
+    ],
+    "context": "[B:psych2e-ch8:p268:c001 | Psychology2e_WEB.pdf | page 268]\nThe Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggression (Figure 8.8). The amygdala plays a part in how memories are stored because storage is influenced by stress hormones. For example, one researcher experimented with rats and the fear response (Josselyn, 2010). Using Pavlovian conditioning, a neutral tone was paired with a foot shock to the rats. This produced a fear memory in the rats. After being conditioned, each time they heard the tone, they would freeze (a defense response in rats), indicating a memory for the impending shock. Then the researchers induced cell death in neurons in the lateral amygdala, which is the specific area of the brain responsible for fear memories. They found the fear memory faded (became extinct).\n\n[B:psych2e-ch8:p268:c002 | Psychology2e_WEB.pdf | page 268]\nBecause of its role in processing emotional information, the amygdala is also involved in memory consolidation: the process of transferring new learning into long-term memory. The amygdala seems to facilitate encoding memories at a deeper level when the event is emotionally arousing. LINK T O LEARNING In this TED Talk called “A Mouse. A Laser Beam. A Manipulated Memory,” (https://openstax.org/l/mousebeam) Steve Ramirez and Xu Liu from MIT talk about using laser beams to manipulate fear memory in rats. Find out why their work caused a media frenzy once it was published in Science.\n\n[B:psych2e-ch8:p268:c000 | Psychology2e_WEB.pdf | page 268]\nFIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory. The cerebellum plays a role in processing procedural memories, such as how to play the piano. The prefrontal cortex appears to be involved in remembering semantic tasks.\n\n[B:psych2e-ch8:p267:c003 | Psychology2e_WEB.pdf | page 267]\n8.2 Parts of the Brain Involved with Memory LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain the brain functions involved in memory • Recognize the roles of the hippocampus, amygdala, and cerebellum Are memories stored in just one part of the brain, or are they stored in many different parts of the brain? Karl Lashley began exploring this problem, about 100 years ago, by making lesions in the brains of animals such as rats and monkeys. He was searching for evidence of the engram: the group of neurons that serve as the “physical representation of memory” (Josselyn, 2010). First, Lashley (1950) trained rats to find their way through a maze. Then, he used the tools available at the time—in this case a soldering iron—to create lesions in the rats’ brains, specifically in the cerebral cortex. He did this because he was trying to erase the engram, or the original memory trace that the rats had of the maze.\n\n[B:psych2e-ch8:p268:c003 | Psychology2e_WEB.pdf | page 268]\nThe Hippocampus Another group of researchers also experimented with rats to learn how the hippocampus functions in memory processing (Figure 8.8). They created lesions in the hippocampi of the rats, and found that the rats demonstrated memory impairment on various tasks, such as object recognition and maze running. They concluded that the hippocampus is involved in memory, specifically normal recognition memory as well as spatial memory (when the memory tasks are like recall tests) (Clark, Zola, & Squire, 2000). Another job of the hippocampus is to project information to cortical regions that give memories meaning and connect them with other memories. It also plays a part in memory consolidation: the process of transferring new learning into long-term memory. Injury to this area leaves us unable to process new declarative memories. One famous patient, known for years 256 8 • Memory Access for free at openstax.org",
+    "context_chars": 3937,
+    "n_searches": 1,
+    "n_model_calls": 2,
+    "usage": {
+      "input": 3182,
+      "output": 220,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0004282,
+    "elapsed_s": 4.93,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "T18",
+    "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+    "filter": null,
+    "model": "claude-haiku-5-5",
+    "answer": "Recognition is the retrieval method used when answering a multiple-choice test. It happens when you identify information you have previously learned after encountering it again, and it involves a process of comparison [B:psych2e-ch8:p267:c001].",
+    "citations": [
+      "B:psych2e-ch8:p267:c001"
+    ],
+    "status": "answered",
+    "raw_answer": {
+      "status": "answered",
+      "answer": "Recognition is the retrieval method used when answering a multiple-choice test. It happens when you identify information you have previously learned after encountering it again, and it involves a process of comparison [S1].",
+      "citations": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "multiple-choice test retrieval recognition",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p267:c001",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "page": 267
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c004",
+            "rank": 2,
+            "score": 0.03149801587301587,
+            "page": 266
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c005",
+            "rank": 3,
+            "score": 0.03021353930031804,
+            "page": 261
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c000",
+            "rank": 4,
+            "score": 0.029910714285714284,
+            "page": 267
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c001",
+            "rank": 5,
+            "score": 0.028205128205128206,
+            "page": 260
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p266:c004",
+          "B:psych2e-ch8:p261:c005",
+          "B:psych2e-ch8:p267:c000",
+          "B:psych2e-ch8:p260:c001"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p267:c001": "S1",
+          "B:psych2e-ch8:p266:c004": "S2",
+          "B:psych2e-ch8:p261:c005": "S3",
+          "B:psych2e-ch8:p267:c000": "S4",
+          "B:psych2e-ch8:p260:c001": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p266:c004",
+          "B:psych2e-ch8:p261:c005",
+          "B:psych2e-ch8:p267:c000",
+          "B:psych2e-ch8:p260:c001"
+        ],
+        "context_chars": 3877
+      },
+      {
+        "event": "search",
+        "query": "recall versus recognition memory retrieval",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p267:c001",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "page": 267
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c005",
+            "rank": 2,
+            "score": 0.03149801587301587,
+            "page": 261
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c000",
+            "rank": 3,
+            "score": 0.030834914611005692,
+            "page": 267
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c004",
+            "rank": 4,
+            "score": 0.030776515151515152,
+            "page": 266
+          },
+          {
+            "id": "B:psych2e-ch8:p264:c003",
+            "rank": 5,
+            "score": 0.03007688828584351,
+            "page": 264
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p264:c003"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p264:c003": "S6"
+        },
+        "already_in_context": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p261:c005",
+          "B:psych2e-ch8:p267:c000",
+          "B:psych2e-ch8:p266:c004"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p266:c004",
+          "B:psych2e-ch8:p261:c005",
+          "B:psych2e-ch8:p267:c000",
+          "B:psych2e-ch8:p260:c001",
+          "B:psych2e-ch8:p264:c003"
+        ],
+        "context_chars": 4607
+      },
+      {
+        "event": "answer",
+        "unknown_labels": [],
+        "listed_not_in_text": []
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch8:p267:c001",
+      "B:psych2e-ch8:p266:c004",
+      "B:psych2e-ch8:p261:c005",
+      "B:psych2e-ch8:p267:c000",
+      "B:psych2e-ch8:p260:c001",
+      "B:psych2e-ch8:p264:c003"
+    ],
+    "context": "[B:psych2e-ch8:p267:c001 | Psychology2e_WEB.pdf | page 267]\nThere are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning. Recall is what we most often think about when we talk about memory retrieval: it means you can access information without cues. For example, you would use recall for an essay test. Recognition happens when you identify information that you have previously learned after encountering it again. It involves a process of comparison. When you take a multiple-choice test, you are relying on recognition to help you choose the correct answer. Here is another example. Let’s say you graduated from high school 10 years ago, and you have returned to your hometown for your 10-year reunion. You may not be able to recall all of your classmates, but you recognize many of them based on their yearbook photos. The third form of retrieval is relearning, and it’s just what it sounds like. It involves learning information that you previously learned.\n\n[B:psych2e-ch8:p266:c004 | Psychology2e_WEB.pdf | page 266]\nRetrieval So you have worked hard to encode (via effortful processing) and store some important information for your upcoming final exam. How do you get that information back out of storage when you need it? The act of getting EVERYDAY CONNECTION 254 8 • Memory Access for free at openstax.org\n\n[B:psych2e-ch8:p261:c005 | Psychology2e_WEB.pdf | page 261]\nWhich of the three types of encoding do you think would give you the best memory of verbal information? Some years ago, psychologists Fergus Craik and Endel Tulving (1975) conducted a series of experiments to find out. Participants were given words along with questions about them. The questions required the participants to process the words at one of the three levels. The visual processing questions included such things as asking the participants about the font of the letters. The acoustic processing questions asked the participants about the sound or rhyming of the words, and the semantic processing questions asked the participants about the meaning of the words. After participants were presented with the words and questions, they were given an unexpected recall or recognition task.\n\n[B:psych2e-ch8:p267:c000 | Psychology2e_WEB.pdf | page 267]\ninformation out of memory storage and back into conscious awareness is known as retrieval. This would be similar to finding and opening a paper you had previously saved on your computer’s hard drive. Now it’s back on your desktop, and you can work with it again. Our ability to retrieve information from long-term memory is vital to our everyday functioning. You must be able to retrieve information from memory in order to do everything from knowing how to brush your hair and teeth, to driving to work, to knowing how to perform your job once you get there.\n\n[B:psych2e-ch8:p260:c001 | Psychology2e_WEB.pdf | page 260]\nWe get information into our brains through a process called encoding, which is the input of information into the memory system. Once we receive sensory information from the environment, our brains label or code it. We organize the information with other similar information and connect new concepts to existing concepts. Encoding information occurs through automatic processing and effortful processing. If someone asks you what you ate for lunch today, more than likely you could recall this information quite easily. This is known as automatic processing, or the encoding of details like time, space, frequency, and the meaning of words. Automatic processing is usually done without any conscious awareness. Recalling the last time you studied for a test is another example of automatic processing. But what about the actual test material you studied? It probably required a lot of work and attention on your part in order to encode that information.\n\n[B:psych2e-ch8:p264:c003 | Psychology2e_WEB.pdf | page 264]\nFor example, you might easily recall a fact, such as the capital of the United States, but you might struggle to recall the name of the restaurant at which you had dinner when you visited a nearby city last summer. A prompt, such as that the restaurant was named after its owner, might help you recall the name of the restaurant. Explicit memory is sometimes referred to as declarative memory, because it can be put into words. Explicit memory is divided into episodic memory and semantic memory. LINK T O LEARNING View this video that explains short-term and long-term memory (https://openstax.org/l/HMbrain) to learn more about how memories are stored and retrieved.",
+    "context_chars": 4607,
+    "n_searches": 2,
+    "n_model_calls": 2,
+    "usage": {
+      "input": 3265,
+      "output": 276,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0004645,
+    "elapsed_s": 5.65,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "T19",
+    "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+    "filter": null,
+    "model": "claude-haiku-5-5",
+    "answer": "In Loftus and Palmer's study, participants watched films of car accidents and were asked how fast the cars were going when they \"smashed,\" \"collided,\" \"bumped,\" \"hit,\" or \"contacted\" each other. The verb implied different speeds, and participants' estimates followed the verb they heard, with \"smashed\" producing much higher speed estimates than \"contacted\" [B:psych2e-ch8:p274:c003][B:psych2e-ch8:p274:c004]. In a follow-up a week later, the \"smashed\" group was more than twice as likely to say they saw broken glass, which was not in the films, showing the leading question also produced false memories [B:psych2e-ch8:p274:c004].",
+    "citations": [
+      "B:psych2e-ch8:p274:c003",
+      "B:psych2e-ch8:p274:c004"
+    ],
+    "status": "answered",
+    "raw_answer": {
+      "status": "answered",
+      "answer": "In Loftus and Palmer's study, participants watched films of car accidents and were asked how fast the cars were going when they \"smashed,\" \"collided,\" \"bumped,\" \"hit,\" or \"contacted\" each other. The verb implied different speeds, and participants' estimates followed the verb they heard, with \"smashed\" producing much higher speed estimates than \"contacted\" [S3][S1]. In a follow-up a week later, the \"smashed\" group was more than twice as likely to say they saw broken glass, which was not in the films, showing the leading question also produced false memories [S1].",
+      "citations": [
+        "S3",
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "leading question eyewitness filmed car crash wording memory",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p274:c004",
+            "rank": 1,
+            "score": 0.032266458495966696,
+            "page": 274
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c000",
+            "rank": 2,
+            "score": 0.0315136476426799,
+            "page": 275
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 3,
+            "score": 0.03149801587301587,
+            "page": 274
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c000",
+            "rank": 4,
+            "score": 0.030834914611005692,
+            "page": 276
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c005",
+            "rank": 5,
+            "score": 0.030776515151515152,
+            "page": 272
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p274:c004",
+          "B:psych2e-ch8:p275:c000",
+          "B:psych2e-ch8:p274:c003",
+          "B:psych2e-ch8:p276:c000",
+          "B:psych2e-ch8:p272:c005"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p274:c004": "S1",
+          "B:psych2e-ch8:p275:c000": "S2",
+          "B:psych2e-ch8:p274:c003": "S3",
+          "B:psych2e-ch8:p276:c000": "S4",
+          "B:psych2e-ch8:p272:c005": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p274:c004",
+          "B:psych2e-ch8:p275:c000",
+          "B:psych2e-ch8:p274:c003",
+          "B:psych2e-ch8:p276:c000",
+          "B:psych2e-ch8:p272:c005"
+        ],
+        "context_chars": 3360
+      },
+      {
+        "event": "search",
+        "query": "Loftus Palmer smashed hit car accident speed estimate",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 1,
+            "score": 0.03252247488101534,
+            "page": 274
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c004",
+            "rank": 2,
+            "score": 0.03252247488101534,
+            "page": 274
+          },
+          {
+            "id": "B:psych2e-ch8:p270:c001",
+            "rank": 3,
+            "score": 0.030309988518943745,
+            "page": 270
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c001",
+            "rank": 4,
+            "score": 0.030158730158730156,
+            "page": 272
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 5,
+            "score": 0.028381642512077296,
+            "page": 272
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p270:c001",
+          "B:psych2e-ch8:p272:c001",
+          "B:psych2e-ch8:p272:c000"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p270:c001": "S6",
+          "B:psych2e-ch8:p272:c001": "S7",
+          "B:psych2e-ch8:p272:c000": "S8"
+        },
+        "already_in_context": [
+          "B:psych2e-ch8:p274:c003",
+          "B:psych2e-ch8:p274:c004"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p274:c004",
+          "B:psych2e-ch8:p275:c000",
+          "B:psych2e-ch8:p274:c003",
+          "B:psych2e-ch8:p276:c000",
+          "B:psych2e-ch8:p272:c005",
+          "B:psych2e-ch8:p270:c001",
+          "B:psych2e-ch8:p272:c001",
+          "B:psych2e-ch8:p272:c000"
+        ],
+        "context_chars": 5831
+      },
+      {
+        "event": "answer",
+        "unknown_labels": [],
+        "listed_not_in_text": []
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch8:p274:c004",
+      "B:psych2e-ch8:p275:c000",
+      "B:psych2e-ch8:p274:c003",
+      "B:psych2e-ch8:p276:c000",
+      "B:psych2e-ch8:p272:c005",
+      "B:psych2e-ch8:p270:c001",
+      "B:psych2e-ch8:p272:c001",
+      "B:psych2e-ch8:p272:c000"
+    ],
+    "context": "[B:psych2e-ch8:p274:c004 | Psychology2e_WEB.pdf | page 274]\nParticipants who heard the word “smashed” estimated that the cars were traveling at a much higher speed than participants who heard the word “contacted.” The implied information about speed, based on the verb they heard, had an effect on the participants’ memory of the accident. In a follow-up one week later, participants were asked if they saw any broken glass (none was shown in the accident pictures). Participants who had been in the “smashed” group were more than twice as likely to indicate that they did remember seeing glass. Loftus and Palmer demonstrated that a leading question encouraged them to not only remember the cars were going faster, but to also falsely remember that they saw broken glass. DIG DEEPER 262 8 • Memory Access for free at openstax.org\n\n[B:psych2e-ch8:p275:c000 | Psychology2e_WEB.pdf | page 275]\nFIGURE 8.12 When people are asked leading questions about an event, their memory of the event may be altered. (credit a: modification of work by Rob Young)\n\n[B:psych2e-ch8:p274:c003 | Psychology2e_WEB.pdf | page 274]\nThe Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovered memories of childhood sexual abuse. Loftus also developed the misinformation effect paradigm, which holds that after exposure to additional and possibly inaccurate information, a person may misremember the original event. According to Loftus, an eyewitness’s memory of an event is very flexible due to the misinformation effect. To test this theory, Loftus and John Palmer (1974) asked 45 U.S. college students to estimate the speed of cars using different forms of questions (Figure 8.12). The participants were shown films of car accidents and were asked to play the role of the eyewitness and describe what happened. They were asked, “About how fast were the cars going when they (smashed, collided, bumped, hit, contacted) each other?” The participants estimated the speed of the cars based on the verb used.\n\n[B:psych2e-ch8:p276:c000 | Psychology2e_WEB.pdf | page 276]\nEver since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s, social scientists, police officers, therapists, and legal practitioners have been aware of the flaws in interview practices. Consequently, steps have been taken to decrease suggestibility of witnesses. One way is to modify how witnesses are questioned. When interviewers use neutral and less leading language, children more accurately recall what happened and who was involved (Goodman, 2006; Pipe, 1996; Pipe, Lamb, Orbach, & Esplin, 2004). Another change is in how police lineups are conducted. It’s recommended that a blind photo lineup be used. This way the person administering the lineup doesn’t know which photo belongs to the suspect, minimizing the possibility of giving leading cues. Additionally, judges in some states now inform jurors about the possibility of misidentification. Judges can also suppress eyewitness testimony if they deem it unreliable.\n\n[B:psych2e-ch8:p272:c005 | Psychology2e_WEB.pdf | page 272]\nEyewitness Misidentification Even though memory and the process of reconstruction can be fragile, police officers, prosecutors, and the 260 8 • Memory Access for free at openstax.org\n\n[B:psych2e-ch8:p270:c001 | Psychology2e_WEB.pdf | page 270]\nInaccurate and False Memories Even flashbulb memories for important events can have decreased accuracy with the passage of time. For example, on at least three occasions, when asked how he heard about the terrorist attacks of 9/11, President George W. Bush responded inaccurately. In January 2002, less than 4 months after the attacks, the then sitting President Bush was asked how he heard about the attacks. He responded: I was sitting there, and my Chief of Staff—well, first of all, when we walked into the classroom, I had seen this plane fly into the first building. There was a TV set on. And you know, I thought it was pilot error and I was amazed that anybody could make such a terrible mistake. (Greenberg, 2004, p. 2) Contrary to what President Bush stated, no one saw the first plane hit, except people on the ground near the twin towers. No one watching live TV would have watched the first plane hit the twin towers. Until the first plane hit, it was a normal Tuesday morning.\n\n[B:psych2e-ch8:p272:c001 | Psychology2e_WEB.pdf | page 272]\nBolzan fell, hit his head, and deleted 46 years of his life in an instant. He is now living with one of the most extreme cases of retrograde amnesia on record. LINK T O LEARNING View the video story about Scott Bolzan's amnesia and his attempts to get his life back (https://openstax.org/l/ bolzan) to learn more.\n\n[B:psych2e-ch8:p272:c000 | Psychology2e_WEB.pdf | page 272]\nRetrograde Amnesia Retrograde amnesia is loss of memory for events that occurred prior to the trauma. People with retrograde amnesia cannot remember some or even all of their past. They have difficulty remembering episodic memories. What if you woke up in the hospital one day and there were people surrounding your bed claiming to be your spouse, your children, and your parents? The trouble is you don’t recognize any of them. You were in a car accident, suffered a head injury, and now have retrograde amnesia. You don’t remember anything about your life prior to waking up in the hospital. This may sound like the stuff of Hollywood movies, and Hollywood has been fascinated with the amnesia plot for nearly a century, going all the way back to the film Garden of Lies from 1915 to more recent movies such as the Jason Bourne spy thrillers. However, for real-life sufferers of retrograde amnesia, like former NFL football player Scott Bolzan, the story is not a Hollywood movie.",
+    "context_chars": 5831,
+    "n_searches": 2,
+    "n_model_calls": 2,
+    "usage": {
+      "input": 3894,
+      "output": 411,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0005949,
+    "elapsed_s": 4.89,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "T20",
+    "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+    "filter": {
+      "chapter": 6
+    },
+    "model": "claude-haiku-5-5",
+    "answer": "In classical conditioning terms, the electric shock is the unconditioned stimulus, and it produces discomfort as the unconditioned response. Because the shock is repeatedly paired with the edge of the yard, a neutral stimulus, the dog comes to associate the discomfort with that edge. The edge of the yard becomes the conditioned stimulus, which elicits fear and anxiety as the conditioned response, so the dog stays within the boundaries. [B:psych2e-ch6:p199:c003]",
+    "citations": [
+      "B:psych2e-ch6:p199:c003"
+    ],
+    "status": "answered",
+    "raw_answer": {
+      "status": "answered",
+      "answer": "In classical conditioning terms, the electric shock is the unconditioned stimulus, and it produces discomfort as the unconditioned response. Because the shock is repeatedly paired with the edge of the yard, a neutral stimulus, the dog comes to associate the discomfort with that edge. The edge of the yard becomes the conditioned stimulus, which elicits fear and anxiety as the conditioned response, so the dog stays within the boundaries. [S1]",
+      "citations": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "invisible electric fence dog classical conditioning",
+        "filter": {
+          "chapter": 6
+        },
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "page": 199
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 2,
+            "score": 0.03149801587301587,
+            "page": 201
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c002",
+            "rank": 3,
+            "score": 0.031054405392392875,
+            "page": 204
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 4,
+            "score": 0.031009615384615385,
+            "page": 200
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 5,
+            "score": 0.03036576949620428,
+            "page": 195
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p195:c002"
+        ],
+        "labels": {
+          "B:psych2e-ch6:p199:c003": "S1",
+          "B:psych2e-ch6:p201:c000": "S2",
+          "B:psych2e-ch6:p204:c002": "S3",
+          "B:psych2e-ch6:p200:c005": "S4",
+          "B:psych2e-ch6:p195:c002": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p195:c002"
+        ],
+        "context_chars": 3136
+      },
+      {
+        "event": "search",
+        "query": "electric shock collar conditioned stimulus unconditioned stimulus avoidance",
+        "filter": {
+          "chapter": 6
+        },
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "page": 199
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 2,
+            "score": 0.03200204813108039,
+            "page": 200
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c003",
+            "rank": 3,
+            "score": 0.030776515151515152,
+            "page": 204
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c000",
+            "rank": 4,
+            "score": 0.030309988518943745,
+            "page": 197
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c002",
+            "rank": 5,
+            "score": 0.028531243721117136,
+            "page": 202
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch6:p204:c003",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p202:c002"
+        ],
+        "labels": {
+          "B:psych2e-ch6:p204:c003": "S6",
+          "B:psych2e-ch6:p197:c000": "S7",
+          "B:psych2e-ch6:p202:c002": "S8"
+        },
+        "already_in_context": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p200:c005"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p195:c002",
+          "B:psych2e-ch6:p204:c003",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p202:c002"
+        ],
+        "context_chars": 5068
+      },
+      {
+        "event": "answer",
+        "unknown_labels": [],
+        "listed_not_in_text": []
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch6:p199:c003",
+      "B:psych2e-ch6:p201:c000",
+      "B:psych2e-ch6:p204:c002",
+      "B:psych2e-ch6:p200:c005",
+      "B:psych2e-ch6:p195:c002",
+      "B:psych2e-ch6:p204:c003",
+      "B:psych2e-ch6:p197:c000",
+      "B:psych2e-ch6:p202:c002"
+    ],
+    "context": "[B:psych2e-ch6:p199:c003 | Psychology2e_WEB.pdf | page 199]\nSo far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose owners install an invisible electric dog fence. A small electrical shock (unconditioned stimulus) elicits discomfort (unconditioned response). When the unconditioned stimulus (shock) is paired with a neutral stimulus (the edge of a yard), the dog associates the discomfort (unconditioned response) with the edge of the yard (conditioned stimulus) and stays within the set boundaries. In this example, the edge of the yard elicits fear and anxiety in the dog. Fear and anxiety are the conditioned response. LINK T O LEARNING Watch this video clip from the television show, The Office, for a humorous look at conditioning (https://openstax.org/l/theoffice) in which Jim conditions Dwight to expect a breath mint every time Jim’s computer makes a specific sound.\n\n[B:psych2e-ch6:p201:c000 | Psychology2e_WEB.pdf | page 201]\nconditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. In classical conditioning terms, there is a gradual weakening and disappearance of the conditioned response.\n\n[B:psych2e-ch6:p204:c002 | Psychology2e_WEB.pdf | page 204]\nClassical Conditioning Operant Conditioning Conditioning approach\n\n[B:psych2e-ch6:p200:c005 | Psychology2e_WEB.pdf | page 200]\nOnce we have established the connection between the unconditioned stimulus and the conditioned stimulus, how do we break that connection and get the dog, cat, or child to stop responding? In Tiger’s case, imagine what would happen if you stopped using the electric can opener for her food and began to use it only for human food. Now, Tiger would hear the can opener, but she would not get food. In classical conditioning terms, you would be giving the conditioned stimulus, but not the unconditioned stimulus. Pavlov explored this scenario in his experiments with dogs: sounding the tone without giving the dogs the meat powder. Soon the dogs stopped responding to the tone. Extinction is the decrease in the conditioned response when the unconditioned stimulus is no longer presented with the conditioned stimulus. When presented with the 188 6 • Learning Access for free at openstax.org\n\n[B:psych2e-ch6:p195:c002 | Psychology2e_WEB.pdf | page 195]\n6.2 Classical Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how classical conditioning occurs • Summarize the processes of acquisition, extinction, spontaneous recovery, generalization, and discrimination Does the name Ivan Pavlov ring a bell? Even if you are new to the study of psychology, chances are that you have heard of Pavlov and his famous dogs. Pavlov (1849–1936), a Russian scientist, performed extensive research on dogs and is best known for his experiments in classical conditioning (Figure 6.3). As we discussed briefly in the previous section, classical conditioning is a process by which we learn to associate stimuli and, consequently, to anticipate events.\n\n[B:psych2e-ch6:p204:c003 | Psychology2e_WEB.pdf | page 204]\nAn unconditioned stimulus (such as food) is paired with a neutral stimulus (such as a bell). The neutral stimulus eventually becomes the conditioned stimulus, which brings about the conditioned response (salivation).\n\n[B:psych2e-ch6:p197:c000 | Psychology2e_WEB.pdf | page 197]\nFIGURE 6.4 Before conditioning, an unconditioned stimulus (food) produces an unconditioned response (salivation), and a neutral stimulus (bell) does not produce a response. During conditioning, the unconditioned stimulus (food) is presented repeatedly just after the presentation of the neutral stimulus (bell). After conditioning, the neutral stimulus alone produces a conditioned response (salivation), thus becoming a conditioned stimulus. LINK T O LEARNING View this video about Pavlov and his dogs (https://openstax.org/l/pavlov2) to learn more. Real World Application of Classical Conditioning\n\n[B:psych2e-ch6:p202:c002 | Psychology2e_WEB.pdf | page 202]\nSimilarly, Tiger, the cat, discriminated between the sound of the can opener and the sound of the electric mixer. When the electric mixer is going, Tiger is not about to be fed, so she does not come running to the kitchen looking for food. In our other example, Moisha, the cancer patient, discriminated between oncologists and other types of doctors. She learned not to feel ill when visiting doctors for other types of appointments, such as her annual physical. On the other hand, when an organism demonstrates the conditioned response to stimuli that are similar to the conditioned stimulus, it is called stimulus generalization, the opposite of stimulus discrimination. The more similar a stimulus is to the conditioned stimulus, the more likely the organism is to give the conditioned response. For instance, if the electric mixer sounds very similar to the electric can opener, Tiger may come running after hearing its sound.",
+    "context_chars": 5068,
+    "n_searches": 2,
+    "n_model_calls": 2,
+    "usage": {
+      "input": 3683,
+      "output": 381,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0005588,
+    "elapsed_s": 4.29,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "TA1",
+    "question": "What is Kamin's blocking effect in classical conditioning?",
+    "filter": null,
+    "model": "claude-haiku-5-5",
+    "answer": "The textbook passages I retrieved do not cover Kamin's blocking effect. They describe acquisition, extinction, higher-order conditioning, and Pavlov's experiments, but none of them define blocking or Kamin's research, so I cannot answer from the provided text.",
+    "citations": [],
+    "status": "abstain",
+    "raw_answer": {
+      "status": "abstain",
+      "answer": "The textbook passages I retrieved do not cover Kamin's blocking effect. They describe acquisition, extinction, higher-order conditioning, and Pavlov's experiments, but none of them define blocking or Kamin's research, so I cannot answer from the provided text.",
+      "citations": []
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "Kamin blocking effect classical conditioning",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p204:c002",
+            "rank": 1,
+            "score": 0.03252247488101534,
+            "page": 204
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 2,
+            "score": 0.030798389007344232,
+            "page": 200
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 3,
+            "score": 0.03021353930031804,
+            "page": 201
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c005",
+            "rank": 4,
+            "score": 0.02921395544346364,
+            "page": 204
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 5,
+            "score": 0.029030910609857977,
+            "page": 195
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c000",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c005",
+          "B:psych2e-ch6:p195:c002"
+        ],
+        "labels": {
+          "B:psych2e-ch6:p204:c002": "S1",
+          "B:psych2e-ch6:p200:c000": "S2",
+          "B:psych2e-ch6:p201:c000": "S3",
+          "B:psych2e-ch6:p204:c005": "S4",
+          "B:psych2e-ch6:p195:c002": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c000",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c005",
+          "B:psych2e-ch6:p195:c002"
+        ],
+        "context_chars": 3060
+      },
+      {
+        "event": "search",
+        "query": "blocking: previously conditioned stimulus prevents learning about new stimulus",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p198:c001",
+            "rank": 1,
+            "score": 0.03225806451612903,
+            "page": 198
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c000",
+            "rank": 2,
+            "score": 0.031024531024531024,
+            "page": 197
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 3,
+            "score": 0.030798389007344232,
+            "page": 200
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 4,
+            "score": 0.029877369007803793,
+            "page": 200
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c003",
+            "rank": 5,
+            "score": 0.029709507042253523,
+            "page": 204
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch6:p198:c001",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p204:c003"
+        ],
+        "labels": {
+          "B:psych2e-ch6:p198:c001": "S6",
+          "B:psych2e-ch6:p197:c000": "S7",
+          "B:psych2e-ch6:p200:c005": "S8",
+          "B:psych2e-ch6:p204:c003": "S9"
+        },
+        "already_in_context": [
+          "B:psych2e-ch6:p200:c000"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c000",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c005",
+          "B:psych2e-ch6:p195:c002",
+          "B:psych2e-ch6:p198:c001",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p204:c003"
+        ],
+        "context_chars": 5288
+      },
+      {
+        "event": "search",
+        "query": "Kamin 1969 conditioned suppression compound stimulus learning",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p198:c001",
+            "rank": 1,
+            "score": 0.031746031746031744,
+            "page": 198
+          },
+          {
+            "id": "B:psych2e-ch6:p196:c003",
+            "rank": 2,
+            "score": 0.031009615384615385,
+            "page": 196
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 3,
+            "score": 0.03028233151183971,
+            "page": 200
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c000",
+            "rank": 4,
+            "score": 0.03021353930031804,
+            "page": 197
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 5,
+            "score": 0.030090497737556562,
+            "page": 200
+          }
+        ],
+        "new_context_ids": [],
+        "labels": {},
+        "already_in_context": [
+          "B:psych2e-ch6:p198:c001",
+          "B:psych2e-ch6:p200:c000",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p200:c005"
+        ],
+        "omitted_by_budget": 1,
+        "context_ids": [
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c000",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c005",
+          "B:psych2e-ch6:p195:c002",
+          "B:psych2e-ch6:p198:c001",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p204:c003"
+        ],
+        "context_chars": 5288
+      },
+      {
+        "event": "search",
+        "query": "Kamin blocking",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p279:c000",
+            "rank": 1,
+            "score": 0.032266458495966696,
+            "page": 279
+          },
+          {
+            "id": "B:psych2e-ch8:p278:c002",
+            "rank": 2,
+            "score": 0.0315136476426799,
+            "page": 278
+          },
+          {
+            "id": "B:psych2e-ch8:p277:c001",
+            "rank": 3,
+            "score": 0.029551337359792925,
+            "page": 277
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c010",
+            "rank": 4,
+            "score": 0.016129032258064516,
+            "page": 210
+          },
+          {
+            "id": "B:psych2e-ch6:p208:c000",
+            "rank": 5,
+            "score": 0.015873015873015872,
+            "page": 208
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch6:p210:c010",
+          "B:psych2e-ch6:p208:c000"
+        ],
+        "labels": {
+          "B:psych2e-ch6:p210:c010": "S10",
+          "B:psych2e-ch6:p208:c000": "S11"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 3,
+        "context_ids": [
+          "B:psych2e-ch6:p204:c002",
+          "B:psych2e-ch6:p200:c000",
+          "B:psych2e-ch6:p201:c000",
+          "B:psych2e-ch6:p204:c005",
+          "B:psych2e-ch6:p195:c002",
+          "B:psych2e-ch6:p198:c001",
+          "B:psych2e-ch6:p197:c000",
+          "B:psych2e-ch6:p200:c005",
+          "B:psych2e-ch6:p204:c003",
+          "B:psych2e-ch6:p210:c010",
+          "B:psych2e-ch6:p208:c000"
+        ],
+        "context_chars": 5446
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch6:p204:c002",
+      "B:psych2e-ch6:p200:c000",
+      "B:psych2e-ch6:p201:c000",
+      "B:psych2e-ch6:p204:c005",
+      "B:psych2e-ch6:p195:c002",
+      "B:psych2e-ch6:p198:c001",
+      "B:psych2e-ch6:p197:c000",
+      "B:psych2e-ch6:p200:c005",
+      "B:psych2e-ch6:p204:c003",
+      "B:psych2e-ch6:p210:c010",
+      "B:psych2e-ch6:p208:c000"
+    ],
+    "context": "[B:psych2e-ch6:p204:c002 | Psychology2e_WEB.pdf | page 204]\nClassical Conditioning Operant Conditioning Conditioning approach\n\n[B:psych2e-ch6:p200:c000 | Psychology2e_WEB.pdf | page 200]\nGeneral Processes in Classical Conditioning Now that you know how classical conditioning works and have seen several examples, let’s take a look at some of the general processes involved. In classical conditioning, the initial period of learning is known as acquisition, when an organism learns to connect a neutral stimulus and an unconditioned stimulus. During acquisition, the neutral stimulus begins to elicit the conditioned response, and eventually the neutral stimulus becomes a conditioned stimulus capable of eliciting the conditioned response by itself. Timing is important for conditioning to occur. Typically, there should only be a brief interval between presentation of the conditioned stimulus and the unconditioned stimulus. Depending on what is being conditioned, sometimes this interval is as little as five seconds (Chance, 2009). However, with other types of conditioning, the interval can be up to several hours.\n\n[B:psych2e-ch6:p201:c000 | Psychology2e_WEB.pdf | page 201]\nconditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. In classical conditioning terms, there is a gradual weakening and disappearance of the conditioned response.\n\n[B:psych2e-ch6:p204:c005 | Psychology2e_WEB.pdf | page 204]\nPsychologist B. F. Skinner saw that classical conditioning is limited to existing behaviors that are reflexively elicited, and it doesn’t account for new behaviors such as riding a bike. He proposed a theory about how such behaviors come about. Skinner believed that behavior is motivated by the consequences we receive for the behavior: the reinforcements and punishments. His idea that learning is the result of consequences is based on the law of effect, which was first proposed by psychologist Edward Thorndike. According to the law of effect, behaviors that are followed by consequences that are satisfying to the organism are more likely to be repeated, and behaviors that are followed by unpleasant consequences are less likely to be repeated 192 6 • Learning Access for free at openstax.org\n\n[B:psych2e-ch6:p195:c002 | Psychology2e_WEB.pdf | page 195]\n6.2 Classical Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how classical conditioning occurs • Summarize the processes of acquisition, extinction, spontaneous recovery, generalization, and discrimination Does the name Ivan Pavlov ring a bell? Even if you are new to the study of psychology, chances are that you have heard of Pavlov and his famous dogs. Pavlov (1849–1936), a Russian scientist, performed extensive research on dogs and is best known for his experiments in classical conditioning (Figure 6.3). As we discussed briefly in the previous section, classical conditioning is a process by which we learn to associate stimuli and, consequently, to anticipate events.\n\n[B:psych2e-ch6:p198:c001 | Psychology2e_WEB.pdf | page 198]\nFIGURE 6.5 In higher-order conditioning, an established conditioned stimulus is paired with a new neutral stimulus (the second-order stimulus), so that eventually the new stimulus also elicits the conditioned response, without the initial conditioned stimulus being presented.\n\n[B:psych2e-ch6:p197:c000 | Psychology2e_WEB.pdf | page 197]\nFIGURE 6.4 Before conditioning, an unconditioned stimulus (food) produces an unconditioned response (salivation), and a neutral stimulus (bell) does not produce a response. During conditioning, the unconditioned stimulus (food) is presented repeatedly just after the presentation of the neutral stimulus (bell). After conditioning, the neutral stimulus alone produces a conditioned response (salivation), thus becoming a conditioned stimulus. LINK T O LEARNING View this video about Pavlov and his dogs (https://openstax.org/l/pavlov2) to learn more. Real World Application of Classical Conditioning\n\n[B:psych2e-ch6:p200:c005 | Psychology2e_WEB.pdf | page 200]\nOnce we have established the connection between the unconditioned stimulus and the conditioned stimulus, how do we break that connection and get the dog, cat, or child to stop responding? In Tiger’s case, imagine what would happen if you stopped using the electric can opener for her food and began to use it only for human food. Now, Tiger would hear the can opener, but she would not get food. In classical conditioning terms, you would be giving the conditioned stimulus, but not the unconditioned stimulus. Pavlov explored this scenario in his experiments with dogs: sounding the tone without giving the dogs the meat powder. Soon the dogs stopped responding to the tone. Extinction is the decrease in the conditioned response when the unconditioned stimulus is no longer presented with the conditioned stimulus. When presented with the 188 6 • Learning Access for free at openstax.org\n\n[B:psych2e-ch6:p204:c003 | Psychology2e_WEB.pdf | page 204]\nAn unconditioned stimulus (such as food) is paired with a neutral stimulus (such as a bell). The neutral stimulus eventually becomes the conditioned stimulus, which brings about the conditioned response (salivation).\n\n[B:psych2e-ch6:p210:c010 | Psychology2e_WEB.pdf | page 210]\nFixed ratio\n\n[B:psych2e-ch6:p208:c000 | Psychology2e_WEB.pdf | page 208]\ncleans his entire room.",
+    "context_chars": 5446,
+    "n_searches": 4,
+    "n_model_calls": 5,
+    "usage": {
+      "input": 11433,
+      "output": 474,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0013803,
+    "elapsed_s": 11.78,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "TA2",
+    "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+    "filter": null,
+    "model": "claude-haiku-5-5",
+    "answer": "The textbook passages I retrieved do not cover Korsakoff syndrome or alcohol-related memory loss. They describe amnesia generally: anterograde amnesia (inability to form new memories after an injury, typically involving the hippocampus) and retrograde amnesia (loss of memories from before the injury) [B:psych2e-ch8:p271:c004][B:psych2e-ch8:p271:c002][B:psych2e-ch8:p272:c000]. I can't say from these passages how Korsakoff syndrome affects memory.",
+    "citations": [],
+    "status": "abstain",
+    "raw_answer": {
+      "status": "abstain",
+      "answer": "The textbook passages I retrieved do not cover Korsakoff syndrome or alcohol-related memory loss. They describe amnesia generally: anterograde amnesia (inability to form new memories after an injury, typically involving the hippocampus) and retrograde amnesia (loss of memories from before the injury) [S3][S5][S6]. I can't say from these passages how Korsakoff syndrome affects memory.",
+      "citations": [
+        "S3",
+        "S5",
+        "S6"
+      ]
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "Korsakoff syndrome chronic alcohol use memory",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 1,
+            "score": 0.01639344262295082,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c001",
+            "rank": 2,
+            "score": 0.01639344262295082,
+            "page": 275
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c004",
+            "rank": 3,
+            "score": 0.016129032258064516,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p283:c003",
+            "rank": 4,
+            "score": 0.016129032258064516,
+            "page": 283
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 5,
+            "score": 0.015873015873015872,
+            "page": 271
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p275:c001",
+          "B:psych2e-ch8:p271:c004",
+          "B:psych2e-ch8:p283:c003",
+          "B:psych2e-ch8:p271:c002"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p271:c001": "S1",
+          "B:psych2e-ch8:p275:c001": "S2",
+          "B:psych2e-ch8:p271:c004": "S3",
+          "B:psych2e-ch8:p283:c003": "S4",
+          "B:psych2e-ch8:p271:c002": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p275:c001",
+          "B:psych2e-ch8:p271:c004",
+          "B:psych2e-ch8:p283:c003",
+          "B:psych2e-ch8:p271:c002"
+        ],
+        "context_chars": 3885
+      },
+      {
+        "event": "search",
+        "query": "Korsakoff thiamine deficiency alcoholism amnesia",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 1,
+            "score": 0.032018442622950824,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c004",
+            "rank": 2,
+            "score": 0.03200204813108039,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 3,
+            "score": 0.03177805800756621,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 4,
+            "score": 0.03149801587301587,
+            "page": 272
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c001",
+            "rank": 5,
+            "score": 0.030536130536130537,
+            "page": 272
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p272:c001"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p272:c000": "S6",
+          "B:psych2e-ch8:p272:c001": "S7"
+        },
+        "already_in_context": [
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p271:c004",
+          "B:psych2e-ch8:p271:c002"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p275:c001",
+          "B:psych2e-ch8:p271:c004",
+          "B:psych2e-ch8:p283:c003",
+          "B:psych2e-ch8:p271:c002",
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p272:c001"
+        ],
+        "context_chars": 5304
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch8:p271:c001",
+      "B:psych2e-ch8:p275:c001",
+      "B:psych2e-ch8:p271:c004",
+      "B:psych2e-ch8:p283:c003",
+      "B:psych2e-ch8:p271:c002",
+      "B:psych2e-ch8:p272:c000",
+      "B:psych2e-ch8:p272:c001"
+    ],
+    "context": "[B:psych2e-ch8:p271:c001 | Psychology2e_WEB.pdf | page 271]\nAmnesia Amnesia is the loss of long-term memory that occurs as the result of disease, physical trauma, or psychological trauma. Endel Tulving (2002) and his colleagues at the University of Toronto studied K. C. for years. K. C. suffered a traumatic head injury in a motorcycle accident and then had severe amnesia. Tulving writes, the outstanding fact about K.C.'s mental make-up is his utter inability to remember any events, circumstances, or situations from his own life. His episodic amnesia covers his whole life, from birth to the present. The only exception is the experiences that, at any time, he has had in the last minute or two. (Tulving, 2002, p. 14)\n\n[B:psych2e-ch8:p275:c001 | Psychology2e_WEB.pdf | page 275]\nControversies over Repressed and Recovered Memories Other researchers have described how whole events, not just words, can be falsely recalled, even when they did not happen. The idea that memories of traumatic events could be repressed has been a theme in the field of psychology, beginning with Sigmund Freud, and the controversy surrounding the idea continues today. Recall of false autobiographical memories is called false memory syndrome. This syndrome has received a lot of publicity, particularly as it relates to memories of events that do not have independent witnesses—often the only witnesses to the abuse are the perpetrator and the victim (e.g., sexual abuse). On one side of the debate are those who have recovered memories of childhood abuse years after it occurred. These researchers argue that some children’s experiences have been so traumatizing and distressing that they must lock those memories away in order to lead some semblance of a normal life.\n\n[B:psych2e-ch8:p271:c004 | Psychology2e_WEB.pdf | page 271]\nFIGURE 8.10 This diagram illustrates the timeline of retrograde and anterograde amnesia. Memory problems that extend back in time before the injury and prevent retrieval of information previously stored in long-term memory are known as retrograde amnesia. Conversely, memory problems that extend forward in time from the point of injury and prevent the formation of new memories are called anterograde amnesia.\n\n[B:psych2e-ch8:p283:c003 | Psychology2e_WEB.pdf | page 283]\n• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once. Memory consolidation takes time, and studying across time allows time for memories to consolidate. In addition, cramming can cause the links between concepts to become so active that you get stuck in a link, and it prevents you from accessing the rest of the information that you learned. • Rehearse, rehearse, rehearse: Review the material over time, in spaced and organized study sessions. Organize and study your notes, and take practice quizzes/exams. Link the new information to other information you already know well. • Study efficiently: Students are great highlighters, but highlighting is not very efficient because students spend too much time studying the things they already learned. Instead of highlighting, use index cards. Write the question on one side and the answer on the other side. When you study, separate your cards into\n\n[B:psych2e-ch8:p271:c002 | Psychology2e_WEB.pdf | page 271]\nAnterograde Amnesia There are two common types of amnesia: anterograde amnesia and retrograde amnesia (Figure 8.10). Anterograde amnesia is commonly caused by brain trauma, such as a blow to the head. With anterograde amnesia, you cannot remember new information, although you can remember information and events that happened prior to your injury. The hippocampus is usually affected (McLeod, 2011). This suggests that damage to the brain has resulted in the inability to transfer information from short-term to long-term memory; that is, the inability to consolidate memories.\n\n[B:psych2e-ch8:p272:c000 | Psychology2e_WEB.pdf | page 272]\nRetrograde Amnesia Retrograde amnesia is loss of memory for events that occurred prior to the trauma. People with retrograde amnesia cannot remember some or even all of their past. They have difficulty remembering episodic memories. What if you woke up in the hospital one day and there were people surrounding your bed claiming to be your spouse, your children, and your parents? The trouble is you don’t recognize any of them. You were in a car accident, suffered a head injury, and now have retrograde amnesia. You don’t remember anything about your life prior to waking up in the hospital. This may sound like the stuff of Hollywood movies, and Hollywood has been fascinated with the amnesia plot for nearly a century, going all the way back to the film Garden of Lies from 1915 to more recent movies such as the Jason Bourne spy thrillers. However, for real-life sufferers of retrograde amnesia, like former NFL football player Scott Bolzan, the story is not a Hollywood movie.\n\n[B:psych2e-ch8:p272:c001 | Psychology2e_WEB.pdf | page 272]\nBolzan fell, hit his head, and deleted 46 years of his life in an instant. He is now living with one of the most extreme cases of retrograde amnesia on record. LINK T O LEARNING View the video story about Scott Bolzan's amnesia and his attempts to get his life back (https://openstax.org/l/ bolzan) to learn more.",
+    "context_chars": 5304,
+    "n_searches": 2,
+    "n_model_calls": 3,
+    "usage": {
+      "input": 5819,
+      "output": 405,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0007844,
+    "elapsed_s": 5.91,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  },
+  {
+    "query_id": "TA3",
+    "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+    "filter": null,
+    "model": "claude-haiku-5-5",
+    "answer": "The textbook passages do not cover childhood (infantile) amnesia or the age at which most people's earliest memories begin. The retrieved passages discuss only retrograde and anterograde amnesia, recovered memories of childhood abuse, and general memory problems, so I cannot give an answer from the text.",
+    "citations": [],
+    "status": "abstain",
+    "raw_answer": {
+      "status": "abstain",
+      "answer": "The textbook passages do not cover childhood (infantile) amnesia or the age at which most people's earliest memories begin. The retrieved passages discuss only retrograde and anterograde amnesia, recovered memories of childhood abuse, and general memory problems, so I cannot give an answer from the text.",
+      "citations": []
+    },
+    "events": [
+      {
+        "event": "search",
+        "query": "childhood amnesia earliest memories age",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p275:c003",
+            "rank": 1,
+            "score": 0.032266458495966696,
+            "page": 275
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 2,
+            "score": 0.031054405392392875,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c003",
+            "rank": 3,
+            "score": 0.031009615384615385,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 4,
+            "score": 0.031009615384615385,
+            "page": 272
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 5,
+            "score": 0.030621785881252923,
+            "page": 271
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p275:c003",
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p271:c003",
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p271:c002"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p275:c003": "S1",
+          "B:psych2e-ch8:p271:c001": "S2",
+          "B:psych2e-ch8:p271:c003": "S3",
+          "B:psych2e-ch8:p272:c000": "S4",
+          "B:psych2e-ch8:p271:c002": "S5"
+        },
+        "already_in_context": [],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p275:c003",
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p271:c003",
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p271:c002"
+        ],
+        "context_chars": 4263
+      },
+      {
+        "event": "search",
+        "query": "infantile amnesia adults' memories begin around age 3 or 4",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p275:c003",
+            "rank": 1,
+            "score": 0.03252247488101534,
+            "page": 275
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c000",
+            "rank": 2,
+            "score": 0.03125,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 3,
+            "score": 0.030834914611005692,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 4,
+            "score": 0.03057889822595705,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 5,
+            "score": 0.030309988518943745,
+            "page": 272
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p271:c000"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p271:c000": "S6"
+        },
+        "already_in_context": [
+          "B:psych2e-ch8:p275:c003",
+          "B:psych2e-ch8:p271:c002",
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p272:c000"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p275:c003",
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p271:c003",
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p271:c002",
+          "B:psych2e-ch8:p271:c000"
+        ],
+        "context_chars": 5002
+      },
+      {
+        "event": "search",
+        "query": "infantile amnesia",
+        "filter": null,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 1,
+            "score": 0.032266458495966696,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 2,
+            "score": 0.032018442622950824,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c004",
+            "rank": 3,
+            "score": 0.0315136476426799,
+            "page": 271
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 4,
+            "score": 0.03149801587301587,
+            "page": 272
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c003",
+            "rank": 5,
+            "score": 0.03128054740957967,
+            "page": 271
+          }
+        ],
+        "new_context_ids": [
+          "B:psych2e-ch8:p271:c004"
+        ],
+        "labels": {
+          "B:psych2e-ch8:p271:c004": "S7"
+        },
+        "already_in_context": [
+          "B:psych2e-ch8:p271:c002",
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p271:c003"
+        ],
+        "omitted_by_budget": 0,
+        "context_ids": [
+          "B:psych2e-ch8:p275:c003",
+          "B:psych2e-ch8:p271:c001",
+          "B:psych2e-ch8:p271:c003",
+          "B:psych2e-ch8:p272:c000",
+          "B:psych2e-ch8:p271:c002",
+          "B:psych2e-ch8:p271:c000",
+          "B:psych2e-ch8:p271:c004"
+        ],
+        "context_chars": 5474
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "context_ids": [
+      "B:psych2e-ch8:p275:c003",
+      "B:psych2e-ch8:p271:c001",
+      "B:psych2e-ch8:p271:c003",
+      "B:psych2e-ch8:p272:c000",
+      "B:psych2e-ch8:p271:c002",
+      "B:psych2e-ch8:p271:c000",
+      "B:psych2e-ch8:p271:c004"
+    ],
+    "context": "[B:psych2e-ch8:p275:c003 | Psychology2e_WEB.pdf | page 275]\nResearch suggests that having no memory of childhood sexual abuse is quite common in adults. For instance, one large-scale study conducted by John Briere and Jon Conte (1993) revealed that 59% of 450 men and women who were receiving treatment for sexual abuse that had occurred before age 18 had forgotten their experiences. Ross Cheit (2007) suggested that repressing these memories created psychological distress in adulthood. The Recovered Memory Project was created so that victims of childhood sexual abuse can recall these memories and allow the healing process to begin (Cheit, 2007; Devilly, 2007). On the other side, Loftus has challenged the idea that individuals can repress memories of traumatic events from childhood, including sexual abuse, and then recover those memories years later through therapeutic techniques such as hypnosis, guided visualization, and age regression.\n\n[B:psych2e-ch8:p271:c001 | Psychology2e_WEB.pdf | page 271]\nAmnesia Amnesia is the loss of long-term memory that occurs as the result of disease, physical trauma, or psychological trauma. Endel Tulving (2002) and his colleagues at the University of Toronto studied K. C. for years. K. C. suffered a traumatic head injury in a motorcycle accident and then had severe amnesia. Tulving writes, the outstanding fact about K.C.'s mental make-up is his utter inability to remember any events, circumstances, or situations from his own life. His episodic amnesia covers his whole life, from birth to the present. The only exception is the experiences that, at any time, he has had in the last minute or two. (Tulving, 2002, p. 14)\n\n[B:psych2e-ch8:p271:c003 | Psychology2e_WEB.pdf | page 271]\nMany people with this form of amnesia are unable to form new episodic or semantic memories, but are still able to form new procedural memories (Bayley & Squire, 2002). This was true of H. M., which was discussed earlier. The brain damage caused by his surgery resulted in anterograde amnesia. H. M. would read the same magazine over and over, having no memory of ever reading it—it was always new to him. He also could not remember people he had met after his surgery. If you were introduced to H. M. and then you left the room for a few minutes, he would not know you upon your return and would introduce himself to you again. However, when presented the same puzzle several days in a row, although he did not remember having seen the puzzle before, his speed at solving it became faster each day (because of relearning) (Corkin, 1965, 1968).\n\n[B:psych2e-ch8:p272:c000 | Psychology2e_WEB.pdf | page 272]\nRetrograde Amnesia Retrograde amnesia is loss of memory for events that occurred prior to the trauma. People with retrograde amnesia cannot remember some or even all of their past. They have difficulty remembering episodic memories. What if you woke up in the hospital one day and there were people surrounding your bed claiming to be your spouse, your children, and your parents? The trouble is you don’t recognize any of them. You were in a car accident, suffered a head injury, and now have retrograde amnesia. You don’t remember anything about your life prior to waking up in the hospital. This may sound like the stuff of Hollywood movies, and Hollywood has been fascinated with the amnesia plot for nearly a century, going all the way back to the film Garden of Lies from 1915 to more recent movies such as the Jason Bourne spy thrillers. However, for real-life sufferers of retrograde amnesia, like former NFL football player Scott Bolzan, the story is not a Hollywood movie.\n\n[B:psych2e-ch8:p271:c002 | Psychology2e_WEB.pdf | page 271]\nAnterograde Amnesia There are two common types of amnesia: anterograde amnesia and retrograde amnesia (Figure 8.10). Anterograde amnesia is commonly caused by brain trauma, such as a blow to the head. With anterograde amnesia, you cannot remember new information, although you can remember information and events that happened prior to your injury. The hippocampus is usually affected (McLeod, 2011). This suggests that damage to the brain has resulted in the inability to transfer information from short-term to long-term memory; that is, the inability to consolidate memories.\n\n[B:psych2e-ch8:p271:c000 | Psychology2e_WEB.pdf | page 271]\n8.3 Problems with Memory LEARNING OBJECTIVES By the end of this section, you will be able to: • Compare and contrast the two types of amnesia • Discuss the unreliability of eyewitness testimony • Discuss encoding failure • Discuss the various memory errors • Compare and contrast the two types of interference You may pride yourself on your amazing ability to remember the birthdates and ages of all of your friends and family members, or you may be able to recall vivid details of your 5th birthday party at Chuck E. Cheese’s. However, all of us have at times felt frustrated, and even embarrassed, when our memories have failed us. There are several reasons why this happens.\n\n[B:psych2e-ch8:p271:c004 | Psychology2e_WEB.pdf | page 271]\nFIGURE 8.10 This diagram illustrates the timeline of retrograde and anterograde amnesia. Memory problems that extend back in time before the injury and prevent retrieval of information previously stored in long-term memory are known as retrograde amnesia. Conversely, memory problems that extend forward in time from the point of injury and prevent the formation of new memories are called anterograde amnesia.",
+    "context_chars": 5474,
+    "n_searches": 3,
+    "n_model_calls": 4,
+    "usage": {
+      "input": 8830,
+      "output": 403,
+      "cache_write": 0,
+      "cache_read": 0
+    },
+    "cost_usd": 0.0010845,
+    "elapsed_s": 7.28,
+    "config": {
+      "effort": "medium",
+      "top_k": 5,
+      "max_searches": 4,
+      "budget_chars": 6000,
+      "retriever": "hybrid_rrf"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "T16",
+    "citation_support": [
+      null,
+      null
+    ],
+    "note": "",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T17",
+    "citation_support": [
+      null
+    ],
+    "note": "",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T18",
+    "citation_support": [
+      null
+    ],
+    "note": "",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T19",
+    "citation_support": [
+      null,
+      null
+    ],
+    "note": "",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T20",
+    "citation_support": [
+      null
+    ],
+    "note": "",
+    "answer_grade": null
+  },
+  {
+    "query_id": "TA1",
+    "citation_support": [],
+    "note": "",
+    "abstention_correct": null
+  },
+  {
+    "query_id": "TA2",
+    "citation_support": [],
+    "note": "",
+    "abstention_correct": null
+  },
+  {
+    "query_id": "TA3",
+    "citation_support": [],
+    "note": "",
+    "abstention_correct": null
+  }
+]

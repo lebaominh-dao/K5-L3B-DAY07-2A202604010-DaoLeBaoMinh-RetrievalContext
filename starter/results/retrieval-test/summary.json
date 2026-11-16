@@ -1,0 +1,175 @@
+{
+  "config": {
+    "split": "test",
+    "methods": [
+      "dense",
+      "bm25",
+      "tfidf",
+      "hybrid"
+    ],
+    "depth": 10,
+    "budget_chars": 3000,
+    "chunks": "/home/glowo/Programming/AI20K/Day07/starter/data/day6/chunks.json",
+    "n_chunks": 256,
+    "bm25": {
+      "k1": 1.5,
+      "b": 0.75
+    },
+    "hybrid": {
+      "components": [
+        "dense",
+        "bm25"
+      ],
+      "rrf_k": 60,
+      "candidates_per_component": 20
+    }
+  },
+  "methods": [
+    {
+      "method": "dense",
+      "n_answerable": 5,
+      "hit_at_1": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "evidence_hit_at_3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "hit_at_10": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "mrr_at_10": 0.9,
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [],
+      "median_ms": 735.4,
+      "max_ms": 1455.4,
+      "embedding_tokens": 140,
+      "embedding_cost_usd": 2.8e-06,
+      "abstain_top1_score": {
+        "TA1": 0.4294126920249245,
+        "TA2": 0.4948156367820705,
+        "TA3": 0.5460774188892917
+      }
+    },
+    {
+      "method": "bm25",
+      "n_answerable": 5,
+      "hit_at_1": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "evidence_hit_at_3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "hit_at_10": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "mrr_at_10": 1.0,
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [],
+      "median_ms": 0.4,
+      "max_ms": 0.5,
+      "embedding_tokens": 0,
+      "embedding_cost_usd": 0.0,
+      "abstain_top1_score": {
+        "TA1": 9.803542394889801,
+        "TA2": 10.22994970193354,
+        "TA3": 21.38724724674278
+      }
+    },
+    {
+      "method": "tfidf",
+      "n_answerable": 5,
+      "hit_at_1": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "evidence_hit_at_3": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "hit_at_10": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "mrr_at_10": 0.825,
+      "context_evidence_rate": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [
+        "T19"
+      ],
+      "median_ms": 0.5,
+      "max_ms": 0.6,
+      "embedding_tokens": 0,
+      "embedding_cost_usd": 0.0,
+      "abstain_top1_score": {
+        "TA1": 0.3381945781078024,
+        "TA2": 0.14349996686112831,
+        "TA3": 0.24574364481924912
+      }
+    },
+    {
+      "method": "hybrid",
+      "n_answerable": 5,
+      "hit_at_1": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "evidence_hit_at_3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "hit_at_10": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "mrr_at_10": 1.0,
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [],
+      "median_ms": 712.4,
+      "max_ms": 1403.3,
+      "embedding_tokens": 140,
+      "embedding_cost_usd": 2.8e-06,
+      "abstain_top1_score": {
+        "TA1": 0.03252247488101534,
+        "TA2": 0.032018442622950824,
+        "TA3": 0.032266458495966696
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+D01  answered searches=2 cites=2   7.3s  'Reflexes and instincts are innate (unlearned) behaviors that organisms are born with, and '
+D02  answered searches=1 cites=3   5.3s  'During extinction, the conditioned response decreases and weakens when the conditioned sti'
+D03  answered searches=1 cites=2   4.8s  'The textbook says that in taste aversion an interval of several hours may pass between the'
+D04  answered searches=1 cites=2   4.1s  'It is called spontaneous recovery: the return of a previously extinguished conditioned res'
+D05  answered searches=2 cites=2   5.5s  'No, not in any useful way according to the textbook. Pairing a new neutral stimulus with a'
+D06  answered searches=1 cites=2   4.2s  'In operant conditioning, "positive" and "negative" do not mean good and bad. Positive mean'
+D07  answered searches=2 cites=3   4.9s  'The seatbelt chime is negative reinforcement because the annoying beeping is an aversive s'
+D08  answered searches=2 cites=3   5.2s  'The variable ratio schedule produces behavior most resistant to extinction. The textbook d'
+D09  answered searches=2 cites=3   5.1s  'Use a fixed ratio schedule when you want to maximize the quantity of output, since reward '
+D10  answered searches=1 cites=1   3.9s  'According to Bandura, modeling leads to learning only if four steps are followed: attentio'
+D11  answered searches=1 cites=3   4.5s  'Memory is the set of processes used to encode, store, and retrieve information over differ'
+D12  answered searches=1 cites=1   4.1s  'Current research estimates working memory capacity at about 4 items, plus or minus 1 (Cowa'
+D13  answered searches=1 cites=2   5.2s  'A person with anterograde amnesia cannot remember new information, because brain damage (o'
+D14  answered searches=1 cites=1   4.8s  'According to Ebbinghaus, an average person loses 50% of newly memorized information after '
+D15  answered searches=1 cites=1   5.1s  'Damage to the cerebellum. When researchers damaged the cerebellums of rabbits, they were n'
+DA1  abstain  searches=1 cites=0   4.3s  'The textbook passages do not cover whether or when Ivan Pavlov received a Nobel Prize. The'
+DA2  abstain  searches=4 cites=0  12.0s  "The textbook passages I retrieved do not cover Martin Seligman's learned helplessness expe"
+DA3  abstain  searches=2 cites=0   7.2s  "The textbook passages do not cover which brain changes in Alzheimer's disease cause memory"
+{
+  "split": "dev",
+  "model": "claude-haiku-5-5",
+  "embedding_cost_usd": 5.1e-06,
+  "cases": 18,
+  "errors": [],
+  "tool_use": {
+    "n": 18,
+    "N": 18,
+    "rate": 1.0
+  },
+  "searches_per_run": {
+    "1": 11,
+    "2": 6,
+    "4": 1
+  },
+  "context_evidence_rate": {
+    "n": 15,
+    "N": 15,
+    "rate": 1.0
+  },
+  "context_missing": [],
+  "cited_evidence_auto": {
+    "n": 15,
+    "N": 15,
+    "rate": 1.0
+  },
+  "answers_with_citation": {
+    "n": 15,
+    "N": 15,
+    "rate": 1.0
+  },
+  "abstention": {
+    "n": 3,
+    "N": 3,
+    "rate": 1.0
+  },
+  "abstain_answered": [],
+  "false_abstention": {
+    "n": 0,
+    "N": 15,
+    "rate": 0.0
+  },
+  "false_abstain_ids": [],
+  "median_s": 5.0,
+  "max_s": 11.98,
+  "tokens": {
+    "input": 73298,
+    "output": 6268,
+    "cache_write": 0,
+    "cache_read": 0
+  },
+  "cost_usd": 0.01046
+}

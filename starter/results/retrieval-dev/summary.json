@@ -1,0 +1,202 @@
+{
+  "config": {
+    "split": "dev",
+    "methods": [
+      "dense",
+      "bm25",
+      "tfidf",
+      "hybrid"
+    ],
+    "depth": 10,
+    "budget_chars": 3000,
+    "chunks": "/home/glowo/Programming/AI20K/Day07/starter/data/day6/chunks.json",
+    "n_chunks": 256,
+    "bm25": {
+      "k1": 1.5,
+      "b": 0.75
+    },
+    "hybrid": {
+      "components": [
+        "dense",
+        "bm25"
+      ],
+      "rrf_k": 60,
+      "candidates_per_component": 20
+    }
+  },
+  "methods": [
+    {
+      "method": "dense",
+      "n_answerable": 25,
+      "hit_at_1": {
+        "n": 17,
+        "N": 25,
+        "rate": 0.68
+      },
+      "evidence_hit_at_3": {
+        "n": 22,
+        "N": 25,
+        "rate": 0.88
+      },
+      "hit_at_10": {
+        "n": 25,
+        "N": 25,
+        "rate": 1.0
+      },
+      "mrr_at_10": 0.799,
+      "context_evidence_rate": {
+        "n": 22,
+        "N": 25,
+        "rate": 0.88
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [
+        "D05",
+        "D09",
+        "D17"
+      ],
+      "median_ms": 757.8,
+      "max_ms": 1967.2,
+      "embedding_tokens": 550,
+      "embedding_cost_usd": 1.1e-05,
+      "abstain_top1_score": {
+        "DA1": 0.572369378471685,
+        "DA2": 0.4609988806457499,
+        "DA3": 0.48157062238742554,
+        "DA4": 0.5162085701121043,
+        "DA5": 0.675550768107578,
+        "DA6": 0.5561440458437219
+      }
+    },
+    {
+      "method": "bm25",
+      "n_answerable": 25,
+      "hit_at_1": {
+        "n": 18,
+        "N": 25,
+        "rate": 0.72
+      },
+      "evidence_hit_at_3": {
+        "n": 21,
+        "N": 25,
+        "rate": 0.84
+      },
+      "hit_at_10": {
+        "n": 25,
+        "N": 25,
+        "rate": 1.0
+      },
+      "mrr_at_10": 0.814,
+      "context_evidence_rate": {
+        "n": 21,
+        "N": 25,
+        "rate": 0.84
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [
+        "D02",
+        "D04",
+        "D09",
+        "D11"
+      ],
+      "median_ms": 0.4,
+      "max_ms": 0.6,
+      "embedding_tokens": 0,
+      "embedding_cost_usd": 0.0,
+      "abstain_top1_score": {
+        "DA1": 14.769910177813292,
+        "DA2": 14.016921626677975,
+        "DA3": 11.240389396334004,
+        "DA4": 9.387391438162904,
+        "DA5": 27.409546332193383,
+        "DA6": 23.629780591624982
+      }
+    },
+    {
+      "method": "tfidf",
+      "n_answerable": 25,
+      "hit_at_1": {
+        "n": 14,
+        "N": 25,
+        "rate": 0.56
+      },
+      "evidence_hit_at_3": {
+        "n": 20,
+        "N": 25,
+        "rate": 0.8
+      },
+      "hit_at_10": {
+        "n": 25,
+        "N": 25,
+        "rate": 1.0
+      },
+      "mrr_at_10": 0.714,
+      "context_evidence_rate": {
+        "n": 20,
+        "N": 25,
+        "rate": 0.8
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [
+        "D02",
+        "D04",
+        "D05",
+        "D09",
+        "D12"
+      ],
+      "median_ms": 0.5,
+      "max_ms": 0.7,
+      "embedding_tokens": 0,
+      "embedding_cost_usd": 0.0,
+      "abstain_top1_score": {
+        "DA1": 0.2088888294619649,
+        "DA2": 0.20477695413247143,
+        "DA3": 0.1478814386224614,
+        "DA4": 0.08601780296591756,
+        "DA5": 0.32065041740825834,
+        "DA6": 0.31187186747482953
+      }
+    },
+    {
+      "method": "hybrid",
+      "n_answerable": 25,
+      "hit_at_1": {
+        "n": 17,
+        "N": 25,
+        "rate": 0.68
+      },
+      "evidence_hit_at_3": {
+        "n": 24,
+        "N": 25,
+        "rate": 0.96
+      },
+      "hit_at_10": {
+        "n": 25,
+        "N": 25,
+        "rate": 1.0
+      },
+      "mrr_at_10": 0.815,
+      "context_evidence_rate": {
+        "n": 24,
+        "N": 25,
+        "rate": 0.96
+      },
+      "filter_compliant": "2/2",
+      "failed_hit3": [
+        "D09"
+      ],
+      "median_ms": 735.7,
+      "max_ms": 1947.3,
+      "embedding_tokens": 550,
+      "embedding_cost_usd": 1.1e-05,
+      "abstain_top1_score": {
+        "DA1": 0.03252247488101534,
+        "DA2": 0.032266458495966696,
+        "DA3": 0.031544957774465976,
+        "DA4": 0.03149801587301587,
+        "DA5": 0.03278688524590164,
+        "DA6": 0.03278688524590164
+      }
+    }
+  ]
+}

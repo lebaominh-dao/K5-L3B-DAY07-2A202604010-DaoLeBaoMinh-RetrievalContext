@@ -1,0 +1,76 @@
+D01  answered searches=2 cites=2   7.4s  'Reflexes and instincts are both innate (unlearned) behaviors that organisms are born with '
+D02  answered searches=1 cites=3   4.6s  'During extinction, the conditioned response decreases when the conditioned stimulus is pre'
+D03  answered searches=1 cites=1   4.6s  'The textbook says that in taste aversion an interval of several hours may pass between the'
+D04  answered searches=1 cites=2   3.8s  'It is called spontaneous recovery: the return of a previously extinguished conditioned res'
+D05  answered searches=2 cites=2   4.4s  'Not in practice, according to the textbook. Pairing a new neutral stimulus with an establi'
+D06  answered searches=1 cites=1   5.2s  'In operant conditioning, "positive" and "negative" do not mean good and bad. Positive mean'
+D07  answered searches=2 cites=2   5.5s  'The seatbelt chime is negative reinforcement because it starts as an annoying "beep, beep,'
+D08  answered searches=2 cites=2   5.1s  'The variable ratio schedule, in which reinforcement follows an unpredictable number of res'
+D09  abstain  searches=4 cites=0   8.3s  'The textbook passages do not cover when to prefer a fixed ratio schedule over a fixed inte'
+D10  answered searches=1 cites=1   3.7s  'According to Bandura, four steps must be followed for modeling to lead to successful learn'
+D11  answered searches=1 cites=1   3.5s  'Memory is the set of processes used to encode, store, and retrieve information over differ'
+D12  answered searches=1 cites=1   4.6s  "Miller's classic 1956 review found people can retain between 5 and 9 items, which he summa"
+D13  answered searches=1 cites=2   4.0s  'A person with anterograde amnesia cannot remember new information; they can remember event'
+D14  answered searches=1 cites=1   3.8s  'According to Ebbinghaus, an average person loses 50% of newly memorized information after '
+D15  answered searches=1 cites=1   3.7s  'Damage to the cerebellum prevents learning the conditioned eye-blink response: when resear'
+DA1  abstain  searches=2 cites=0   5.1s  'The textbook passages do not cover the year Ivan Pavlov received the Nobel Prize or the sp'
+DA2  abstain  searches=4 cites=0  13.6s  "The textbook passages I retrieved do not cover Martin Seligman's learned helplessness expe"
+DA3  abstain  searches=4 cites=0  10.7s  "The textbook passages I retrieved do not cover Alzheimer's disease or the brain changes th"
+{
+  "split": "dev",
+  "model": "claude-haiku-5-5",
+  "embedding_cost_usd": 6e-06,
+  "cases": 18,
+  "errors": [],
+  "tool_use": {
+    "n": 18,
+    "N": 18,
+    "rate": 1.0
+  },
+  "searches_per_run": {
+    "1": 10,
+    "2": 5,
+    "4": 3
+  },
+  "context_evidence_rate": {
+    "n": 14,
+    "N": 15,
+    "rate": 0.933
+  },
+  "context_missing": [
+    "D09"
+  ],
+  "cited_evidence_auto": {
+    "n": 14,
+    "N": 15,
+    "rate": 0.933
+  },
+  "answers_with_citation": {
+    "n": 14,
+    "N": 14,
+    "rate": 1.0
+  },
+  "abstention": {
+    "n": 3,
+    "N": 3,
+    "rate": 1.0
+  },
+  "abstain_answered": [],
+  "false_abstention": {
+    "n": 1,
+    "N": 15,
+    "rate": 0.067
+  },
+  "false_abstain_ids": [
+    "D09"
+  ],
+  "median_s": 4.64,
+  "max_s": 13.64,
+  "tokens": {
+    "input": 71811,
+    "output": 6273,
+    "cache_write": 0,
+    "cache_read": 0
+  },
+  "cost_usd": 0.01032
+}

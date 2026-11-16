@@ -1,0 +1,69 @@
+[
+  {
+    "query_id": "T16",
+    "citation_support": [
+      true,
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": "đủ ý: chạm vào chuột, đập búa tạo âm thanh lớn, lặp đi lặp lại việc ghép cặp"
+  },
+  {
+    "query_id": "T17",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": ""
+  },
+  {
+    "query_id": "T18",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": "chọn đúng cách truy xuất thông tin recognition và định nghĩa."
+  },
+  {
+    "query_id": "T19",
+    "citation_support": [
+      true,
+      false
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": "Có giải thích bối cảnh cho những người tham gia xem các đoạn phim, các từ khoá câu hỏi, giải thích nếu nghe \"smashed\" thì ước lượng về tốc độ gấp đôi và nhớ nhầm, kèm dẫn chứng không có mảnh vỡ nào trong đoạn phim. Trích dẫn p274:c003 không liên quan đến câu trả lời; câu trả lời của agent chỉ đơn giản là sử dụng kết quả nghiên cứu xã hội về đoạn phim tai nạn ô tô để ra kết luận, không giải thích về hiệu ứng thông tin sai lệch."
+  },
+  {
+    "query_id": "T20",
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": "trả lời đủ ý, giải thích kỹ. nói thừa phần \"làm thế nào để phản ứng yếu đi\". không sai, chỉ là thừa."
+  },
+  {
+    "query_id": "TA1",
+    "citation_support": [],
+    "abstention_correct": true,
+    "note": "từ chối trả lời, không giải thích blocking là gì, chỉ tóm tắt ngữ cảnh mà agent nhận được"
+  },
+  {
+    "query_id": "TA2",
+    "citation_support": [],
+    "abstention_correct": true,
+    "note": "Từ chối trả lời đúng, nhận định không đủ dữ kiện từ tài liệu được cung cấp, không bịa từ trí nhớ."
+  },
+  {
+    "query_id": "TA3",
+    "citation_support": [],
+    "abstention_correct": true,
+    "note": "TỪ chối trả lời đúng và nhận định tài liệu ko đề cập đến chứng quên thời thơ ấu."
+  }
+]

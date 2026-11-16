@@ -1,0 +1,67 @@
+[
+  {
+    "query_id": "T16",
+    "citation_support": [
+      true,
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": ""
+  },
+  {
+    "query_id": "T17",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 1,
+    "context_grade": 2,
+    "note": "đúng ý là \"trí nhớ sợ hãi phai nhạt dần\" nhưng không nói điều đó thay đổi hành vi của chuột như thế nào"
+  },
+  {
+    "query_id": "T18",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": "trả lời đúng recognition, có giải thích định nghĩa"
+  },
+  {
+    "query_id": "T19",
+    "citation_support": [
+      true,
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "note": ""
+  },
+  {
+    "query_id": "T20",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 1,
+    "context_grade": 2,
+    "note": "agent không giải thích bối cảnh cú sốc điện được tạo ra (khi con chó lại gần mép sân)"
+  },
+  {
+    "query_id": "TA1",
+    "citation_support": [],
+    "abstention_correct": true,
+    "note": "tốt"
+  },
+  {
+    "query_id": "TA2",
+    "citation_support": [],
+    "abstention_correct": true,
+    "note": "tốt"
+  },
+  {
+    "query_id": "TA3",
+    "citation_support": [],
+    "abstention_correct": true,
+    "note": "tốt"
+  }
+]

@@ -1,0 +1,4921 @@
+{
+  "dense": {
+    "answerable": [
+      {
+        "query_id": "T16",
+        "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p203:c001",
+          "B:psych2e-ch6:p203:c002",
+          "B:psych2e-ch6:p203:c003"
+        ],
+        "context_chars": 2711,
+        "filter_ok": true,
+        "elapsed_ms": 1455.43,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p203:c001",
+            "rank": 1,
+            "score": 0.7989357748879526,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 935,
+              "section": "6.2",
+              "char_end": 1277,
+              "char_start": 342,
+              "chunk_index": 1,
+              "content_hash": "d67a71b692cca2a3"
+            },
+            "hit": true,
+            "text_preview": "In 1920, while chair of the psychology department at Johns Hopkins University, Watson and his graduate student, Rosalie Rayner, conducted research on a baby nic"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c002",
+            "rank": 2,
+            "score": 0.7464173191242508,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 911,
+              "section": "6.2",
+              "char_end": 2189,
+              "char_start": 1278,
+              "chunk_index": 2,
+              "content_hash": "f52d4584a905d804"
+            },
+            "hit": false,
+            "text_preview": "Little Albert was frightened by the sound—demonstrating a reflexive fear of sudden loud noises—and began to cry. Watson repeatedly paired the loud sound with th"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c003",
+            "rank": 3,
+            "score": 0.7131172355825458,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 681,
+              "section": "6.2",
+              "char_end": 2871,
+              "char_start": 2190,
+              "chunk_index": 3,
+              "content_hash": "3f0cd31e51e2f738"
+            },
+            "hit": false,
+            "text_preview": "While Watson’s research provided new insight into conditioning, it would be considered unethical by today’s standards. FIGURE 6.9 Through stimulus generalizatio"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c002",
+            "rank": 4,
+            "score": 0.47045885699663903,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 934,
+              "section": "6.2",
+              "char_end": 2590,
+              "char_start": 1656,
+              "chunk_index": 2,
+              "content_hash": "7911791f0ca0160b"
+            },
+            "hit": false,
+            "text_preview": "How does this occur—conditioning based on a single instance and involving an extended time lapse between the event and the negative stimulus? Research into tast"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c003",
+            "rank": 5,
+            "score": 0.4593020083935355,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 874,
+              "section": "6.2",
+              "char_end": 3465,
+              "char_start": 2591,
+              "chunk_index": 3,
+              "content_hash": "4d7db0b176bd8c0c"
+            },
+            "hit": false,
+            "text_preview": "Results showed that all rats exposed to flavor-illness pairings learned to avoid the flavor, but none of the rats exposed to lights and sounds with illness lear"
+          },
+          {
+            "id": "B:psych2e-ch6:p213:c004",
+            "rank": 6,
+            "score": 0.44654468364957256,
+            "source_id": "psych2e-ch6",
+            "page": 213,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 755,
+              "section": "6.3",
+              "char_end": 3022,
+              "char_start": 2267,
+              "chunk_index": 4,
+              "content_hash": "977690acedb7b748"
+            },
+            "hit": false,
+            "text_preview": "In the experiments, Tolman placed hungry rats in a maze with no reward for finding their way through it. He also studied a comparison group that was rewarded wi"
+          },
+          {
+            "id": "B:psych2e-ch6:p205:c001",
+            "rank": 7,
+            "score": 0.4441830677044274,
+            "source_id": "psych2e-ch6",
+            "page": 205,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 958,
+              "section": "6.3",
+              "char_end": 1449,
+              "char_start": 491,
+              "chunk_index": 1,
+              "content_hash": "fe194aae52cd8f2d"
+            },
+            "hit": false,
+            "text_preview": "Working with Thorndike’s law of effect as his foundation, Skinner began conducting scientific experiments on animals (mainly rats and pigeons) to determine how "
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c000",
+            "rank": 8,
+            "score": 0.4350760656627455,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 341,
+              "section": "6.2",
+              "char_end": 341,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c426c28f69bade2f"
+            },
+            "hit": false,
+            "text_preview": "Watson’s ideas were influenced by Pavlov’s work. According to Watson, human behavior, just like animal behavior, is primarily the result of conditioned response"
+          },
+          {
+            "id": "B:psych2e-ch6:p213:c003",
+            "rank": 9,
+            "score": 0.42517726598050887,
+            "source_id": "psych2e-ch6",
+            "page": 213,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 853,
+              "section": "6.3",
+              "char_end": 2266,
+              "char_start": 1413,
+              "chunk_index": 3,
+              "content_hash": "6f2309cf33535dac"
+            },
+            "hit": false,
+            "text_preview": "Cognition and Latent Learning Strict behaviorists like Watson and Skinner focused exclusively on studying behavior rather than cognition (such as thoughts and e"
+          },
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 10,
+            "score": 0.42242438608056077,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 919,
+              "section": "6.2",
+              "char_end": 2539,
+              "char_start": 1620,
+              "chunk_index": 3,
+              "content_hash": "cc8c9bef2b7868c8"
+            },
+            "hit": false,
+            "text_preview": "So far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose "
+          }
+        ]
+      },
+      {
+        "query_id": "T17",
+        "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+        "filter": {
+          "chapter": 8
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p268:c001",
+          "B:psych2e-ch8:p268:c002",
+          "B:psych2e-ch8:p267:c004"
+        ],
+        "context_chars": 2543,
+        "filter_ok": true,
+        "elapsed_ms": 696.18,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 1,
+            "score": 0.5072548478813165,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 844,
+              "section": "8.2",
+              "char_end": 1175,
+              "char_start": 331,
+              "chunk_index": 1,
+              "content_hash": "f3a8f5dd1520af76"
+            },
+            "hit": true,
+            "text_preview": "The Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggressio"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c002",
+            "rank": 2,
+            "score": 0.46172083834020305,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 586,
+              "section": "8.2",
+              "char_end": 1762,
+              "char_start": 1176,
+              "chunk_index": 2,
+              "content_hash": "77dd77953bf3226e"
+            },
+            "hit": false,
+            "text_preview": "Because of its role in processing emotional information, the amygdala is also involved in memory consolidation: the process of transferring new learning into lo"
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c004",
+            "rank": 3,
+            "score": 0.4159197194131625,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 929,
+              "section": "8.2",
+              "char_end": 3846,
+              "char_start": 2917,
+              "chunk_index": 4,
+              "content_hash": "1b3d04650fa3baa1"
+            },
+            "hit": false,
+            "text_preview": "Lashley did not find evidence of the engram, and the rats were still able to find their way through the maze, regardless of the size or location of the lesion. "
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 4,
+            "score": 0.39289485973714644,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 330,
+              "section": "8.2",
+              "char_end": 330,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "02953393c735b5b8"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory."
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c000",
+            "rank": 5,
+            "score": 0.3848250434291376,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 453,
+              "section": "8.2",
+              "char_end": 453,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "ce83d230c37015af"
+            },
+            "hit": false,
+            "text_preview": "only as H. M., had both his left and right temporal lobes (hippocampi) removed in an attempt to help control the seizures he had been suffering from for years ("
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c003",
+            "rank": 6,
+            "score": 0.3791898278765298,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 926,
+              "section": "8.2",
+              "char_end": 2689,
+              "char_start": 1763,
+              "chunk_index": 3,
+              "content_hash": "9f1bfd2adc1c95bb"
+            },
+            "hit": false,
+            "text_preview": "The Hippocampus Another group of researchers also experimented with rats to learn how the hippocampus functions in memory processing (Figure 8.8). They created "
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c003",
+            "rank": 7,
+            "score": 0.3637854338744938,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 843,
+              "section": "8.3",
+              "char_end": 2764,
+              "char_start": 1921,
+              "chunk_index": 3,
+              "content_hash": "22c1a42e08752e77"
+            },
+            "hit": false,
+            "text_preview": "Many people with this form of amnesia are unable to form new episodic or semantic memories, but are still able to form new procedural memories (Bayley & Squire,"
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c003",
+            "rank": 8,
+            "score": 0.35307639645732025,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 943,
+              "section": "8.2",
+              "char_end": 2916,
+              "char_start": 1973,
+              "chunk_index": 3,
+              "content_hash": "a0ce32c4dcaecd8d"
+            },
+            "hit": false,
+            "text_preview": "8.2 Parts of the Brain Involved with Memory LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain the brain functions involved in memor"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c002",
+            "rank": 9,
+            "score": 0.3427133984626005,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 169,
+              "section": "8.1",
+              "char_end": 1488,
+              "char_start": 1319,
+              "chunk_index": 2,
+              "content_hash": "8e64ff8af849ca99"
+            },
+            "hit": false,
+            "text_preview": "When they were asked to remember the words, they tended to recall them in categories, showing that they paid attention to the meanings of the words as they lear"
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c001",
+            "rank": 10,
+            "score": 0.3426963974518712,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 613,
+              "section": "8.2",
+              "char_end": 1067,
+              "char_start": 454,
+              "chunk_index": 1,
+              "content_hash": "9d39b2732dce1fe4"
+            },
+            "hit": false,
+            "text_preview": "The Cerebellum and Prefrontal Cortex Although the hippocampus seems to be more of a processing area for explicit memories, you could still lose it and be able t"
+          }
+        ]
+      },
+      {
+        "query_id": "T18",
+        "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+        "filter": null,
+        "hit1": false,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 2,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p261:c005",
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p260:c001"
+        ],
+        "context_chars": 2901,
+        "filter_ok": true,
+        "elapsed_ms": 796.39,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p261:c005",
+            "rank": 1,
+            "score": 0.47480607555075405,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 794,
+              "section": "8.1",
+              "char_end": 3891,
+              "char_start": 3097,
+              "chunk_index": 5,
+              "content_hash": "a30b75d60964f3ac"
+            },
+            "hit": false,
+            "text_preview": "Which of the three types of encoding do you think would give you the best memory of verbal information? Some years ago, psychologists Fergus Craik and Endel Tul"
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c001",
+            "rank": 2,
+            "score": 0.4384946839426842,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.1",
+              "char_end": 1531,
+              "char_start": 560,
+              "chunk_index": 1,
+              "content_hash": "b7a2f995e6467bdd"
+            },
+            "hit": true,
+            "text_preview": "There are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning. Recall is what we most often"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c001",
+            "rank": 3,
+            "score": 0.4047884308705947,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 952,
+              "section": "8.1",
+              "char_end": 1815,
+              "char_start": 863,
+              "chunk_index": 1,
+              "content_hash": "688a22c2cc5caf3a"
+            },
+            "hit": false,
+            "text_preview": "We get information into our brains through a process called encoding, which is the input of information into the memory system. Once we receive sensory informat"
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c004",
+            "rank": 4,
+            "score": 0.3946733046627191,
+            "source_id": "psych2e-ch8",
+            "page": 266,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 293,
+              "section": "8.1",
+              "char_end": 2799,
+              "char_start": 2506,
+              "chunk_index": 4,
+              "content_hash": "1ca92c941f88ee6f"
+            },
+            "hit": false,
+            "text_preview": "Retrieval So you have worked hard to encode (via effortful processing) and store some important information for your upcoming final exam. How do you get that in"
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c002",
+            "rank": 5,
+            "score": 0.36951494795037276,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 893,
+              "section": "8.2",
+              "char_end": 1961,
+              "char_start": 1068,
+              "chunk_index": 2,
+              "content_hash": "e061ac0517222854"
+            },
+            "hit": false,
+            "text_preview": "Other researchers have used brain scans, including positron emission tomography (PET) scans, to learn how people process and retain information. From these stud"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c002",
+            "rank": 6,
+            "score": 0.36771282428759067,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 169,
+              "section": "8.1",
+              "char_end": 1488,
+              "char_start": 1319,
+              "chunk_index": 2,
+              "content_hash": "8e64ff8af849ca99"
+            },
+            "hit": false,
+            "text_preview": "When they were asked to remember the words, they tended to recall them in categories, showing that they paid attention to the meanings of the words as they lear"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c001",
+            "rank": 7,
+            "score": 0.35558381289856866,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 890,
+              "section": "8.1",
+              "char_end": 1318,
+              "char_start": 428,
+              "chunk_index": 1,
+              "content_hash": "09d24bf2c906a182"
+            },
+            "hit": false,
+            "text_preview": "How well did you do? By themselves, the statements that you wrote down were most likely confusing and difficult for you to recall. Now, try writing them again, "
+          },
+          {
+            "id": "B:psych2e-ch8:p283:c003",
+            "rank": 8,
+            "score": 0.35452619050267986,
+            "source_id": "psych2e-ch8",
+            "page": 283,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 955,
+              "section": "8.4",
+              "char_end": 3112,
+              "char_start": 2157,
+              "chunk_index": 3,
+              "content_hash": "ede5c50e89224005"
+            },
+            "hit": false,
+            "text_preview": "• Use distributed practice: Study across time in short durations rather than trying to cram it all in at once. Memory consolidation takes time, and studying acr"
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c013",
+            "rank": 9,
+            "score": 0.352516847993368,
+            "source_id": "psych2e-ch6",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 97,
+              "section": "6.3",
+              "char_end": 3128,
+              "char_start": 3031,
+              "chunk_index": 13,
+              "content_hash": "4fd1cfbb83abdd18"
+            },
+            "hit": false,
+            "text_preview": "High and steady response rate Gambling TABLE 6.3 198 6 • Learning Access for free at openstax.org"
+          },
+          {
+            "id": "B:psych2e-ch8:p263:c002",
+            "rank": 10,
+            "score": 0.3459013998201479,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 685,
+              "section": "8.1",
+              "char_end": 2062,
+              "char_start": 1377,
+              "chunk_index": 2,
+              "content_hash": "11b04c8ebf605eb1"
+            },
+            "hit": false,
+            "text_preview": "Craik and Lockhart (1972) proposed the levels of processing hypothesis that states the deeper you think about something, the better you remember it. You may fin"
+          }
+        ]
+      },
+      {
+        "query_id": "T19",
+        "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p274:c004",
+          "B:psych2e-ch8:p275:c000",
+          "B:psych2e-ch8:p274:c003"
+        ],
+        "context_chars": 2083,
+        "filter_ok": true,
+        "elapsed_ms": 768.82,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p274:c004",
+            "rank": 1,
+            "score": 0.6334819407136496,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 770,
+              "section": "8.3",
+              "char_end": 3501,
+              "char_start": 2731,
+              "chunk_index": 4,
+              "content_hash": "61ab384e075deb03"
+            },
+            "hit": true,
+            "text_preview": "Participants who heard the word “smashed” estimated that the cars were traveling at a much higher speed than participants who heard the word “contacted.” The im"
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c000",
+            "rank": 2,
+            "score": 0.5790277303487685,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 155,
+              "section": "8.3",
+              "char_end": 155,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "a95c33b991682670"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.12 When people are asked leading questions about an event, their memory of the event may be altered. (credit a: modification of work by Rob Young)"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 3,
+            "score": 0.512126837580014,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            },
+            "hit": false,
+            "text_preview": "The Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovere"
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c000",
+            "rank": 4,
+            "score": 0.5006067100205432,
+            "source_id": "psych2e-ch8",
+            "page": 276,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 971,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c669c141780f7cae"
+            },
+            "hit": false,
+            "text_preview": "Ever since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s, social scientists, police officers, therapists, and le"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c004",
+            "rank": 5,
+            "score": 0.4808356984254686,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 880,
+              "section": "8.3",
+              "char_end": 3764,
+              "char_start": 2884,
+              "chunk_index": 4,
+              "content_hash": "496f44b047b6cd07"
+            },
+            "hit": false,
+            "text_preview": "Most of the tips were dead ends, until a white van was spotted at the site of one of the shootings. The police chief went on national television with a picture "
+          },
+          {
+            "id": "B:psych2e-ch8:p279:c002",
+            "rank": 6,
+            "score": 0.4561532078197379,
+            "source_id": "psych2e-ch8",
+            "page": 279,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 918,
+              "section": "8.3",
+              "char_end": 2166,
+              "char_start": 1248,
+              "chunk_index": 2,
+              "content_hash": "cf9f73b9726110c9"
+            },
+            "hit": false,
+            "text_preview": "Australian eyewitness expert Donald Thomson appeared on a live TV discussion about the unreliability of eyewitness memory. He was later arrested, placed in a li"
+          },
+          {
+            "id": "B:psych2e-ch8:p270:c001",
+            "rank": 7,
+            "score": 0.4534869666065988,
+            "source_id": "psych2e-ch8",
+            "page": 270,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 990,
+              "section": "8.2",
+              "char_end": 1251,
+              "char_start": 261,
+              "chunk_index": 1,
+              "content_hash": "e3e912d3185b90e9"
+            },
+            "hit": false,
+            "text_preview": "Inaccurate and False Memories Even flashbulb memories for important events can have decreased accuracy with the passage of time. For example, on at least three "
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c005",
+            "rank": 8,
+            "score": 0.42016996621150204,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 182,
+              "section": "8.3",
+              "char_end": 3947,
+              "char_start": 3765,
+              "chunk_index": 5,
+              "content_hash": "92b70390dacb2bbe"
+            },
+            "hit": false,
+            "text_preview": "Eyewitness Misidentification Even though memory and the process of reconstruction can be fragile, police officers, prosecutors, and the 260 8 • Memory Access fo"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c003",
+            "rank": 9,
+            "score": 0.42000446046772955,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 970,
+              "section": "8.3",
+              "char_end": 2883,
+              "char_start": 1913,
+              "chunk_index": 3,
+              "content_hash": "1125e20ce1fd7f48"
+            },
+            "hit": false,
+            "text_preview": "Suggestibility When someone witnesses a crime, that person’s memory of the details of the crime is very important in catching the suspect. Because memory is so "
+          },
+          {
+            "id": "B:psych2e-ch8:p270:c002",
+            "rank": 10,
+            "score": 0.4164619450998539,
+            "source_id": "psych2e-ch8",
+            "page": 270,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 846,
+              "section": "8.2",
+              "char_end": 2098,
+              "char_start": 1252,
+              "chunk_index": 2,
+              "content_hash": "7c53a0589ec1c7e6"
+            },
+            "hit": false,
+            "text_preview": "Memory is not like a video recording. Human memory, even flashbulb memories, can be frail. Different parts of them, such as the time, visual elements, and smell"
+          }
+        ]
+      },
+      {
+        "query_id": "T20",
+        "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+        "filter": {
+          "chapter": 6
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p201:c001",
+          "B:psych2e-ch6:p196:c001"
+        ],
+        "context_chars": 2762,
+        "filter_ok": true,
+        "elapsed_ms": 712.36,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 1,
+            "score": 0.5764977351225553,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 919,
+              "section": "6.2",
+              "char_end": 2539,
+              "char_start": 1620,
+              "chunk_index": 3,
+              "content_hash": "cc8c9bef2b7868c8"
+            },
+            "hit": true,
+            "text_preview": "So far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose "
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c001",
+            "rank": 2,
+            "score": 0.4451949189462403,
+            "source_id": "psych2e-ch6",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 985,
+              "section": "6.2",
+              "char_end": 1220,
+              "char_start": 235,
+              "chunk_index": 1,
+              "content_hash": "f3bea2a3cbc145d6"
+            },
+            "hit": false,
+            "text_preview": "What happens when learning is not used for a while—when what was learned lies dormant? As we just discussed, Pavlov found that when he repeatedly presented the "
+          },
+          {
+            "id": "B:psych2e-ch6:p196:c001",
+            "rank": 3,
+            "score": 0.44041132610257394,
+            "source_id": "psych2e-ch6",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 674,
+              "section": "6.2",
+              "char_end": 1665,
+              "char_start": 991,
+              "chunk_index": 1,
+              "content_hash": "b3bd3372bb0d6f69"
+            },
+            "hit": false,
+            "text_preview": "These unusual responses intrigued Pavlov, and he wondered what accounted for what he called the dogs' “psychic secretions” (Pavlov, 1927). To explore this pheno"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 4,
+            "score": 0.43069795292510427,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 889,
+              "section": "6.2",
+              "char_end": 4871,
+              "char_start": 3982,
+              "chunk_index": 5,
+              "content_hash": "76eb916e6c550e3a"
+            },
+            "hit": false,
+            "text_preview": "Once we have established the connection between the unconditioned stimulus and the conditioned stimulus, how do we break that connection and get the dog, cat, o"
+          },
+          {
+            "id": "B:psych2e-ch6:p194:c006",
+            "rank": 5,
+            "score": 0.4256846549047145,
+            "source_id": "psych2e-ch6",
+            "page": 194,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 542,
+              "section": "6.1",
+              "char_end": 4626,
+              "char_start": 4084,
+              "chunk_index": 6,
+              "content_hash": "00cc3a67d9194ea2"
+            },
+            "hit": false,
+            "text_preview": "Imagine you are teaching your dog, Hodor, to sit. You tell Hodor to sit, and give him a treat when he does. After repeated experiences, Hodor begins to associat"
+          },
+          {
+            "id": "B:psych2e-ch6:p196:c000",
+            "rank": 6,
+            "score": 0.40935877494870176,
+            "source_id": "psych2e-ch6",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 990,
+              "section": "6.2",
+              "char_end": 990,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "75e513d53c2ab2f9"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 6.3 Ivan Pavlov’s research on the digestive system of dogs unexpectedly led to his discovery of the learning process now known as classical conditioning."
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c001",
+            "rank": 7,
+            "score": 0.4059173107398195,
+            "source_id": "psych2e-ch6",
+            "page": 202,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 925,
+              "section": "6.2",
+              "char_end": 1141,
+              "char_start": 216,
+              "chunk_index": 1,
+              "content_hash": "a17689bcb0f56106"
+            },
+            "hit": false,
+            "text_preview": "Acquisition and extinction involve the strengthening and weakening, respectively, of a learned association. Two other learning processes—stimulus discrimination"
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 8,
+            "score": 0.40383614234084975,
+            "source_id": "psych2e-ch6",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 234,
+              "section": "6.2",
+              "char_end": 234,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "2e3a4e52ce670ab5"
+            },
+            "hit": false,
+            "text_preview": "conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. In classical conditioning terms, t"
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 9,
+            "score": 0.40326830157698135,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 721,
+              "section": "6.2",
+              "char_end": 2400,
+              "char_start": 1679,
+              "chunk_index": 2,
+              "content_hash": "a3b847d96a847878"
+            },
+            "hit": false,
+            "text_preview": "6.2 Classical Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how classical conditioning occurs • Summarize the proc"
+          },
+          {
+            "id": "B:psych2e-ch6:p194:c005",
+            "rank": 10,
+            "score": 0.38887225454534935,
+            "source_id": "psych2e-ch6",
+            "page": 194,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 1000,
+              "section": "6.1",
+              "char_end": 4083,
+              "char_start": 3083,
+              "chunk_index": 5,
+              "content_hash": "bf825fb904457d74"
+            },
+            "hit": false,
+            "text_preview": "In classical conditioning, also known as Pavlovian conditioning, organisms learn to associate events—or stimuli—that repeatedly happen together. We experience t"
+          }
+        ]
+      }
+    ],
+    "abstain": [
+      {
+        "query_id": "TA1",
+        "question": "What is Kamin's blocking effect in classical conditioning?",
+        "elapsed_ms": 699.64,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p204:c002",
+            "rank": 1,
+            "score": 0.4294126920249245,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 65,
+              "section": "6.3",
+              "char_end": 1930,
+              "char_start": 1865,
+              "chunk_index": 2,
+              "content_hash": "329229b9aa146a63"
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 2,
+            "score": 0.4023930917870764,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 933,
+              "section": "6.2",
+              "char_end": 933,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "16a726ffcd06ec73"
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 3,
+            "score": 0.39737341609550836,
+            "source_id": "psych2e-ch6",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 234,
+              "section": "6.2",
+              "char_end": 234,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "2e3a4e52ce670ab5"
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA2",
+        "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+        "elapsed_ms": 745.3,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 1,
+            "score": 0.4948156367820705,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 663,
+              "section": "8.3",
+              "char_end": 1341,
+              "char_start": 678,
+              "chunk_index": 1,
+              "content_hash": "eca331e0f26bacb2"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 2,
+            "score": 0.43185931384032283,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 578,
+              "section": "8.3",
+              "char_end": 1920,
+              "char_start": 1342,
+              "chunk_index": 2,
+              "content_hash": "2f998b494622af87"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c004",
+            "rank": 3,
+            "score": 0.42277274680229504,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 410,
+              "section": "8.3",
+              "char_end": 3175,
+              "char_start": 2765,
+              "chunk_index": 4,
+              "content_hash": "a8fde51d46e82bc8"
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA3",
+        "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+        "elapsed_ms": 725.42,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 1,
+            "score": 0.5460774188892917,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 663,
+              "section": "8.3",
+              "char_end": 1341,
+              "char_start": 678,
+              "chunk_index": 1,
+              "content_hash": "eca331e0f26bacb2"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c003",
+            "rank": 2,
+            "score": 0.5342748405672877,
+            "source_id": "psych2e-ch8",
+            "page": 266,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 506,
+              "section": "8.1",
+              "char_end": 2505,
+              "char_start": 1999,
+              "chunk_index": 3,
+              "content_hash": "5606f65a5504f16f"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c003",
+            "rank": 3,
+            "score": 0.5031910878902598,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 889,
+              "section": "8.3",
+              "char_end": 2175,
+              "char_start": 1286,
+              "chunk_index": 3,
+              "content_hash": "05e8cf45bd52b3d4"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "bm25": {
+    "answerable": [
+      {
+        "query_id": "T16",
+        "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p203:c001",
+          "B:psych2e-ch6:p203:c002",
+          "B:psych2e-ch6:p203:c003"
+        ],
+        "context_chars": 2711,
+        "filter_ok": true,
+        "elapsed_ms": 0.41,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p203:c001",
+            "rank": 1,
+            "score": 45.55369943396739,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 935,
+              "section": "6.2",
+              "char_end": 1277,
+              "char_start": 342,
+              "chunk_index": 1,
+              "content_hash": "d67a71b692cca2a3"
+            },
+            "hit": true,
+            "text_preview": "In 1920, while chair of the psychology department at Johns Hopkins University, Watson and his graduate student, Rosalie Rayner, conducted research on a baby nic"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c002",
+            "rank": 2,
+            "score": 34.67069724497841,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 911,
+              "section": "6.2",
+              "char_end": 2189,
+              "char_start": 1278,
+              "chunk_index": 2,
+              "content_hash": "f52d4584a905d804"
+            },
+            "hit": false,
+            "text_preview": "Little Albert was frightened by the sound—demonstrating a reflexive fear of sudden loud noises—and began to cry. Watson repeatedly paired the loud sound with th"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c003",
+            "rank": 3,
+            "score": 28.472797055614155,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 681,
+              "section": "6.2",
+              "char_end": 2871,
+              "char_start": 2190,
+              "chunk_index": 3,
+              "content_hash": "3f0cd31e51e2f738"
+            },
+            "hit": false,
+            "text_preview": "While Watson’s research provided new insight into conditioning, it would be considered unethical by today’s standards. FIGURE 6.9 Through stimulus generalizatio"
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c000",
+            "rank": 4,
+            "score": 8.59503475122495,
+            "source_id": "psych2e-ch6",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 885,
+              "section": "6.3",
+              "char_end": 885,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "523f01091cfcad6d"
+            },
+            "hit": false,
+            "text_preview": "Reinforcement Schedules Remember, the best way to teach a person or animal a behavior is to use positive reinforcement. For example, Skinner used positive reinf"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 5,
+            "score": 8.429517549451095,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 330,
+              "section": "8.2",
+              "char_end": 330,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "02953393c735b5b8"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory."
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c000",
+            "rank": 6,
+            "score": 8.197287160620732,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 873,
+              "section": "6.2",
+              "char_end": 873,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "282cce41eee8a474"
+            },
+            "hit": false,
+            "text_preview": "yourself, does this advertising technique actually work? According to Cialdini (2008), men who viewed a car commercial that included an attractive model later r"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 7,
+            "score": 8.09219844964577,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 844,
+              "section": "8.2",
+              "char_end": 1175,
+              "char_start": 331,
+              "chunk_index": 1,
+              "content_hash": "f3a8f5dd1520af76"
+            },
+            "hit": false,
+            "text_preview": "The Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggressio"
+          },
+          {
+            "id": "B:psych2e-ch8:p280:c000",
+            "rank": 8,
+            "score": 8.0713703377898,
+            "source_id": "psych2e-ch8",
+            "page": 280,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 674,
+              "section": "8.3",
+              "char_end": 674,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "89f9535308646d20"
+            },
+            "hit": false,
+            "text_preview": "• Stereotypical bias involves racial and gender biases. For example, when Asian American and European American research participants were presented with a list "
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c000",
+            "rank": 9,
+            "score": 8.016920827912235,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 341,
+              "section": "6.2",
+              "char_end": 341,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c426c28f69bade2f"
+            },
+            "hit": false,
+            "text_preview": "Watson’s ideas were influenced by Pavlov’s work. According to Watson, human behavior, just like animal behavior, is primarily the result of conditioned response"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c004",
+            "rank": 10,
+            "score": 7.678049271461226,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 880,
+              "section": "8.3",
+              "char_end": 3764,
+              "char_start": 2884,
+              "chunk_index": 4,
+              "content_hash": "496f44b047b6cd07"
+            },
+            "hit": false,
+            "text_preview": "Most of the tips were dead ends, until a white van was spotted at the site of one of the shootings. The police chief went on national television with a picture "
+          }
+        ]
+      },
+      {
+        "query_id": "T17",
+        "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+        "filter": {
+          "chapter": 8
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p268:c001",
+          "B:psych2e-ch8:p268:c002",
+          "B:psych2e-ch8:p267:c003"
+        ],
+        "context_chars": 2557,
+        "filter_ok": true,
+        "elapsed_ms": 0.3,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 1,
+            "score": 31.8752735566351,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 844,
+              "section": "8.2",
+              "char_end": 1175,
+              "char_start": 331,
+              "chunk_index": 1,
+              "content_hash": "f3a8f5dd1520af76"
+            },
+            "hit": true,
+            "text_preview": "The Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggressio"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c002",
+            "rank": 2,
+            "score": 14.50315148180568,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 586,
+              "section": "8.2",
+              "char_end": 1762,
+              "char_start": 1176,
+              "chunk_index": 2,
+              "content_hash": "77dd77953bf3226e"
+            },
+            "hit": false,
+            "text_preview": "Because of its role in processing emotional information, the amygdala is also involved in memory consolidation: the process of transferring new learning into lo"
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c003",
+            "rank": 3,
+            "score": 12.378772551057445,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 943,
+              "section": "8.2",
+              "char_end": 2916,
+              "char_start": 1973,
+              "chunk_index": 3,
+              "content_hash": "a0ce32c4dcaecd8d"
+            },
+            "hit": false,
+            "text_preview": "8.2 Parts of the Brain Involved with Memory LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain the brain functions involved in memor"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 4,
+            "score": 12.001328814057862,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 330,
+              "section": "8.2",
+              "char_end": 330,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "02953393c735b5b8"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory."
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c005",
+            "rank": 5,
+            "score": 11.687305192578556,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 293,
+              "section": "8.2",
+              "char_end": 4140,
+              "char_start": 3847,
+              "chunk_index": 5,
+              "content_hash": "10c2b35e984d933a"
+            },
+            "hit": false,
+            "text_preview": "They have argued that memory is located in specific parts of the brain, and specific neurons can be recognized for their involvement in forming memories. The ma"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c002",
+            "rank": 6,
+            "score": 8.717657219539197,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 169,
+              "section": "8.1",
+              "char_end": 1488,
+              "char_start": 1319,
+              "chunk_index": 2,
+              "content_hash": "8e64ff8af849ca99"
+            },
+            "hit": false,
+            "text_preview": "When they were asked to remember the words, they tended to recall them in categories, showing that they paid attention to the meanings of the words as they lear"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 7,
+            "score": 8.625983944324844,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            },
+            "hit": false,
+            "text_preview": "The Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovere"
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c005",
+            "rank": 8,
+            "score": 7.796530685011741,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 953,
+              "section": "8.2",
+              "char_end": 4252,
+              "char_start": 3299,
+              "chunk_index": 5,
+              "content_hash": "4042404b2ba1fac5"
+            },
+            "hit": false,
+            "text_preview": "A flashbulb memory is an exceptionally clear recollection of an important event (Figure 8.9). Many people who have lived through historic and momentous events c"
+          },
+          {
+            "id": "B:psych2e-ch8:p279:c001",
+            "rank": 9,
+            "score": 7.662581158670978,
+            "source_id": "psych2e-ch8",
+            "page": 279,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 253,
+              "section": "8.3",
+              "char_end": 1247,
+              "char_start": 994,
+              "chunk_index": 1,
+              "content_hash": "6acd26bc9b2826a8"
+            },
+            "hit": false,
+            "text_preview": "What if someone is a victim of rape shortly after watching a television program? Is it possible that the victim could actually blame the rape on the person she "
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c003",
+            "rank": 10,
+            "score": 7.25539190485901,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 667,
+              "section": "8.2",
+              "char_end": 2629,
+              "char_start": 1962,
+              "chunk_index": 3,
+              "content_hash": "8df69444aaa6210d"
+            },
+            "hit": false,
+            "text_preview": "There also appear to be specific neurotransmitters involved with the process of memory, such as epinephrine, dopamine, serotonin, glutamate, and acetylcholine ("
+          }
+        ]
+      },
+      {
+        "query_id": "T18",
+        "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p260:c001"
+        ],
+        "context_chars": 2045,
+        "filter_ok": true,
+        "elapsed_ms": 0.38,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p267:c001",
+            "rank": 1,
+            "score": 16.964581480787388,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.1",
+              "char_end": 1531,
+              "char_start": 560,
+              "chunk_index": 1,
+              "content_hash": "b7a2f995e6467bdd"
+            },
+            "hit": true,
+            "text_preview": "There are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning. Recall is what we most often"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c001",
+            "rank": 2,
+            "score": 10.495867693018324,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 952,
+              "section": "8.1",
+              "char_end": 1815,
+              "char_start": 863,
+              "chunk_index": 1,
+              "content_hash": "688a22c2cc5caf3a"
+            },
+            "hit": false,
+            "text_preview": "We get information into our brains through a process called encoding, which is the input of information into the memory system. Once we receive sensory informat"
+          },
+          {
+            "id": "B:psych2e-ch8:p263:c001",
+            "rank": 3,
+            "score": 9.669739892055546,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 933,
+              "section": "8.1",
+              "char_end": 1376,
+              "char_start": 443,
+              "chunk_index": 1,
+              "content_hash": "6ce0fe75e001b97e"
+            },
+            "hit": false,
+            "text_preview": "Rehearsal moves information from short-term memory to long-term memory. Active rehearsal is a way of attending to information to move it from short-term to long"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 4,
+            "score": 9.272911240418503,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            },
+            "hit": false,
+            "text_preview": "The Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovere"
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c002",
+            "rank": 5,
+            "score": 8.823002098254129,
+            "source_id": "psych2e-ch8",
+            "page": 266,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 793,
+              "section": "8.1",
+              "char_end": 1998,
+              "char_start": 1205,
+              "chunk_index": 2,
+              "content_hash": "a776388be83b0985"
+            },
+            "hit": false,
+            "text_preview": "Episodic memories are also called autobiographical memories. Let’s quickly test your autobiographical memory. What were you wearing exactly five years ago today"
+          },
+          {
+            "id": "B:psych2e-ch6:p215:c000",
+            "rank": 6,
+            "score": 8.70734559929219,
+            "source_id": "psych2e-ch6",
+            "page": 215,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 297,
+              "section": "6.3",
+              "char_end": 297,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "792e8cd0cd5674cd"
+            },
+            "hit": false,
+            "text_preview": "fountain, a statue, or an escalator, adds information to our cognitive map that can be used later to help find our way out of the building. LINK T O LEARNING Wa"
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c000",
+            "rank": 7,
+            "score": 8.200945604675498,
+            "source_id": "psych2e-ch8",
+            "page": 276,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 971,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c669c141780f7cae"
+            },
+            "hit": false,
+            "text_preview": "Ever since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s, social scientists, police officers, therapists, and le"
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c000",
+            "rank": 8,
+            "score": 7.22358762131616,
+            "source_id": "psych2e-ch6",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 885,
+              "section": "6.3",
+              "char_end": 885,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "523f01091cfcad6d"
+            },
+            "hit": false,
+            "text_preview": "Reinforcement Schedules Remember, the best way to teach a person or animal a behavior is to use positive reinforcement. For example, Skinner used positive reinf"
+          },
+          {
+            "id": "B:psych2e-ch8:p273:c001",
+            "rank": 9,
+            "score": 7.074478535103376,
+            "source_id": "psych2e-ch8",
+            "page": 273,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 989,
+              "section": "8.3",
+              "char_end": 1187,
+              "char_start": 198,
+              "chunk_index": 1,
+              "content_hash": "c7450a9bb0984dd0"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.11 In studying cases where DNA evidence has exonerated people from crimes, the Innocence Project discovered that eyewitness misidentification is a lead"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c002",
+            "rank": 10,
+            "score": 6.61702127928859,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 615,
+              "section": "8.3",
+              "char_end": 1912,
+              "char_start": 1297,
+              "chunk_index": 2,
+              "content_hash": "f074e3f9d506454b"
+            },
+            "hit": false,
+            "text_preview": "Memory Construction and Reconstruction The formulation of new memories is sometimes called construction, and the process of bringing up old memories is called r"
+          }
+        ]
+      },
+      {
+        "query_id": "T19",
+        "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p274:c004",
+          "B:psych2e-ch8:p276:c000",
+          "B:psych2e-ch6:p204:c000"
+        ],
+        "context_chars": 2798,
+        "filter_ok": true,
+        "elapsed_ms": 0.4,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p274:c004",
+            "rank": 1,
+            "score": 13.232662404668288,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 770,
+              "section": "8.3",
+              "char_end": 3501,
+              "char_start": 2731,
+              "chunk_index": 4,
+              "content_hash": "61ab384e075deb03"
+            },
+            "hit": true,
+            "text_preview": "Participants who heard the word “smashed” estimated that the cars were traveling at a much higher speed than participants who heard the word “contacted.” The im"
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c000",
+            "rank": 2,
+            "score": 12.725050725792455,
+            "source_id": "psych2e-ch8",
+            "page": 276,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 971,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c669c141780f7cae"
+            },
+            "hit": false,
+            "text_preview": "Ever since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s, social scientists, police officers, therapists, and le"
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c000",
+            "rank": 3,
+            "score": 11.584793042264884,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 873,
+              "section": "6.2",
+              "char_end": 873,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "282cce41eee8a474"
+            },
+            "hit": false,
+            "text_preview": "yourself, does this advertising technique actually work? According to Cialdini (2008), men who viewed a car commercial that included an attractive model later r"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c002",
+            "rank": 4,
+            "score": 10.9866425375881,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 528,
+              "section": "8.1",
+              "char_end": 2344,
+              "char_start": 1816,
+              "chunk_index": 2,
+              "content_hash": "58e41feaa8643a0b"
+            },
+            "hit": false,
+            "text_preview": "This is known as effortful processing (Figure 8.3). FIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention"
+          },
+          {
+            "id": "B:psych2e-ch8:p270:c002",
+            "rank": 5,
+            "score": 10.234523550342594,
+            "source_id": "psych2e-ch8",
+            "page": 270,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 846,
+              "section": "8.2",
+              "char_end": 2098,
+              "char_start": 1252,
+              "chunk_index": 2,
+              "content_hash": "7c53a0589ec1c7e6"
+            },
+            "hit": false,
+            "text_preview": "Memory is not like a video recording. Human memory, even flashbulb memories, can be frail. Different parts of them, such as the time, visual elements, and smell"
+          },
+          {
+            "id": "B:psych2e-ch8:p280:c000",
+            "rank": 6,
+            "score": 9.109481556107976,
+            "source_id": "psych2e-ch8",
+            "page": 280,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 674,
+              "section": "8.3",
+              "char_end": 674,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "89f9535308646d20"
+            },
+            "hit": false,
+            "text_preview": "• Stereotypical bias involves racial and gender biases. For example, when Asian American and European American research participants were presented with a list "
+          },
+          {
+            "id": "B:psych2e-ch8:p279:c003",
+            "rank": 7,
+            "score": 8.966699169360677,
+            "source_id": "psych2e-ch8",
+            "page": 279,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 502,
+              "section": "8.3",
+              "char_end": 2669,
+              "char_start": 2167,
+              "chunk_index": 3,
+              "content_hash": "1db83c3a3d7154e4"
+            },
+            "hit": false,
+            "text_preview": "With misattribution you create the false memory entirely on your own, which is what the victim did in the Donald Thomson case above. With suggestibility, it com"
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c000",
+            "rank": 8,
+            "score": 8.598015403242155,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 155,
+              "section": "8.3",
+              "char_end": 155,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "a95c33b991682670"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.12 When people are asked leading questions about an event, their memory of the event may be altered. (credit a: modification of work by Rob Young)"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c003",
+            "rank": 9,
+            "score": 8.58524692893798,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 895,
+              "section": "8.1",
+              "char_end": 2384,
+              "char_start": 1489,
+              "chunk_index": 3,
+              "content_hash": "dd313763646c6b71"
+            },
+            "hit": false,
+            "text_preview": "Visual encoding is the encoding of images, and acoustic encoding is the encoding of sounds, words in particular. To see how visual encoding works, read over thi"
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c001",
+            "rank": 10,
+            "score": 8.339497948120709,
+            "source_id": "psych2e-ch8",
+            "page": 276,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 456,
+              "section": "8.3",
+              "char_end": 1428,
+              "char_start": 972,
+              "chunk_index": 1,
+              "content_hash": "19fcacf4ed4f9d0c"
+            },
+            "hit": false,
+            "text_preview": "Forgetting “I’ve a grand memory for forgetting,” quipped Robert Louis Stevenson. Forgetting refers to loss of information from long-term memory. We all forget t"
+          }
+        ]
+      },
+      {
+        "query_id": "T20",
+        "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+        "filter": {
+          "chapter": 6
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p194:c006",
+          "B:psych2e-ch6:p201:c000"
+        ],
+        "context_chars": 1879,
+        "filter_ok": true,
+        "elapsed_ms": 0.36,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 1,
+            "score": 31.322941729749562,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 919,
+              "section": "6.2",
+              "char_end": 2539,
+              "char_start": 1620,
+              "chunk_index": 3,
+              "content_hash": "cc8c9bef2b7868c8"
+            },
+            "hit": true,
+            "text_preview": "So far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose "
+          },
+          {
+            "id": "B:psych2e-ch6:p194:c006",
+            "rank": 2,
+            "score": 23.247796740375758,
+            "source_id": "psych2e-ch6",
+            "page": 194,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 542,
+              "section": "6.1",
+              "char_end": 4626,
+              "char_start": 4084,
+              "chunk_index": 6,
+              "content_hash": "00cc3a67d9194ea2"
+            },
+            "hit": false,
+            "text_preview": "Imagine you are teaching your dog, Hodor, to sit. You tell Hodor to sit, and give him a treat when he does. After repeated experiences, Hodor begins to associat"
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 3,
+            "score": 16.63337155570807,
+            "source_id": "psych2e-ch6",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 234,
+              "section": "6.2",
+              "char_end": 234,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "2e3a4e52ce670ab5"
+            },
+            "hit": false,
+            "text_preview": "conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. In classical conditioning terms, t"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 4,
+            "score": 14.120424228984655,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 889,
+              "section": "6.2",
+              "char_end": 4871,
+              "char_start": 3982,
+              "chunk_index": 5,
+              "content_hash": "76eb916e6c550e3a"
+            },
+            "hit": false,
+            "text_preview": "Once we have established the connection between the unconditioned stimulus and the conditioned stimulus, how do we break that connection and get the dog, cat, o"
+          },
+          {
+            "id": "B:psych2e-ch6:p199:c002",
+            "rank": 5,
+            "score": 12.117872874026562,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 385,
+              "section": "6.2",
+              "char_end": 1619,
+              "char_start": 1234,
+              "chunk_index": 2,
+              "content_hash": "5fd58bb8fea50160"
+            },
+            "hit": false,
+            "text_preview": "Classical conditioning also applies to humans, even babies. For example, Elan buys formula in blue canisters for their six-month-old daughter, Angelina. Wheneve"
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c002",
+            "rank": 6,
+            "score": 11.356349904374312,
+            "source_id": "psych2e-ch6",
+            "page": 197,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 995,
+              "section": "6.2",
+              "char_end": 2537,
+              "char_start": 1542,
+              "chunk_index": 2,
+              "content_hash": "d7da28f411b72a5d"
+            },
+            "hit": false,
+            "text_preview": "In addition to the doctor's office, Moisha will learn to associate the syringe with the medication and will respond to syringes with nausea. This is an example "
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c000",
+            "rank": 7,
+            "score": 10.95148664481574,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 980,
+              "section": "6.1",
+              "char_end": 980,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "6b2f0c5a0383006c"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 6.2 In operant conditioning, a response is associated with a consequence. This dog has learned that certain behaviors result in receiving a treat. (credi"
+          },
+          {
+            "id": "B:psych2e-ch6:p205:c001",
+            "rank": 8,
+            "score": 10.76373367258977,
+            "source_id": "psych2e-ch6",
+            "page": 205,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 958,
+              "section": "6.3",
+              "char_end": 1449,
+              "char_start": 491,
+              "chunk_index": 1,
+              "content_hash": "fe194aae52cd8f2d"
+            },
+            "hit": false,
+            "text_preview": "Working with Thorndike’s law of effect as his foundation, Skinner began conducting scientific experiments on animals (mainly rats and pigeons) to determine how "
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c000",
+            "rank": 9,
+            "score": 10.699850335013597,
+            "source_id": "psych2e-ch6",
+            "page": 197,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 599,
+              "section": "6.2",
+              "char_end": 599,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "72fc2ad218ee211b"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 6.4 Before conditioning, an unconditioned stimulus (food) produces an unconditioned response (salivation), and a neutral stimulus (bell) does not produce"
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 10,
+            "score": 10.502057155518468,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 721,
+              "section": "6.2",
+              "char_end": 2400,
+              "char_start": 1679,
+              "chunk_index": 2,
+              "content_hash": "a3b847d96a847878"
+            },
+            "hit": false,
+            "text_preview": "6.2 Classical Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how classical conditioning occurs • Summarize the proc"
+          }
+        ]
+      }
+    ],
+    "abstain": [
+      {
+        "query_id": "TA1",
+        "question": "What is Kamin's blocking effect in classical conditioning?",
+        "elapsed_ms": 0.31,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 1,
+            "score": 9.803542394889801,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 933,
+              "section": "6.2",
+              "char_end": 933,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "16a726ffcd06ec73"
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p193:c001",
+            "rank": 2,
+            "score": 9.478601550296151,
+            "source_id": "psych2e-ch6",
+            "page": 193,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 140,
+              "section": "intro",
+              "char_end": 420,
+              "char_start": 280,
+              "chunk_index": 1,
+              "content_hash": "fcc1de0535830f81"
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p194:c005",
+            "rank": 3,
+            "score": 8.651634189497798,
+            "source_id": "psych2e-ch6",
+            "page": 194,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 1000,
+              "section": "6.1",
+              "char_end": 4083,
+              "char_start": 3083,
+              "chunk_index": 5,
+              "content_hash": "bf825fb904457d74"
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA2",
+        "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+        "elapsed_ms": 0.24,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p263:c004",
+            "rank": 1,
+            "score": 10.22994970193354,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 945,
+              "section": "8.1",
+              "char_end": 3724,
+              "char_start": 2779,
+              "chunk_index": 4,
+              "content_hash": "6f5ded575bd96b15"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c001",
+            "rank": 2,
+            "score": 8.258460228449808,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 1127,
+              "char_start": 156,
+              "chunk_index": 1,
+              "content_hash": "c3656fd89bd8318a"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p278:c000",
+            "rank": 3,
+            "score": 7.6153713794534745,
+            "source_id": "psych2e-ch8",
+            "page": 278,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 566,
+              "section": "8.3",
+              "char_end": 566,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "241f3d0d0cfd35f6"
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA3",
+        "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+        "elapsed_ms": 0.51,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p275:c003",
+            "rank": 1,
+            "score": 21.38724724674278,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 889,
+              "section": "8.3",
+              "char_end": 2175,
+              "char_start": 1286,
+              "chunk_index": 3,
+              "content_hash": "05e8cf45bd52b3d4"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 2,
+            "score": 14.177846596653927,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c005",
+            "rank": 3,
+            "score": 13.020972867217163,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 953,
+              "section": "8.2",
+              "char_end": 4252,
+              "char_start": 3299,
+              "chunk_index": 5,
+              "content_hash": "4042404b2ba1fac5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "tfidf": {
+    "answerable": [
+      {
+        "query_id": "T16",
+        "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p203:c001",
+          "B:psych2e-ch6:p203:c002",
+          "B:psych2e-ch6:p203:c003"
+        ],
+        "context_chars": 2711,
+        "filter_ok": true,
+        "elapsed_ms": 0.6,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p203:c001",
+            "rank": 1,
+            "score": 0.6383857069174329,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 935,
+              "section": "6.2",
+              "char_end": 1277,
+              "char_start": 342,
+              "chunk_index": 1,
+              "content_hash": "d67a71b692cca2a3"
+            },
+            "hit": true,
+            "text_preview": "In 1920, while chair of the psychology department at Johns Hopkins University, Watson and his graduate student, Rosalie Rayner, conducted research on a baby nic"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c002",
+            "rank": 2,
+            "score": 0.47136479708197326,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 911,
+              "section": "6.2",
+              "char_end": 2189,
+              "char_start": 1278,
+              "chunk_index": 2,
+              "content_hash": "f52d4584a905d804"
+            },
+            "hit": false,
+            "text_preview": "Little Albert was frightened by the sound—demonstrating a reflexive fear of sudden loud noises—and began to cry. Watson repeatedly paired the loud sound with th"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c003",
+            "rank": 3,
+            "score": 0.42639813499440943,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 681,
+              "section": "6.2",
+              "char_end": 2871,
+              "char_start": 2190,
+              "chunk_index": 3,
+              "content_hash": "3f0cd31e51e2f738"
+            },
+            "hit": false,
+            "text_preview": "While Watson’s research provided new insight into conditioning, it would be considered unethical by today’s standards. FIGURE 6.9 Through stimulus generalizatio"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c000",
+            "rank": 4,
+            "score": 0.19491920458717168,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 341,
+              "section": "6.2",
+              "char_end": 341,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c426c28f69bade2f"
+            },
+            "hit": false,
+            "text_preview": "Watson’s ideas were influenced by Pavlov’s work. According to Watson, human behavior, just like animal behavior, is primarily the result of conditioned response"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c004",
+            "rank": 5,
+            "score": 0.15985857305995943,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 880,
+              "section": "8.3",
+              "char_end": 3764,
+              "char_start": 2884,
+              "chunk_index": 4,
+              "content_hash": "496f44b047b6cd07"
+            },
+            "hit": false,
+            "text_preview": "Most of the tips were dead ends, until a white van was spotted at the site of one of the shootings. The police chief went on national television with a picture "
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 6,
+            "score": 0.14987967665370744,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 844,
+              "section": "8.2",
+              "char_end": 1175,
+              "char_start": 331,
+              "chunk_index": 1,
+              "content_hash": "f3a8f5dd1520af76"
+            },
+            "hit": false,
+            "text_preview": "The Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggressio"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 7,
+            "score": 0.1417224957790078,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 330,
+              "section": "8.2",
+              "char_end": 330,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "02953393c735b5b8"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory."
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c000",
+            "rank": 8,
+            "score": 0.12137542686696148,
+            "source_id": "psych2e-ch6",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 885,
+              "section": "6.3",
+              "char_end": 885,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "523f01091cfcad6d"
+            },
+            "hit": false,
+            "text_preview": "Reinforcement Schedules Remember, the best way to teach a person or animal a behavior is to use positive reinforcement. For example, Skinner used positive reinf"
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c004",
+            "rank": 9,
+            "score": 0.11687005488309161,
+            "source_id": "psych2e-ch6",
+            "page": 202,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 942,
+              "section": "6.2",
+              "char_end": 3438,
+              "char_start": 2496,
+              "chunk_index": 4,
+              "content_hash": "54a2e724c7fbf7de"
+            },
+            "hit": false,
+            "text_preview": "Behaviorism John B. Watson, shown in Figure 6.8, is considered the founder of behaviorism. Behaviorism is a school of thought that arose during the first part o"
+          },
+          {
+            "id": "B:psych2e-ch6:p217:c004",
+            "rank": 10,
+            "score": 0.08901958693922564,
+            "source_id": "psych2e-ch6",
+            "page": 217,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 166,
+              "section": "6.4",
+              "char_end": 2749,
+              "char_start": 2583,
+              "chunk_index": 4,
+              "content_hash": "158bf4bfbd3e79f8"
+            },
+            "hit": false,
+            "text_preview": "Watch this video clip about the famous Bobo doll experiment (https://openstax.org/l/bobodoll) to see a portion of the experiment and an interview with Albert Ba"
+          }
+        ]
+      },
+      {
+        "query_id": "T17",
+        "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+        "filter": {
+          "chapter": 8
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p268:c001",
+          "B:psych2e-ch8:p267:c003",
+          "B:psych2e-ch8:p268:c000"
+        ],
+        "context_chars": 2301,
+        "filter_ok": true,
+        "elapsed_ms": 0.59,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 1,
+            "score": 0.541932561432937,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 844,
+              "section": "8.2",
+              "char_end": 1175,
+              "char_start": 331,
+              "chunk_index": 1,
+              "content_hash": "f3a8f5dd1520af76"
+            },
+            "hit": true,
+            "text_preview": "The Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggressio"
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c003",
+            "rank": 2,
+            "score": 0.2481774363080667,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 943,
+              "section": "8.2",
+              "char_end": 2916,
+              "char_start": 1973,
+              "chunk_index": 3,
+              "content_hash": "a0ce32c4dcaecd8d"
+            },
+            "hit": false,
+            "text_preview": "8.2 Parts of the Brain Involved with Memory LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain the brain functions involved in memor"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 3,
+            "score": 0.2314064056818713,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 330,
+              "section": "8.2",
+              "char_end": 330,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "02953393c735b5b8"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory."
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c005",
+            "rank": 4,
+            "score": 0.2139412437887823,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 293,
+              "section": "8.2",
+              "char_end": 4140,
+              "char_start": 3847,
+              "chunk_index": 5,
+              "content_hash": "10c2b35e984d933a"
+            },
+            "hit": false,
+            "text_preview": "They have argued that memory is located in specific parts of the brain, and specific neurons can be recognized for their involvement in forming memories. The ma"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c002",
+            "rank": 5,
+            "score": 0.1939192817157944,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 586,
+              "section": "8.2",
+              "char_end": 1762,
+              "char_start": 1176,
+              "chunk_index": 2,
+              "content_hash": "77dd77953bf3226e"
+            },
+            "hit": false,
+            "text_preview": "Because of its role in processing emotional information, the amygdala is also involved in memory consolidation: the process of transferring new learning into lo"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 6,
+            "score": 0.15009137374240641,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            },
+            "hit": false,
+            "text_preview": "The Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovere"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c004",
+            "rank": 7,
+            "score": 0.14209017145590563,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 880,
+              "section": "8.3",
+              "char_end": 3764,
+              "char_start": 2884,
+              "chunk_index": 4,
+              "content_hash": "496f44b047b6cd07"
+            },
+            "hit": false,
+            "text_preview": "Most of the tips were dead ends, until a white van was spotted at the site of one of the shootings. The police chief went on national television with a picture "
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c002",
+            "rank": 8,
+            "score": 0.13944634874673092,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 169,
+              "section": "8.1",
+              "char_end": 1488,
+              "char_start": 1319,
+              "chunk_index": 2,
+              "content_hash": "8e64ff8af849ca99"
+            },
+            "hit": false,
+            "text_preview": "When they were asked to remember the words, they tended to recall them in categories, showing that they paid attention to the meanings of the words as they lear"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c003",
+            "rank": 9,
+            "score": 0.1350023395720073,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 926,
+              "section": "8.2",
+              "char_end": 2689,
+              "char_start": 1763,
+              "chunk_index": 3,
+              "content_hash": "9f1bfd2adc1c95bb"
+            },
+            "hit": false,
+            "text_preview": "The Hippocampus Another group of researchers also experimented with rats to learn how the hippocampus functions in memory processing (Figure 8.8). They created "
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c005",
+            "rank": 10,
+            "score": 0.1309870587975768,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 794,
+              "section": "8.1",
+              "char_end": 3891,
+              "char_start": 3097,
+              "chunk_index": 5,
+              "content_hash": "a30b75d60964f3ac"
+            },
+            "hit": false,
+            "text_preview": "Which of the three types of encoding do you think would give you the best memory of verbal information? Some years ago, psychologists Fergus Craik and Endel Tul"
+          }
+        ]
+      },
+      {
+        "query_id": "T18",
+        "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p260:c001"
+        ],
+        "context_chars": 2045,
+        "filter_ok": true,
+        "elapsed_ms": 0.55,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p267:c001",
+            "rank": 1,
+            "score": 0.19403187242591208,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.1",
+              "char_end": 1531,
+              "char_start": 560,
+              "chunk_index": 1,
+              "content_hash": "b7a2f995e6467bdd"
+            },
+            "hit": true,
+            "text_preview": "There are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning. Recall is what we most often"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c001",
+            "rank": 2,
+            "score": 0.14928772856080885,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 952,
+              "section": "8.1",
+              "char_end": 1815,
+              "char_start": 863,
+              "chunk_index": 1,
+              "content_hash": "688a22c2cc5caf3a"
+            },
+            "hit": false,
+            "text_preview": "We get information into our brains through a process called encoding, which is the input of information into the memory system. Once we receive sensory informat"
+          },
+          {
+            "id": "B:psych2e-ch8:p263:c001",
+            "rank": 3,
+            "score": 0.10540820427343511,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 933,
+              "section": "8.1",
+              "char_end": 1376,
+              "char_start": 443,
+              "chunk_index": 1,
+              "content_hash": "6ce0fe75e001b97e"
+            },
+            "hit": false,
+            "text_preview": "Rehearsal moves information from short-term memory to long-term memory. Active rehearsal is a way of attending to information to move it from short-term to long"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c000",
+            "rank": 4,
+            "score": 0.09615191592359619,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 862,
+              "section": "8.1",
+              "char_end": 862,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "199ee123df940511"
+            },
+            "hit": false,
+            "text_preview": "8.1 How Memory Functions LEARNING OBJECTIVES By the end of this section, you will be able to: • Discuss the three basic functions of memory • Describe the three"
+          },
+          {
+            "id": "B:psych2e-ch6:p215:c000",
+            "rank": 5,
+            "score": 0.08664985980460112,
+            "source_id": "psych2e-ch6",
+            "page": 215,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 297,
+              "section": "6.3",
+              "char_end": 297,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "792e8cd0cd5674cd"
+            },
+            "hit": false,
+            "text_preview": "fountain, a statue, or an escalator, adds information to our cognitive map that can be used later to help find our way out of the building. LINK T O LEARNING Wa"
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c002",
+            "rank": 6,
+            "score": 0.08601226703679572,
+            "source_id": "psych2e-ch8",
+            "page": 266,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 793,
+              "section": "8.1",
+              "char_end": 1998,
+              "char_start": 1205,
+              "chunk_index": 2,
+              "content_hash": "a776388be83b0985"
+            },
+            "hit": false,
+            "text_preview": "Episodic memories are also called autobiographical memories. Let’s quickly test your autobiographical memory. What were you wearing exactly five years ago today"
+          },
+          {
+            "id": "B:psych2e-ch6:p206:c002",
+            "rank": 7,
+            "score": 0.08120420556290524,
+            "source_id": "psych2e-ch6",
+            "page": 206,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 192,
+              "section": "6.3",
+              "char_end": 544,
+              "char_start": 352,
+              "chunk_index": 2,
+              "content_hash": "acceeb1f13db9bec"
+            },
+            "hit": false,
+            "text_preview": "Reinforcement The most effective way to teach a person or animal a new behavior is with positive reinforcement. In positive reinforcement, a desirable stimulus "
+          },
+          {
+            "id": "B:psych2e-ch6:p207:c003",
+            "rank": 8,
+            "score": 0.0783591897241806,
+            "source_id": "psych2e-ch6",
+            "page": 207,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 698,
+              "section": "6.3",
+              "char_end": 3409,
+              "char_start": 2711,
+              "chunk_index": 3,
+              "content_hash": "dedb1f7e4ce0faa7"
+            },
+            "hit": false,
+            "text_preview": "5. Finally, only reinforce the desired behavior. Shaping is often used in teaching a complex behavior or chain of behaviors. Skinner used shaping to teach pigeo"
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c000",
+            "rank": 9,
+            "score": 0.07801492167221181,
+            "source_id": "psych2e-ch6",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 885,
+              "section": "6.3",
+              "char_end": 885,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "523f01091cfcad6d"
+            },
+            "hit": false,
+            "text_preview": "Reinforcement Schedules Remember, the best way to teach a person or animal a behavior is to use positive reinforcement. For example, Skinner used positive reinf"
+          },
+          {
+            "id": "B:psych2e-ch8:p273:c001",
+            "rank": 10,
+            "score": 0.07624118234565656,
+            "source_id": "psych2e-ch8",
+            "page": 273,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 989,
+              "section": "8.3",
+              "char_end": 1187,
+              "char_start": 198,
+              "chunk_index": 1,
+              "content_hash": "c7450a9bb0984dd0"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.11 In studying cases where DNA evidence has exonerated people from crimes, the Innocence Project discovered that eyewitness misidentification is a lead"
+          }
+        ]
+      },
+      {
+        "query_id": "T19",
+        "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+        "filter": null,
+        "hit1": false,
+        "hit3": false,
+        "hit10": true,
+        "first_hit_rank": 8,
+        "context_hit": false,
+        "context_ids": [
+          "B:psych2e-ch8:p260:c002",
+          "B:psych2e-ch6:p204:c000",
+          "B:psych2e-ch8:p276:c000"
+        ],
+        "context_chars": 2556,
+        "filter_ok": true,
+        "elapsed_ms": 0.5,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p260:c002",
+            "rank": 1,
+            "score": 0.16259732679612968,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 528,
+              "section": "8.1",
+              "char_end": 2344,
+              "char_start": 1816,
+              "chunk_index": 2,
+              "content_hash": "58e41feaa8643a0b"
+            },
+            "hit": false,
+            "text_preview": "This is known as effortful processing (Figure 8.3). FIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention"
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c000",
+            "rank": 2,
+            "score": 0.149493635949088,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 873,
+              "section": "6.2",
+              "char_end": 873,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "282cce41eee8a474"
+            },
+            "hit": false,
+            "text_preview": "yourself, does this advertising technique actually work? According to Cialdini (2008), men who viewed a car commercial that included an attractive model later r"
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c000",
+            "rank": 3,
+            "score": 0.13884208618159063,
+            "source_id": "psych2e-ch8",
+            "page": 276,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 971,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c669c141780f7cae"
+            },
+            "hit": false,
+            "text_preview": "Ever since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s, social scientists, police officers, therapists, and le"
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c000",
+            "rank": 4,
+            "score": 0.135611960085511,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 155,
+              "section": "8.3",
+              "char_end": 155,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "a95c33b991682670"
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.12 When people are asked leading questions about an event, their memory of the event may be altered. (credit a: modification of work by Rob Young)"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c004",
+            "rank": 5,
+            "score": 0.1349462307951303,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 880,
+              "section": "8.3",
+              "char_end": 3764,
+              "char_start": 2884,
+              "chunk_index": 4,
+              "content_hash": "496f44b047b6cd07"
+            },
+            "hit": false,
+            "text_preview": "Most of the tips were dead ends, until a white van was spotted at the site of one of the shootings. The police chief went on national television with a picture "
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c004",
+            "rank": 6,
+            "score": 0.1347174219556816,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 378,
+              "section": "6.2",
+              "char_end": 3250,
+              "char_start": 2872,
+              "chunk_index": 4,
+              "content_hash": "648022fd8ec481e4"
+            },
+            "hit": false,
+            "text_preview": "Advertising and Associative Learning Advertising executives are pros at applying the principles of associative learning. Think about the car commercials you hav"
+          },
+          {
+            "id": "B:psych2e-ch8:p270:c002",
+            "rank": 7,
+            "score": 0.1260286068258419,
+            "source_id": "psych2e-ch8",
+            "page": 270,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 846,
+              "section": "8.2",
+              "char_end": 2098,
+              "char_start": 1252,
+              "chunk_index": 2,
+              "content_hash": "7c53a0589ec1c7e6"
+            },
+            "hit": false,
+            "text_preview": "Memory is not like a video recording. Human memory, even flashbulb memories, can be frail. Different parts of them, such as the time, visual elements, and smell"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c004",
+            "rank": 8,
+            "score": 0.12494023103994373,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 770,
+              "section": "8.3",
+              "char_end": 3501,
+              "char_start": 2731,
+              "chunk_index": 4,
+              "content_hash": "61ab384e075deb03"
+            },
+            "hit": true,
+            "text_preview": "Participants who heard the word “smashed” estimated that the cars were traveling at a much higher speed than participants who heard the word “contacted.” The im"
+          },
+          {
+            "id": "B:psych2e-ch8:p279:c003",
+            "rank": 9,
+            "score": 0.11642105316202526,
+            "source_id": "psych2e-ch8",
+            "page": 279,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 502,
+              "section": "8.3",
+              "char_end": 2669,
+              "char_start": 2167,
+              "chunk_index": 3,
+              "content_hash": "1db83c3a3d7154e4"
+            },
+            "hit": false,
+            "text_preview": "With misattribution you create the false memory entirely on your own, which is what the victim did in the Donald Thomson case above. With suggestibility, it com"
+          },
+          {
+            "id": "B:psych2e-ch6:p208:c005",
+            "rank": 10,
+            "score": 0.10456841767907517,
+            "source_id": "psych2e-ch6",
+            "page": 208,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 922,
+              "section": "6.3",
+              "char_end": 3877,
+              "char_start": 2955,
+              "chunk_index": 5,
+              "content_hash": "8ce970d16966d739"
+            },
+            "hit": false,
+            "text_preview": "Behavior Modification in Children Parents and teachers often use behavior modification to change a child’s behavior. Behavior modification uses the principles o"
+          }
+        ]
+      },
+      {
+        "query_id": "T20",
+        "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+        "filter": {
+          "chapter": 6
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p194:c006",
+          "B:psych2e-ch6:p204:c002"
+        ],
+        "context_chars": 1710,
+        "filter_ok": true,
+        "elapsed_ms": 0.54,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 1,
+            "score": 0.3390571784079355,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 919,
+              "section": "6.2",
+              "char_end": 2539,
+              "char_start": 1620,
+              "chunk_index": 3,
+              "content_hash": "cc8c9bef2b7868c8"
+            },
+            "hit": true,
+            "text_preview": "So far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose "
+          },
+          {
+            "id": "B:psych2e-ch6:p194:c006",
+            "rank": 2,
+            "score": 0.216036868063996,
+            "source_id": "psych2e-ch6",
+            "page": 194,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 542,
+              "section": "6.1",
+              "char_end": 4626,
+              "char_start": 4084,
+              "chunk_index": 6,
+              "content_hash": "00cc3a67d9194ea2"
+            },
+            "hit": false,
+            "text_preview": "Imagine you are teaching your dog, Hodor, to sit. You tell Hodor to sit, and give him a treat when he does. After repeated experiences, Hodor begins to associat"
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c002",
+            "rank": 3,
+            "score": 0.18895118604328365,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 65,
+              "section": "6.3",
+              "char_end": 1930,
+              "char_start": 1865,
+              "chunk_index": 2,
+              "content_hash": "329229b9aa146a63"
+            },
+            "hit": false,
+            "text_preview": "Classical Conditioning Operant Conditioning Conditioning approach"
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 4,
+            "score": 0.1743560197498052,
+            "source_id": "psych2e-ch6",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 234,
+              "section": "6.2",
+              "char_end": 234,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "2e3a4e52ce670ab5"
+            },
+            "hit": false,
+            "text_preview": "conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. In classical conditioning terms, t"
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c001",
+            "rank": 5,
+            "score": 0.15214355814815086,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 990,
+              "section": "6.3",
+              "char_end": 1864,
+              "char_start": 874,
+              "chunk_index": 1,
+              "content_hash": "3fb501ed072d7310"
+            },
+            "hit": false,
+            "text_preview": "6.3 Operant Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Define operant conditioning • Explain the difference between rei"
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 6,
+            "score": 0.14405920979797004,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 721,
+              "section": "6.2",
+              "char_end": 2400,
+              "char_start": 1679,
+              "chunk_index": 2,
+              "content_hash": "a3b847d96a847878"
+            },
+            "hit": false,
+            "text_preview": "6.2 Classical Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how classical conditioning occurs • Summarize the proc"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 7,
+            "score": 0.13027987855962173,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 889,
+              "section": "6.2",
+              "char_end": 4871,
+              "char_start": 3982,
+              "chunk_index": 5,
+              "content_hash": "76eb916e6c550e3a"
+            },
+            "hit": false,
+            "text_preview": "Once we have established the connection between the unconditioned stimulus and the conditioned stimulus, how do we break that connection and get the dog, cat, o"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 8,
+            "score": 0.12235875132953765,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 933,
+              "section": "6.2",
+              "char_end": 933,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "16a726ffcd06ec73"
+            },
+            "hit": false,
+            "text_preview": "General Processes in Classical Conditioning Now that you know how classical conditioning works and have seen several examples, let’s take a look at some of the "
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c002",
+            "rank": 9,
+            "score": 0.12020948144608068,
+            "source_id": "psych2e-ch6",
+            "page": 202,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 931,
+              "section": "6.2",
+              "char_end": 2073,
+              "char_start": 1142,
+              "chunk_index": 2,
+              "content_hash": "db5989e5f2828e26"
+            },
+            "hit": false,
+            "text_preview": "Similarly, Tiger, the cat, discriminated between the sound of the can opener and the sound of the electric mixer. When the electric mixer is going, Tiger is not"
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c003",
+            "rank": 10,
+            "score": 0.11650595893227556,
+            "source_id": "psych2e-ch6",
+            "page": 197,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 121,
+              "section": "6.2",
+              "char_end": 2659,
+              "char_start": 2538,
+              "chunk_index": 3,
+              "content_hash": "a2d51224db256538"
+            },
+            "hit": false,
+            "text_preview": "What do you think Tiger does when she hears the electric can opener? She will likely get excited and run to where you are"
+          }
+        ]
+      }
+    ],
+    "abstain": [
+      {
+        "query_id": "TA1",
+        "question": "What is Kamin's blocking effect in classical conditioning?",
+        "elapsed_ms": 0.43,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p204:c002",
+            "rank": 1,
+            "score": 0.3381945781078024,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 65,
+              "section": "6.3",
+              "char_end": 1930,
+              "char_start": 1865,
+              "chunk_index": 2,
+              "content_hash": "329229b9aa146a63"
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 2,
+            "score": 0.2093488764256321,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 721,
+              "section": "6.2",
+              "char_end": 2400,
+              "char_start": 1679,
+              "chunk_index": 2,
+              "content_hash": "a3b847d96a847878"
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p193:c001",
+            "rank": 3,
+            "score": 0.19954379162348795,
+            "source_id": "psych2e-ch6",
+            "page": 193,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 140,
+              "section": "intro",
+              "char_end": 420,
+              "char_start": 280,
+              "chunk_index": 1,
+              "content_hash": "fcc1de0535830f81"
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA2",
+        "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+        "elapsed_ms": 0.41,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p263:c004",
+            "rank": 1,
+            "score": 0.14349996686112831,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 945,
+              "section": "8.1",
+              "char_end": 3724,
+              "char_start": 2779,
+              "chunk_index": 4,
+              "content_hash": "6f5ded575bd96b15"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c001",
+            "rank": 2,
+            "score": 0.12835086688661584,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 1127,
+              "char_start": 156,
+              "chunk_index": 1,
+              "content_hash": "c3656fd89bd8318a"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p281:c000",
+            "rank": 3,
+            "score": 0.1241559172484489,
+            "source_id": "psych2e-ch8",
+            "page": 281,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 146,
+              "section": "8.3",
+              "char_end": 146,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "f22e54f9cccb780c"
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA3",
+        "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+        "elapsed_ms": 0.55,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p275:c003",
+            "rank": 1,
+            "score": 0.24574364481924912,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 889,
+              "section": "8.3",
+              "char_end": 2175,
+              "char_start": 1286,
+              "chunk_index": 3,
+              "content_hash": "05e8cf45bd52b3d4"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 2,
+            "score": 0.2131795081075123,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 578,
+              "section": "8.3",
+              "char_end": 1920,
+              "char_start": 1342,
+              "chunk_index": 2,
+              "content_hash": "2f998b494622af87"
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 3,
+            "score": 0.17948381446720885,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 982,
+              "section": "8.3",
+              "char_end": 982,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "73f96797928317ad"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "hybrid": {
+    "answerable": [
+      {
+        "query_id": "T16",
+        "question": "How did Watson and Rayner condition Little Albert to fear the white rat?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p203:c001",
+          "B:psych2e-ch6:p203:c002",
+          "B:psych2e-ch6:p203:c003"
+        ],
+        "context_chars": 2711,
+        "filter_ok": true,
+        "elapsed_ms": 1403.35,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p203:c001",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 935,
+              "section": "6.2",
+              "char_end": 1277,
+              "char_start": 342,
+              "chunk_index": 1,
+              "content_hash": "d67a71b692cca2a3"
+            },
+            "component_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "hit": true,
+            "text_preview": "In 1920, while chair of the psychology department at Johns Hopkins University, Watson and his graduate student, Rosalie Rayner, conducted research on a baby nic"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c002",
+            "rank": 2,
+            "score": 0.03225806451612903,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 911,
+              "section": "6.2",
+              "char_end": 2189,
+              "char_start": 1278,
+              "chunk_index": 2,
+              "content_hash": "f52d4584a905d804"
+            },
+            "component_ranks": {
+              "dense": 2,
+              "bm25": 2
+            },
+            "hit": false,
+            "text_preview": "Little Albert was frightened by the sound—demonstrating a reflexive fear of sudden loud noises—and began to cry. Watson repeatedly paired the loud sound with th"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c003",
+            "rank": 3,
+            "score": 0.031746031746031744,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 681,
+              "section": "6.2",
+              "char_end": 2871,
+              "char_start": 2190,
+              "chunk_index": 3,
+              "content_hash": "3f0cd31e51e2f738"
+            },
+            "component_ranks": {
+              "dense": 3,
+              "bm25": 3
+            },
+            "hit": false,
+            "text_preview": "While Watson’s research provided new insight into conditioning, it would be considered unethical by today’s standards. FIGURE 6.9 Through stimulus generalizatio"
+          },
+          {
+            "id": "B:psych2e-ch6:p203:c000",
+            "rank": 4,
+            "score": 0.02919863597612958,
+            "source_id": "psych2e-ch6",
+            "page": 203,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 341,
+              "section": "6.2",
+              "char_end": 341,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c426c28f69bade2f"
+            },
+            "component_ranks": {
+              "dense": 8,
+              "bm25": 9
+            },
+            "hit": false,
+            "text_preview": "Watson’s ideas were influenced by Pavlov’s work. According to Watson, human behavior, just like animal behavior, is primarily the result of conditioned response"
+          },
+          {
+            "id": "B:psych2e-ch6:p205:c001",
+            "rank": 5,
+            "score": 0.028438886647841874,
+            "source_id": "psych2e-ch6",
+            "page": 205,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 958,
+              "section": "6.3",
+              "char_end": 1449,
+              "char_start": 491,
+              "chunk_index": 1,
+              "content_hash": "fe194aae52cd8f2d"
+            },
+            "component_ranks": {
+              "dense": 7,
+              "bm25": 14
+            },
+            "hit": false,
+            "text_preview": "Working with Thorndike’s law of effect as his foundation, Skinner began conducting scientific experiments on animals (mainly rats and pigeons) to determine how "
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c004",
+            "rank": 6,
+            "score": 0.02797339593114241,
+            "source_id": "psych2e-ch6",
+            "page": 202,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 942,
+              "section": "6.2",
+              "char_end": 3438,
+              "char_start": 2496,
+              "chunk_index": 4,
+              "content_hash": "54a2e724c7fbf7de"
+            },
+            "component_ranks": {
+              "dense": 11,
+              "bm25": 12
+            },
+            "hit": false,
+            "text_preview": "Behaviorism John B. Watson, shown in Figure 6.8, is considered the founder of behaviorism. Behaviorism is a school of thought that arose during the first part o"
+          },
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 7,
+            "score": 0.02694394213381555,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 919,
+              "section": "6.2",
+              "char_end": 2539,
+              "char_start": 1620,
+              "chunk_index": 3,
+              "content_hash": "cc8c9bef2b7868c8"
+            },
+            "component_ranks": {
+              "dense": 10,
+              "bm25": 19
+            },
+            "hit": false,
+            "text_preview": "So far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose "
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c002",
+            "rank": 8,
+            "score": 0.015625,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 934,
+              "section": "6.2",
+              "char_end": 2590,
+              "char_start": 1656,
+              "chunk_index": 2,
+              "content_hash": "7911791f0ca0160b"
+            },
+            "component_ranks": {
+              "dense": 4
+            },
+            "hit": false,
+            "text_preview": "How does this occur—conditioning based on a single instance and involving an extended time lapse between the event and the negative stimulus? Research into tast"
+          },
+          {
+            "id": "B:psych2e-ch6:p210:c000",
+            "rank": 9,
+            "score": 0.015625,
+            "source_id": "psych2e-ch6",
+            "page": 210,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 885,
+              "section": "6.3",
+              "char_end": 885,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "523f01091cfcad6d"
+            },
+            "component_ranks": {
+              "bm25": 4
+            },
+            "hit": false,
+            "text_preview": "Reinforcement Schedules Remember, the best way to teach a person or animal a behavior is to use positive reinforcement. For example, Skinner used positive reinf"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c003",
+            "rank": 10,
+            "score": 0.015384615384615385,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 874,
+              "section": "6.2",
+              "char_end": 3465,
+              "char_start": 2591,
+              "chunk_index": 3,
+              "content_hash": "4d7db0b176bd8c0c"
+            },
+            "component_ranks": {
+              "dense": 5
+            },
+            "hit": false,
+            "text_preview": "Results showed that all rats exposed to flavor-illness pairings learned to avoid the flavor, but none of the rats exposed to lights and sounds with illness lear"
+          }
+        ]
+      },
+      {
+        "query_id": "T17",
+        "question": "What happened to the rats' learned fear of the tone when neurons in the lateral amygdala were destroyed?",
+        "filter": {
+          "chapter": 8
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p268:c001",
+          "B:psych2e-ch8:p268:c002",
+          "B:psych2e-ch8:p268:c000"
+        ],
+        "context_chars": 1944,
+        "filter_ok": true,
+        "elapsed_ms": 710.09,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p268:c001",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 844,
+              "section": "8.2",
+              "char_end": 1175,
+              "char_start": 331,
+              "chunk_index": 1,
+              "content_hash": "f3a8f5dd1520af76"
+            },
+            "component_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "hit": true,
+            "text_preview": "The Amygdala First, let’s look at the role of the amygdala in memory formation. The main job of the amygdala is to regulate emotions, such as fear and aggressio"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c002",
+            "rank": 2,
+            "score": 0.03225806451612903,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 586,
+              "section": "8.2",
+              "char_end": 1762,
+              "char_start": 1176,
+              "chunk_index": 2,
+              "content_hash": "77dd77953bf3226e"
+            },
+            "component_ranks": {
+              "dense": 2,
+              "bm25": 2
+            },
+            "hit": false,
+            "text_preview": "Because of its role in processing emotional information, the amygdala is also involved in memory consolidation: the process of transferring new learning into lo"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c000",
+            "rank": 3,
+            "score": 0.03125,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 330,
+              "section": "8.2",
+              "char_end": 330,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "02953393c735b5b8"
+            },
+            "component_ranks": {
+              "dense": 4,
+              "bm25": 4
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.8 The amygdala is involved in fear and fear memories. The hippocampus is associated with declarative and episodic memory as well as recognition memory."
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c003",
+            "rank": 4,
+            "score": 0.03057889822595705,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 943,
+              "section": "8.2",
+              "char_end": 2916,
+              "char_start": 1973,
+              "chunk_index": 3,
+              "content_hash": "a0ce32c4dcaecd8d"
+            },
+            "component_ranks": {
+              "dense": 8,
+              "bm25": 3
+            },
+            "hit": false,
+            "text_preview": "8.2 Parts of the Brain Involved with Memory LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain the brain functions involved in memor"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c002",
+            "rank": 5,
+            "score": 0.02964426877470356,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 169,
+              "section": "8.1",
+              "char_end": 1488,
+              "char_start": 1319,
+              "chunk_index": 2,
+              "content_hash": "8e64ff8af849ca99"
+            },
+            "component_ranks": {
+              "dense": 9,
+              "bm25": 6
+            },
+            "hit": false,
+            "text_preview": "When they were asked to remember the words, they tended to recall them in categories, showing that they paid attention to the meanings of the words as they lear"
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c005",
+            "rank": 6,
+            "score": 0.02946912242686891,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 293,
+              "section": "8.2",
+              "char_end": 4140,
+              "char_start": 3847,
+              "chunk_index": 5,
+              "content_hash": "10c2b35e984d933a"
+            },
+            "component_ranks": {
+              "dense": 11,
+              "bm25": 5
+            },
+            "hit": false,
+            "text_preview": "They have argued that memory is located in specific parts of the brain, and specific neurons can be recognized for their involvement in forming memories. The ma"
+          },
+          {
+            "id": "B:psych2e-ch8:p268:c003",
+            "rank": 7,
+            "score": 0.02904040404040404,
+            "source_id": "psych2e-ch8",
+            "page": 268,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 926,
+              "section": "8.2",
+              "char_end": 2689,
+              "char_start": 1763,
+              "chunk_index": 3,
+              "content_hash": "9f1bfd2adc1c95bb"
+            },
+            "component_ranks": {
+              "dense": 6,
+              "bm25": 12
+            },
+            "hit": false,
+            "text_preview": "The Hippocampus Another group of researchers also experimented with rats to learn how the hippocampus functions in memory processing (Figure 8.8). They created "
+          },
+          {
+            "id": "B:psych2e-ch8:p267:c004",
+            "rank": 8,
+            "score": 0.015873015873015872,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 929,
+              "section": "8.2",
+              "char_end": 3846,
+              "char_start": 2917,
+              "chunk_index": 4,
+              "content_hash": "1b3d04650fa3baa1"
+            },
+            "component_ranks": {
+              "dense": 3
+            },
+            "hit": false,
+            "text_preview": "Lashley did not find evidence of the engram, and the rats were still able to find their way through the maze, regardless of the size or location of the lesion. "
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c000",
+            "rank": 9,
+            "score": 0.015384615384615385,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 453,
+              "section": "8.2",
+              "char_end": 453,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "ce83d230c37015af"
+            },
+            "component_ranks": {
+              "dense": 5
+            },
+            "hit": false,
+            "text_preview": "only as H. M., had both his left and right temporal lobes (hippocampi) removed in an attempt to help control the seizures he had been suffering from for years ("
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c003",
+            "rank": 10,
+            "score": 0.014925373134328358,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 843,
+              "section": "8.3",
+              "char_end": 2764,
+              "char_start": 1921,
+              "chunk_index": 3,
+              "content_hash": "22c1a42e08752e77"
+            },
+            "component_ranks": {
+              "dense": 7
+            },
+            "hit": false,
+            "text_preview": "Many people with this form of amnesia are unable to form new episodic or semantic memories, but are still able to form new procedural memories (Bayley & Squire,"
+          }
+        ]
+      },
+      {
+        "query_id": "T18",
+        "question": "Which way of retrieving information is used when answering a multiple-choice test?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p267:c001",
+          "B:psych2e-ch8:p260:c001",
+          "B:psych2e-ch8:p269:c002"
+        ],
+        "context_chars": 3000,
+        "filter_ok": true,
+        "elapsed_ms": 695.26,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p267:c001",
+            "rank": 1,
+            "score": 0.03252247488101534,
+            "source_id": "psych2e-ch8",
+            "page": 267,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.1",
+              "char_end": 1531,
+              "char_start": 560,
+              "chunk_index": 1,
+              "content_hash": "b7a2f995e6467bdd"
+            },
+            "component_ranks": {
+              "dense": 2,
+              "bm25": 1
+            },
+            "hit": true,
+            "text_preview": "There are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning. Recall is what we most often"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c001",
+            "rank": 2,
+            "score": 0.03200204813108039,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 952,
+              "section": "8.1",
+              "char_end": 1815,
+              "char_start": 863,
+              "chunk_index": 1,
+              "content_hash": "688a22c2cc5caf3a"
+            },
+            "component_ranks": {
+              "dense": 3,
+              "bm25": 2
+            },
+            "hit": false,
+            "text_preview": "We get information into our brains through a process called encoding, which is the input of information into the memory system. Once we receive sensory informat"
+          },
+          {
+            "id": "B:psych2e-ch8:p269:c002",
+            "rank": 3,
+            "score": 0.029273504273504274,
+            "source_id": "psych2e-ch8",
+            "page": 269,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 893,
+              "section": "8.2",
+              "char_end": 1961,
+              "char_start": 1068,
+              "chunk_index": 2,
+              "content_hash": "e061ac0517222854"
+            },
+            "component_ranks": {
+              "dense": 5,
+              "bm25": 12
+            },
+            "hit": false,
+            "text_preview": "Other researchers have used brain scans, including positron emission tomography (PET) scans, to learn how people process and retain information. From these stud"
+          },
+          {
+            "id": "B:psych2e-ch8:p281:c002",
+            "rank": 4,
+            "score": 0.027046783625730993,
+            "source_id": "psych2e-ch8",
+            "page": 281,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 992,
+              "section": "8.4",
+              "char_end": 1683,
+              "char_start": 691,
+              "chunk_index": 2,
+              "content_hash": "b59b204892295770"
+            },
+            "component_ranks": {
+              "dense": 12,
+              "bm25": 16
+            },
+            "hit": false,
+            "text_preview": "Memory-Enhancing Strategies What are some everyday ways we can improve our memory, including recall? To help make sure information goes from short-term memory t"
+          },
+          {
+            "id": "B:psych2e-ch8:p261:c005",
+            "rank": 5,
+            "score": 0.01639344262295082,
+            "source_id": "psych2e-ch8",
+            "page": 261,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 794,
+              "section": "8.1",
+              "char_end": 3891,
+              "char_start": 3097,
+              "chunk_index": 5,
+              "content_hash": "a30b75d60964f3ac"
+            },
+            "component_ranks": {
+              "dense": 1
+            },
+            "hit": false,
+            "text_preview": "Which of the three types of encoding do you think would give you the best memory of verbal information? Some years ago, psychologists Fergus Craik and Endel Tul"
+          },
+          {
+            "id": "B:psych2e-ch8:p263:c001",
+            "rank": 6,
+            "score": 0.015873015873015872,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 933,
+              "section": "8.1",
+              "char_end": 1376,
+              "char_start": 443,
+              "chunk_index": 1,
+              "content_hash": "6ce0fe75e001b97e"
+            },
+            "component_ranks": {
+              "bm25": 3
+            },
+            "hit": false,
+            "text_preview": "Rehearsal moves information from short-term memory to long-term memory. Active rehearsal is a way of attending to information to move it from short-term to long"
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c004",
+            "rank": 7,
+            "score": 0.015625,
+            "source_id": "psych2e-ch8",
+            "page": 266,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 293,
+              "section": "8.1",
+              "char_end": 2799,
+              "char_start": 2506,
+              "chunk_index": 4,
+              "content_hash": "1ca92c941f88ee6f"
+            },
+            "component_ranks": {
+              "dense": 4
+            },
+            "hit": false,
+            "text_preview": "Retrieval So you have worked hard to encode (via effortful processing) and store some important information for your upcoming final exam. How do you get that in"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 8,
+            "score": 0.015625,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            },
+            "component_ranks": {
+              "bm25": 4
+            },
+            "hit": false,
+            "text_preview": "The Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovere"
+          },
+          {
+            "id": "B:psych2e-ch8:p266:c002",
+            "rank": 9,
+            "score": 0.015384615384615385,
+            "source_id": "psych2e-ch8",
+            "page": 266,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 793,
+              "section": "8.1",
+              "char_end": 1998,
+              "char_start": 1205,
+              "chunk_index": 2,
+              "content_hash": "a776388be83b0985"
+            },
+            "component_ranks": {
+              "bm25": 5
+            },
+            "hit": false,
+            "text_preview": "Episodic memories are also called autobiographical memories. Let’s quickly test your autobiographical memory. What were you wearing exactly five years ago today"
+          },
+          {
+            "id": "B:psych2e-ch6:p215:c000",
+            "rank": 10,
+            "score": 0.015151515151515152,
+            "source_id": "psych2e-ch6",
+            "page": 215,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 297,
+              "section": "6.3",
+              "char_end": 297,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "792e8cd0cd5674cd"
+            },
+            "component_ranks": {
+              "bm25": 6
+            },
+            "hit": false,
+            "text_preview": "fountain, a statue, or an escalator, adds information to our cognitive map that can be used later to help find our way out of the building. LINK T O LEARNING Wa"
+          }
+        ]
+      },
+      {
+        "query_id": "T19",
+        "question": "How did the wording of a leading question change what eyewitnesses later remembered about a filmed car crash?",
+        "filter": null,
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch8:p274:c004",
+          "B:psych2e-ch8:p276:c000",
+          "B:psych2e-ch8:p275:c000"
+        ],
+        "context_chars": 2080,
+        "filter_ok": true,
+        "elapsed_ms": 714.73,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p274:c004",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 770,
+              "section": "8.3",
+              "char_end": 3501,
+              "char_start": 2731,
+              "chunk_index": 4,
+              "content_hash": "61ab384e075deb03"
+            },
+            "component_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "hit": true,
+            "text_preview": "Participants who heard the word “smashed” estimated that the cars were traveling at a much higher speed than participants who heard the word “contacted.” The im"
+          },
+          {
+            "id": "B:psych2e-ch8:p276:c000",
+            "rank": 2,
+            "score": 0.031754032258064516,
+            "source_id": "psych2e-ch8",
+            "page": 276,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 971,
+              "section": "8.3",
+              "char_end": 971,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "c669c141780f7cae"
+            },
+            "component_ranks": {
+              "dense": 4,
+              "bm25": 2
+            },
+            "hit": false,
+            "text_preview": "Ever since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s, social scientists, police officers, therapists, and le"
+          },
+          {
+            "id": "B:psych2e-ch8:p275:c000",
+            "rank": 3,
+            "score": 0.030834914611005692,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 155,
+              "section": "8.3",
+              "char_end": 155,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "a95c33b991682670"
+            },
+            "component_ranks": {
+              "dense": 2,
+              "bm25": 8
+            },
+            "hit": false,
+            "text_preview": "FIGURE 8.12 When people are asked leading questions about an event, their memory of the event may be altered. (credit a: modification of work by Rob Young)"
+          },
+          {
+            "id": "B:psych2e-ch8:p270:c002",
+            "rank": 4,
+            "score": 0.02967032967032967,
+            "source_id": "psych2e-ch8",
+            "page": 270,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 846,
+              "section": "8.2",
+              "char_end": 2098,
+              "char_start": 1252,
+              "chunk_index": 2,
+              "content_hash": "7c53a0589ec1c7e6"
+            },
+            "component_ranks": {
+              "dense": 10,
+              "bm25": 5
+            },
+            "hit": false,
+            "text_preview": "Memory is not like a video recording. Human memory, even flashbulb memories, can be frail. Different parts of them, such as the time, visual elements, and smell"
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c004",
+            "rank": 5,
+            "score": 0.029083245521601686,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 880,
+              "section": "8.3",
+              "char_end": 3764,
+              "char_start": 2884,
+              "chunk_index": 4,
+              "content_hash": "496f44b047b6cd07"
+            },
+            "component_ranks": {
+              "dense": 5,
+              "bm25": 13
+            },
+            "hit": false,
+            "text_preview": "Most of the tips were dead ends, until a white van was spotted at the site of one of the shootings. The police chief went on national television with a picture "
+          },
+          {
+            "id": "B:psych2e-ch8:p279:c003",
+            "rank": 6,
+            "score": 0.028814262023217248,
+            "source_id": "psych2e-ch8",
+            "page": 279,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 502,
+              "section": "8.3",
+              "char_end": 2669,
+              "char_start": 2167,
+              "chunk_index": 3,
+              "content_hash": "1db83c3a3d7154e4"
+            },
+            "component_ranks": {
+              "dense": 12,
+              "bm25": 7
+            },
+            "hit": false,
+            "text_preview": "With misattribution you create the false memory entirely on your own, which is what the victim did in the Donald Thomson case above. With suggestibility, it com"
+          },
+          {
+            "id": "B:psych2e-ch8:p274:c003",
+            "rank": 7,
+            "score": 0.028373015873015873,
+            "source_id": "psych2e-ch8",
+            "page": 274,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 974,
+              "section": "8.3",
+              "char_end": 2730,
+              "char_start": 1756,
+              "chunk_index": 3,
+              "content_hash": "9e1574f03e5f48bf"
+            },
+            "component_ranks": {
+              "dense": 3,
+              "bm25": 20
+            },
+            "hit": false,
+            "text_preview": "The Misinformation Effect Cognitive psychologist Elizabeth Loftus has conducted extensive research on memory. She has studied false memories as well as recovere"
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c000",
+            "rank": 8,
+            "score": 0.015873015873015872,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 873,
+              "section": "6.2",
+              "char_end": 873,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "282cce41eee8a474"
+            },
+            "component_ranks": {
+              "bm25": 3
+            },
+            "hit": false,
+            "text_preview": "yourself, does this advertising technique actually work? According to Cialdini (2008), men who viewed a car commercial that included an attractive model later r"
+          },
+          {
+            "id": "B:psych2e-ch8:p260:c002",
+            "rank": 9,
+            "score": 0.015625,
+            "source_id": "psych2e-ch8",
+            "page": 260,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 528,
+              "section": "8.1",
+              "char_end": 2344,
+              "char_start": 1816,
+              "chunk_index": 2,
+              "content_hash": "58e41feaa8643a0b"
+            },
+            "component_ranks": {
+              "bm25": 4
+            },
+            "hit": false,
+            "text_preview": "This is known as effortful processing (Figure 8.3). FIGURE 8.3 When you first learn new skills such as driving a car, you have to put forth effort and attention"
+          },
+          {
+            "id": "B:psych2e-ch8:p279:c002",
+            "rank": 10,
+            "score": 0.015151515151515152,
+            "source_id": "psych2e-ch8",
+            "page": 279,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 918,
+              "section": "8.3",
+              "char_end": 2166,
+              "char_start": 1248,
+              "chunk_index": 2,
+              "content_hash": "cf9f73b9726110c9"
+            },
+            "component_ranks": {
+              "dense": 6
+            },
+            "hit": false,
+            "text_preview": "Australian eyewitness expert Donald Thomson appeared on a live TV discussion about the unreliability of eyewitness memory. He was later arrested, placed in a li"
+          }
+        ]
+      },
+      {
+        "query_id": "T20",
+        "question": "Why does a dog with an invisible electric fence stay inside the yard, in classical conditioning terms?",
+        "filter": {
+          "chapter": 6
+        },
+        "hit1": true,
+        "hit3": true,
+        "hit10": true,
+        "first_hit_rank": 1,
+        "context_hit": true,
+        "context_ids": [
+          "B:psych2e-ch6:p199:c003",
+          "B:psych2e-ch6:p194:c006",
+          "B:psych2e-ch6:p200:c005"
+        ],
+        "context_chars": 2534,
+        "filter_ok": true,
+        "elapsed_ms": 670.84,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p199:c003",
+            "rank": 1,
+            "score": 0.03278688524590164,
+            "source_id": "psych2e-ch6",
+            "page": 199,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 919,
+              "section": "6.2",
+              "char_end": 2539,
+              "char_start": 1620,
+              "chunk_index": 3,
+              "content_hash": "cc8c9bef2b7868c8"
+            },
+            "component_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "hit": true,
+            "text_preview": "So far, all of the examples have involved food, but classical conditioning extends beyond the basic need to be fed. Consider our earlier example of a dog whose "
+          },
+          {
+            "id": "B:psych2e-ch6:p194:c006",
+            "rank": 2,
+            "score": 0.0315136476426799,
+            "source_id": "psych2e-ch6",
+            "page": 194,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 542,
+              "section": "6.1",
+              "char_end": 4626,
+              "char_start": 4084,
+              "chunk_index": 6,
+              "content_hash": "00cc3a67d9194ea2"
+            },
+            "component_ranks": {
+              "dense": 5,
+              "bm25": 2
+            },
+            "hit": false,
+            "text_preview": "Imagine you are teaching your dog, Hodor, to sit. You tell Hodor to sit, and give him a treat when he does. After repeated experiences, Hodor begins to associat"
+          },
+          {
+            "id": "B:psych2e-ch6:p200:c005",
+            "rank": 3,
+            "score": 0.03125,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 889,
+              "section": "6.2",
+              "char_end": 4871,
+              "char_start": 3982,
+              "chunk_index": 5,
+              "content_hash": "76eb916e6c550e3a"
+            },
+            "component_ranks": {
+              "dense": 4,
+              "bm25": 4
+            },
+            "hit": false,
+            "text_preview": "Once we have established the connection between the unconditioned stimulus and the conditioned stimulus, how do we break that connection and get the dog, cat, o"
+          },
+          {
+            "id": "B:psych2e-ch6:p201:c000",
+            "rank": 4,
+            "score": 0.03057889822595705,
+            "source_id": "psych2e-ch6",
+            "page": 201,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 234,
+              "section": "6.2",
+              "char_end": 234,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "2e3a4e52ce670ab5"
+            },
+            "component_ranks": {
+              "dense": 8,
+              "bm25": 3
+            },
+            "hit": false,
+            "text_preview": "conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. In classical conditioning terms, t"
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c002",
+            "rank": 5,
+            "score": 0.02877846790890269,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 721,
+              "section": "6.2",
+              "char_end": 2400,
+              "char_start": 1679,
+              "chunk_index": 2,
+              "content_hash": "a3b847d96a847878"
+            },
+            "component_ranks": {
+              "dense": 9,
+              "bm25": 10
+            },
+            "hit": false,
+            "text_preview": "6.2 Classical Conditioning LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how classical conditioning occurs • Summarize the proc"
+          },
+          {
+            "id": "B:psych2e-ch6:p197:c002",
+            "rank": 6,
+            "score": 0.028484848484848488,
+            "source_id": "psych2e-ch6",
+            "page": 197,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 995,
+              "section": "6.2",
+              "char_end": 2537,
+              "char_start": 1542,
+              "chunk_index": 2,
+              "content_hash": "d7da28f411b72a5d"
+            },
+            "component_ranks": {
+              "dense": 15,
+              "bm25": 6
+            },
+            "hit": false,
+            "text_preview": "In addition to the doctor's office, Moisha will learn to associate the syringe with the medication and will respond to syringes with nausea. This is an example "
+          },
+          {
+            "id": "B:psych2e-ch6:p195:c000",
+            "rank": 7,
+            "score": 0.028438886647841874,
+            "source_id": "psych2e-ch6",
+            "page": 195,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 980,
+              "section": "6.1",
+              "char_end": 980,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "6b2f0c5a0383006c"
+            },
+            "component_ranks": {
+              "dense": 14,
+              "bm25": 7
+            },
+            "hit": false,
+            "text_preview": "FIGURE 6.2 In operant conditioning, a response is associated with a consequence. This dog has learned that certain behaviors result in receiving a treat. (credi"
+          },
+          {
+            "id": "B:psych2e-ch6:p202:c001",
+            "rank": 8,
+            "score": 0.027583600982429624,
+            "source_id": "psych2e-ch6",
+            "page": 202,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 925,
+              "section": "6.2",
+              "char_end": 1141,
+              "char_start": 216,
+              "chunk_index": 1,
+              "content_hash": "a17689bcb0f56106"
+            },
+            "component_ranks": {
+              "dense": 7,
+              "bm25": 19
+            },
+            "hit": false,
+            "text_preview": "Acquisition and extinction involve the strengthening and weakening, respectively, of a learned association. Two other learning processes—stimulus discrimination"
+          },
+          {
+            "id": "B:psych2e-ch6:p205:c001",
+            "rank": 9,
+            "score": 0.027364110201042444,
+            "source_id": "psych2e-ch6",
+            "page": 205,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 958,
+              "section": "6.3",
+              "char_end": 1449,
+              "char_start": 491,
+              "chunk_index": 1,
+              "content_hash": "fe194aae52cd8f2d"
+            },
+            "component_ranks": {
+              "dense": 19,
+              "bm25": 8
+            },
+            "hit": false,
+            "text_preview": "Working with Thorndike’s law of effect as his foundation, Skinner began conducting scientific experiments on animals (mainly rats and pigeons) to determine how "
+          },
+          {
+            "id": "B:psych2e-ch6:p196:c002",
+            "rank": 10,
+            "score": 0.02668564312399929,
+            "source_id": "psych2e-ch6",
+            "page": 196,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 841,
+              "section": "6.2",
+              "char_end": 2507,
+              "char_start": 1666,
+              "chunk_index": 2,
+              "content_hash": "331b63d9a6f10923"
+            },
+            "component_ranks": {
+              "dense": 17,
+              "bm25": 13
+            },
+            "hit": false,
+            "text_preview": "In Pavlov’s experiments, the dogs salivated each time meat powder was presented to them. The meat powder in this situation was an unconditioned stimulus (UCS): "
+          }
+        ]
+      }
+    ],
+    "abstain": [
+      {
+        "query_id": "TA1",
+        "question": "What is Kamin's blocking effect in classical conditioning?",
+        "elapsed_ms": 734.19,
+        "results": [
+          {
+            "id": "B:psych2e-ch6:p200:c000",
+            "rank": 1,
+            "score": 0.03252247488101534,
+            "source_id": "psych2e-ch6",
+            "page": 200,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 933,
+              "section": "6.2",
+              "char_end": 933,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "16a726ffcd06ec73"
+            },
+            "component_ranks": {
+              "dense": 2,
+              "bm25": 1
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c002",
+            "rank": 2,
+            "score": 0.030886196246139225,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 65,
+              "section": "6.3",
+              "char_end": 1930,
+              "char_start": 1865,
+              "chunk_index": 2,
+              "content_hash": "329229b9aa146a63"
+            },
+            "component_ranks": {
+              "dense": 1,
+              "bm25": 9
+            }
+          },
+          {
+            "id": "B:psych2e-ch6:p204:c001",
+            "rank": 3,
+            "score": 0.030330882352941176,
+            "source_id": "psych2e-ch6",
+            "page": 204,
+            "metadata": {
+              "chapter": 6,
+              "n_chars": 990,
+              "section": "6.3",
+              "char_end": 1864,
+              "char_start": 874,
+              "chunk_index": 1,
+              "content_hash": "3fb501ed072d7310"
+            },
+            "component_ranks": {
+              "dense": 4,
+              "bm25": 8
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA2",
+        "question": "How does Korsakoff syndrome caused by chronic alcohol use affect memory?",
+        "elapsed_ms": 798.4,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p263:c004",
+            "rank": 1,
+            "score": 0.032018442622950824,
+            "source_id": "psych2e-ch8",
+            "page": 263,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 945,
+              "section": "8.1",
+              "char_end": 3724,
+              "char_start": 2779,
+              "chunk_index": 4,
+              "content_hash": "6f5ded575bd96b15"
+            },
+            "component_ranks": {
+              "dense": 4,
+              "bm25": 1
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c002",
+            "rank": 2,
+            "score": 0.031054405392392875,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 578,
+              "section": "8.3",
+              "char_end": 1920,
+              "char_start": 1342,
+              "chunk_index": 2,
+              "content_hash": "2f998b494622af87"
+            },
+            "component_ranks": {
+              "dense": 2,
+              "bm25": 7
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p277:c001",
+            "rank": 3,
+            "score": 0.030117753623188408,
+            "source_id": "psych2e-ch8",
+            "page": 277,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 671,
+              "section": "8.3",
+              "char_end": 703,
+              "char_start": 32,
+              "chunk_index": 1,
+              "content_hash": "9222243e31aa28ab"
+            },
+            "component_ranks": {
+              "dense": 9,
+              "bm25": 4
+            }
+          }
+        ]
+      },
+      {
+        "query_id": "TA3",
+        "question": "At what age do most people's earliest memories begin, according to research on childhood (infantile) amnesia?",
+        "elapsed_ms": 680.1,
+        "results": [
+          {
+            "id": "B:psych2e-ch8:p275:c003",
+            "rank": 1,
+            "score": 0.032266458495966696,
+            "source_id": "psych2e-ch8",
+            "page": 275,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 889,
+              "section": "8.3",
+              "char_end": 2175,
+              "char_start": 1286,
+              "chunk_index": 3,
+              "content_hash": "05e8cf45bd52b3d4"
+            },
+            "component_ranks": {
+              "dense": 3,
+              "bm25": 1
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p272:c000",
+            "rank": 2,
+            "score": 0.030776515151515152,
+            "source_id": "psych2e-ch8",
+            "page": 272,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 982,
+              "section": "8.3",
+              "char_end": 982,
+              "char_start": 0,
+              "chunk_index": 0,
+              "content_hash": "73f96797928317ad"
+            },
+            "component_ranks": {
+              "dense": 6,
+              "bm25": 4
+            }
+          },
+          {
+            "id": "B:psych2e-ch8:p271:c001",
+            "rank": 3,
+            "score": 0.03009207275993712,
+            "source_id": "psych2e-ch8",
+            "page": 271,
+            "metadata": {
+              "chapter": 8,
+              "n_chars": 663,
+              "section": "8.3",
+              "char_end": 1341,
+              "char_start": 678,
+              "chunk_index": 1,
+              "content_hash": "eca331e0f26bacb2"
+            },
+            "component_ranks": {
+              "dense": 1,
+              "bm25": 13
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

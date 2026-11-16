@@ -1,0 +1,89 @@
+D01  answered searches=1 cites=2   5.6s  'Reflexes and instincts are innate, unlearned behaviors that organisms are born with and th'
+D02  answered searches=1 cites=3   5.0s  'During extinction, the conditioned response weakens and decreases when the conditioned sti'
+D03  answered searches=1 cites=2   4.4s  'The textbook says that in taste aversion an interval of several hours may pass between the'
+D04  answered searches=1 cites=2   3.0s  'It is called spontaneous recovery: the return of a previously extinguished conditioned res'
+D05  answered searches=2 cites=1   4.4s  'Not effectively. The textbook says higher-order (second-order) conditioning is possible, b'
+D06  answered searches=1 cites=1   4.6s  'In operant conditioning, "positive" and "negative" do not mean good and bad. Positive mean'
+D07  answered searches=1 cites=2   3.5s  'The seatbelt chime is negative reinforcement because the annoying beeping is an aversive s'
+D08  answered searches=1 cites=1   3.2s  'The variable ratio schedule produces behavior that is most resistant to extinction; it is '
+D09  answered searches=4 cites=3   9.8s  'The passages do not give explicit guidance on when to choose one schedule over the other. '
+D10  answered searches=1 cites=1   3.9s  'According to Bandura, four steps must be followed for modeling to lead to successful learn'
+D11  answered searches=1 cites=1   3.1s  'Memory is the set of processes used to encode, store, and retrieve information over differ'
+D12  answered searches=1 cites=1   3.5s  "Miller's classic 1956 review found people can retain about 5 to 9 items, which he called t"
+D13  answered searches=1 cites=2   4.7s  'A person with anterograde amnesia cannot remember new information, and many are unable to '
+D14  answered searches=1 cites=1   4.3s  'According to Ebbinghaus, an average person loses 50% of newly memorized information after '
+D15  answered searches=1 cites=1   4.5s  'Damage to the cerebellum prevents learning a conditioned eye-blink response: when research'
+D16  answered searches=1 cites=1   3.0s  'The fixed interval schedule. It yields a scallop-shaped response pattern, reflecting a sig'
+D17  answered searches=2 cites=2   7.4s  'The passages do not discuss tantrums specifically, but they explain the general principle.'
+D18  answered searches=1 cites=1   2.8s  'The left inferior prefrontal cortex showed much more activation on PET scans during the se'
+D19  answered searches=2 cites=2   6.5s  'Tying the area code to a relative in the same state is an example of elaborative rehearsal'
+D20  answered searches=1 cites=1   4.7s  'She could not remember whether she had handed back her temporary identification card (the '
+D21  answered searches=1 cites=1   3.6s  'In the Atkinson-Shiffrin model, which likens memory to computer information processing, in'
+D22  answered searches=1 cites=1   4.9s  'Regular aerobic exercise (anything that elevates your heart rate) promotes neurogenesis, t'
+D23  answered searches=1 cites=1   5.0s  'The introduction says our minds have a natural tendency to connect events that occur close'
+D24  answered searches=1 cites=3   3.5s  'According to the reward-schedule discussion, the quickest way to teach a new behavior is c'
+D25  answered searches=2 cites=3   4.9s  'According to the textbook, loggerhead sea turtle hatchlings are born knowing how to find t'
+DA1  abstain  searches=2 cites=0   5.0s  'The textbook passages do not cover whether or when Ivan Pavlov received a Nobel Prize, or '
+DA2  abstain  searches=2 cites=0   5.2s  "The textbook passages I retrieved do not cover Martin Seligman's learned helplessness expe"
+DA3  abstain  searches=2 cites=0   6.6s  "The textbook passages do not cover the brain changes in Alzheimer's disease that cause mem"
+DA4  abstain  searches=2 cites=0   4.1s  'The textbook passages do not cover whether older adults make more misattribution memory er'
+DA5  abstain  searches=2 cites=0   5.3s  'The textbook passages do not give a percentage lost after one week. They state that, per E'
+DA6  abstain  searches=2 cites=0   5.3s  'The textbook passages I retrieved do not cover the term Tulving used for the self-aware fe'
+{
+  "split": "dev",
+  "model": "claude-haiku-5-5",
+  "embedding_cost_usd": 8.8e-06,
+  "cases": 31,
+  "errors": [],
+  "tool_use": {
+    "n": 31,
+    "N": 31,
+    "rate": 1.0
+  },
+  "searches_per_run": {
+    "1": 20,
+    "2": 10,
+    "4": 1
+  },
+  "context_evidence_rate": {
+    "n": 22,
+    "N": 25,
+    "rate": 0.88
+  },
+  "context_missing": [
+    "D09",
+    "D17",
+    "D19"
+  ],
+  "cited_evidence_auto": {
+    "n": 22,
+    "N": 25,
+    "rate": 0.88
+  },
+  "answers_with_citation": {
+    "n": 25,
+    "N": 25,
+    "rate": 1.0
+  },
+  "abstention": {
+    "n": 6,
+    "N": 6,
+    "rate": 1.0
+  },
+  "abstain_answered": [],
+  "false_abstention": {
+    "n": 0,
+    "N": 25,
+    "rate": 0.0
+  },
+  "false_abstain_ids": [],
+  "median_s": 4.64,
+  "max_s": 9.76,
+  "tokens": {
+    "input": 98886,
+    "output": 10194,
+    "cache_write": 0,
+    "cache_read": 0
+  },
+  "cost_usd": 0.01499
+}
